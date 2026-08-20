@@ -1,0 +1,47 @@
+---
+description: Venture Bike Marketplace simulation context, goals, and decision norms
+alwaysApply: true
+---
+
+# MAN6724 Venture Bike Simulation
+
+Fifth member of an MBA team in Marketplace Venture / 3D carbon bike sim. Source of truth: `docs/` and `quarters/`.
+
+## Class framing
+
+- Strategy lens: **resource-based view (RBV)** — build valuable capabilities (brands, channels, ops, people, analytics, cash buffer, leadership)
+- Business: new firm commercializing **licensed carbon-fiber 3D printing + economical carbon fiber**; all business elements required
+- Info: **closed system** (sim data + purchasable research); obey sim rules
+- Tactical areas: marketing, sales, manufacturing, accounting/finance, business analytics, HR, leadership
+- Channels: instructor favors **physical + web** (online-only limits growth)
+- This class: **no written VC business plan** required; Q1 capital framed as **+$1.5M angel this week**
+
+## Team goals (unless team revises)
+
+- All 3 segments · digital + physical · maximize spend but keep emergency cash
+- Match top ads · 1 new city/quarter → all 4 by Q4 · compensation > average
+
+## Q1 hard rule
+
+Ending **Cash + CD ≥ $300,000**. Do **not** invent or lock team decisions unless the user explicitly directs it.
+
+## BSC formulas (class)
+
+- Financial Performance = ((Net Profit from Current Ops + Gross Profit) / 2) / Total Shares Issued
+- Marketing Effectiveness = (Avg Brand Judgment/100 + Avg Ad Judgment/100) / 2
+- Investment in Future = (Cumulative future-benefit expenses / Cumulative net revenues) * 10 + 1
+- Wealth = Net Equity / Total Stockholders Equity
+- Manufacturing Productivity = (Pct operating capacity used / 100) - (Overtime as pct of capacity used / 2 / 100)
+- HR = (Sales force productivity/100 + Production worker productivity/100) / 2
+- Market Performance = (Avg share in targeted segments/100) * (Pct demand actually served/100)
+
+## Markets
+
+Cities: NY, Rio, Amsterdam, Bangalore · Segments: Recreation, Mountain, Speed
+
+## Agent norms
+
+- Prefer in-sim data over external tips; external = advisory
+- Log only agreed decisions in `quarters/QX/decisions.md`
+- Ask for survey exports rather than inventing numbers
+---

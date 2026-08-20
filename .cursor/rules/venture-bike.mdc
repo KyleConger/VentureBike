@@ -21,6 +21,11 @@ Fifth member of an MBA team in Marketplace Venture / 3D carbon bike sim. Source 
 - All 3 segments · digital + physical · maximize spend but keep emergency cash
 - Match top ads · 1 new city/quarter → all 4 by Q4 · compensation > average
 
+## Locked Q1 choices (team)
+
+- Primary segment emphasis: **Recreation**
+- First physical city: **Amsterdam**
+
 ## Q1 hard rule
 
 Ending **Cash + CD ≥ $300,000**. Do **not** invent or lock team decisions unless the user explicitly directs it.
@@ -39,9 +44,14 @@ Ending **Cash + CD ≥ $300,000**. Do **not** invent or lock team decisions unle
 
 Cities: NY, Rio, Amsterdam, Bangalore · Segments: Recreation, Mountain, Speed
 
+## Market research priority
+
+Maximize **competitor (classmate) intelligence** to find **room for growth**. Q1: structure market + CI system from free survey; Q2+: buy competitor-facing reports first when cash allows. Capture data in `data/market-survey/` and `data/competitors/`.
+
 ## Agent norms
 
 - Prefer in-sim data over external tips; external = advisory
 - Log only agreed decisions in `quarters/QX/decisions.md`
 - Ask for survey exports rather than inventing numbers
+- Do not invent needs/WTP/potential scores
 ---

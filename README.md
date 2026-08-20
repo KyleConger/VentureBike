@@ -38,11 +38,13 @@ MBA team workspace for the Marketplace **Venture Strategy / 3D-printed carbon fi
 
 ## Immediate next steps (Q1)
 
-1. Ratify roles and company name  
-2. Dump market survey into `data/market-survey/`  
-3. Finalize city order and three brand designs  
-4. Enable web sales + schedule city #1 + production facility  
-5. Set cash emergency floor with Finance  
+1. Paste Workspace survey into `data/market-survey/` (needs → applications → WTP → potential)  
+2. Run competitor/growth-room analysis in `data/competitors/` + `quarters/Q1/market-research-moa.md`  
+3. Ratify roles and company name  
+4. Brand designs via means-end; city #1 + web + facility (team decisions)  
+5. Verify Cash + CD ≥ $300,000  
+
+**Research priority:** maximize competitor (classmate) insight to find room for growth.
 
 ## Note on external “winning guides”
 

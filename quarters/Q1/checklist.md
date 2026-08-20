@@ -47,32 +47,22 @@ See full formulas in `../../docs/05-class-framework-rbv-bsc.md`.
 
 ## Research packet for this quarter
 
+- `compensation-industry-avg-sales.md` — industry avg sales pay + improvement importance  
+- `compensation-industry-avg-production.md` — industry avg production pay + improvement importance  
+- `MarketingResearch.xlsx` — **core data tables** (Needs, Applications, Price_WTP, Market_Potential, Growth_Room, Competitor_CI)  
+- `market-research-insights.md` — **team decision brief** from the Excel data (includes Human call boxes)  
 - `q1-proven-approaches.md` — external/Q1 pattern brief (**advisory; no decisions**)  
+- `market-research-moa.md` — MOA worksheet (**competitor growth-room lens**)  
 - `decisions.md` — blank until team locks choices  
+- `../../data/market-survey/` — markdown mirrors / narrative  
+- `../../data/competitors/` — CI strategy docs  
 
-## Market survey capture (paste summaries)
+## Market research progress
 
-### Price willing to pay
-
-| Segment | WTP | Notes |
-|---------|-----|-------|
-| Recreation | | |
-| Mountain | | |
-| Speed | | |
-
-### 12-month potential demand by city
-
-| City | Recreation | Mountain | Speed | Total |
-|------|------------|----------|-------|-------|
-| New York | | | | |
-| Amsterdam | | | | |
-| Rio de Janeiro | | | | |
-| Bangalore | | | | |
-
-### Top needs (top 5–6 per segment)
-
-**Recreation:**  
-
-**Mountain:**  
-
-**Speed:**  
+- [x] Enter Workspace data in `MarketingResearch.xlsx` (yellow cells)  
+- [x] Export insights brief → `market-research-insights.md`  
+- [ ] Team debates **Human call** boxes; lock choices in `decisions.md`  
+- [ ] Draft **means-end** → `data/market-survey/05-means-end-hierarchy.md`  
+- [ ] Score **Growth_Room** vs classmates (optional)  
+- [ ] Fill **MOA worksheet** → `market-research-moa.md`  
+- [ ] List purchasable **competitor research** priorities (cash permitting)

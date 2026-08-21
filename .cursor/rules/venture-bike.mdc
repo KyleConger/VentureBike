@@ -23,8 +23,10 @@ Fifth member of an MBA team in Marketplace Venture / 3D carbon bike sim. Source 
 
 ## Locked Q1 choices (team)
 
-- Primary segment emphasis: **Recreation**
-- First physical city: **Amsterdam**
+- Primary segment emphasis: **Mountain**
+- First physical city: **Amsterdam** (only store in Q1)
+- Web sales center: **YES**
+- Fixed capacity: **3 printers** (Bangalore)
 
 ## Q1 hard rule
 
@@ -46,7 +48,7 @@ Cities: NY, Rio, Amsterdam, Bangalore · Segments: Recreation, Mountain, Speed
 
 ## Market research priority
 
-Maximize **competitor (classmate) intelligence** to find **room for growth**. Q1: structure market + CI system from free survey; Q2+: buy competitor-facing reports first when cash allows. Capture data in `data/market-survey/` and `data/competitors/`.
+Maximize **competitor (classmate) intelligence** to find **room for growth**. Q1: structure market + CI system from free survey; Q2+: buy competitor-facing reports first when cash allows. Canonical data file: `quarters/Q1/Q1Data.xlsx`. Also use `data/market-survey/` and `data/competitors/` for narrative.
 
 ## Agent norms
 

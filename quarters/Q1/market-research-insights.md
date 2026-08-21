@@ -1,6 +1,6 @@
 # Q1 Market Research Insights — Team Decision Brief
 
-**Source:** `MarketingResearch.xlsx` (Workspace survey data entered by the team)  
+**Source:** `Q1Data.xlsx` (Workspace survey data entered by the team)  
 **Date generated:** 2026-08-20  
 **Status:** Analytical brief for discussion — **does not lock decisions**  
 **Research lens:** Find room for growth vs classmates; use end-user data to anticipate where peers will crowd or mis-design
@@ -29,14 +29,14 @@
 
 Early actual demand will almost certainly be **well below** potential ÷ 4.
 
-### Locked by team (2026-08-20)
+## Locked by team (2026-08-20)
 
 | Decision | Choice |
 |----------|--------|
-| Primary segment (week 1 / Q1 emphasis) | **Recreation** |
+| Primary segment | **Mountain** |
 | First physical city | **Amsterdam** |
 
-See `decisions.md`. Remaining Human call items below stay open.
+See `decisions.md`. *(Earlier Rec-primary lock superseded.)* Remaining Human call items below stay open where not resolved.
 
 ---
 
@@ -65,9 +65,9 @@ See `decisions.md`. Remaining Human call items below stay open.
 - Classmates chasing “biggest number” will likely **crowd NYC and/or Amsterdam Recreation**.  
 - Softest absolute Speed pool: **Rio**. Softest overall city: **Bangalore** (may still be smart strategically for cost/sequencing).
 
-> **Human call — first city & sequencing** — **PARTIALLY RESOLVED**  
-> **Locked:** first city = **Amsterdam**; week-1 primary segment = **Recreation**.  
-> Still open: order of NYC / Rio / Bangalore for Q2–Q4; whether Mountain & Speed brands launch in Q1 alongside Rec.
+> **Human call — first city & sequencing** — **RESOLVED (city) / OPEN (sequence)**  
+> **Locked:** first city = **Amsterdam**; primary segment = **Mountain**.  
+> Still open: order of NYC / Rio / Bangalore for Q2–Q4; Rec/Speed brand timing; web + printer count.
 
 ---
 
@@ -277,8 +277,8 @@ Use this as a working order. Each item needs a **human call**; data above is the
 |---|----------|----------------------|------------------------|
 | 1 | Company name / roles | — | Leadership fit, ownership of Marketing / Finance / Ops / Sales / Analytics |
 | 2 | Corporate goals & RBV strategy language | Segment structure, BSC formulas | Which capabilities we claim as advantage (design, channels, analytics, people) |
-| 3 | Primary vs secondary emphasis (still in all 3?) | Potentials + WTP + need clarity | **Primary = Recreation LOCKED**; confirm Mountain/Speed brand timing |
-| 4 | Three brand designs (means-end → features) | Needs ≥110 / &lt;100; applications | Cost vs judgment; **prioritize Rec brand** |
+| 3 | Primary vs secondary emphasis (still in all 3?) | Potentials + WTP + need clarity | **Primary = Mountain LOCKED**; Rec/Speed as secondary brands |
+| 4 | Three brand designs (means-end → features) | Needs ≥110 / &lt;100; applications | Cost vs judgment; **prioritize Mountain brand** |
 | 5 | First city | Potentials by city | **Amsterdam LOCKED**; sequence other three |
 | 6 | Web sales center yes/no (and scope) | Web needs very high | Cash, complexity, Q2 staffing |
 | 7 | Production facility size | Potentials (cautious) | Lead times, overtime philosophy, Cash+CD ≥ $300k |
@@ -312,4 +312,4 @@ Fill those as the sim unlocks them; append a dated “Update” section below ra
 
 ---
 
-*Generated for MAN6724 Venture Bike team use. Reconcile any discrepancy against the live Workspace and `MarketingResearch.xlsx` as source of truth.*
+*Generated for MAN6724 Venture Bike team use. Reconcile any discrepancy against the live Workspace and `Q1Data.xlsx` as source of truth.*

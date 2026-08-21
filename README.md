@@ -21,7 +21,8 @@ MBA team workspace for the Marketplace **Venture Strategy / 3D-printed carbon fi
 | `docs/03-balanced-scorecard.md` | BSC decision checklist |
 | `docs/04-working-strategy-draft.md` | Starting strategy pending survey |
 | `docs/05-class-framework-rbv-bsc.md` | RBV lens, chronology, BSC formulas |
-| `quarters/Q1/q1-proven-approaches.md` | Q1 research brief (no locked decisions) |
+| `quarters/Q1/Q1Data.xlsx` | **Canonical Q1 Excel** (survey, sales channel, compensation) |
+| `quarters/Q1/q1-proven-approaches.md` | Q1 research brief (advisory) |
 | `quarters/QX/` | Per-quarter checklists & locked decisions |
 | `templates/` | Brand, ads, compensation, pro forma |
 | `data/` | Survey exports, financials, competitor notes |
@@ -38,13 +39,13 @@ MBA team workspace for the Marketplace **Venture Strategy / 3D-printed carbon fi
 
 ## Immediate next steps (Q1)
 
-1. Paste Workspace survey into `data/market-survey/` (needs → applications → WTP → potential)  
-2. Run competitor/growth-room analysis in `data/competitors/` + `quarters/Q1/market-research-moa.md`  
-3. Ratify roles and company name  
-4. Brand designs via means-end; city #1 + web + facility (team decisions)  
-5. Verify Cash + CD ≥ $300,000  
+1. Use `quarters/Q1/Q1Data.xlsx` as the single data workbook  
+2. Paste/update Workspace survey there; run competitor/growth-room analysis  
+3. Ratify roles and company name; lock remaining Q1 choices in `decisions.md`  
+4. Brand designs via means-end; confirm web yes/no + facility vs Cash+CD ≥ $300k  
 
-**Research priority:** maximize competitor (classmate) insight to find room for growth.
+**Research priority:** maximize competitor (classmate) insight to find room for growth.  
+**Locked so far:** Recreation primary · Amsterdam first store.
 
 ## Note on external “winning guides”
 

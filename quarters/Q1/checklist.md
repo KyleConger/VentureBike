@@ -47,21 +47,25 @@ See full formulas in `../../docs/05-class-framework-rbv-bsc.md`.
 
 ## Research packet for this quarter
 
+- `decision-making-thoughts.md` — working recommendations (AMS+web+3, Mountain primary) — confirm before locking  
+- `Q1Data.xlsx` — **canonical Q1 Excel** (Needs, Applications, Price_WTP, Market_Potential, Sales_Channel, Stores_Costs, Manufacturing, Needs_Ranked, Growth_Room, Competitor_CI, Comp_Industry)  
+- `manufacturing-capacity.md` — Bangalore fab, printer table, store/web costs, capacity cash review  
+- `sales-channel.md` — shop vs web strategy brief (links to market potential)  
 - `compensation-industry-avg-sales.md` — industry avg sales pay + improvement importance  
 - `compensation-industry-avg-production.md` — industry avg production pay + improvement importance  
-- `MarketingResearch.xlsx` — **core data tables** (Needs, Applications, Price_WTP, Market_Potential, Growth_Room, Competitor_CI)  
-- `market-research-insights.md` — **team decision brief** from the Excel data (includes Human call boxes)  
+- `market-research-insights.md` — **team decision brief** (includes Human call boxes)  
 - `q1-proven-approaches.md` — external/Q1 pattern brief (**advisory; no decisions**)  
 - `market-research-moa.md` — MOA worksheet (**competitor growth-room lens**)  
-- `decisions.md` — blank until team locks choices  
+- `decisions.md` — locked choices only after team agreement  
 - `../../data/market-survey/` — markdown mirrors / narrative  
 - `../../data/competitors/` — CI strategy docs  
 
 ## Market research progress
 
-- [x] Enter Workspace data in `MarketingResearch.xlsx` (yellow cells)  
+- [x] Core survey data in `Q1Data.xlsx`  
+- [x] Sales channel brief + **Sales_Channel** sheet (tied to Market_Potential)  
 - [x] Export insights brief → `market-research-insights.md`  
-- [ ] Team debates **Human call** boxes; lock choices in `decisions.md`  
+- [ ] Team debates **Human call** boxes (esp. **web in Q1**); lock in `decisions.md`  
 - [ ] Draft **means-end** → `data/market-survey/05-means-end-hierarchy.md`  
 - [ ] Score **Growth_Room** vs classmates (optional)  
 - [ ] Fill **MOA worksheet** → `market-research-moa.md`  

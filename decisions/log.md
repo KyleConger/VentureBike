@@ -18,6 +18,13 @@ Append-only record of locked decisions across quarters.
 | 2026-08-21 | Q1 | Web sales center | **YES** | Digital + physical; Needs web+human; with 3 printers | Team |
 | 2026-08-21 | Q1 | Fixed capacity | **3 printers** ($720k) | 24/day · 1,560/qtr for AMS + web | Team |
 | 2026-08-21 | Q1 | Second Q1 store | **No** | One physical test + web; cash/learning/cadence | Team / AI advice |
+| 2026-08-23 | Q1 | Company name | **WeBike** | Corporate identity locked | Team |
+| 2026-08-23 | Q1 | Team norms + majority vote | Ratified | Governance locked | Team |
+| 2026-08-23 | Q1 | Segment priority | Mtn 1 · Speed 2 · Rec 3 | Form submission | Team |
+| 2026-08-23 | Q1 | Strategy directions | High-margin segments; largest geos; build/defend; lead; first; profit margin leader | Form submission | Team |
+| 2026-08-23 | Q1 | Channel costs confirmed | AMS store $136k · Web $150k | Form submission | Team |
+| 2026-08-23 | Q1 | Capacity schedule | +24/day (Q1 avail 0 → Q2 avail 24) | 3 printers; lead time | Team |
+| 2026-08-23 | Q1 | Equity / CD | $1.5M (15k×$100); CD $0 | Form submission | Team |
 | 2026-08-20 | Q1 | Industry avg sales compensation | $19,310 total (see compensation-industry-avg-sales.md) | Reference for Q2; pay above avg | Team / Sim |
 | 2026-08-20 | Q1 | Industry avg production compensation | $16,043 total (see compensation-industry-avg-production.md) | Reference for Q2; pay above avg | Team / Sim |
 | | Q1 | Company name | _(open)_ | | |

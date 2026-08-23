@@ -1,72 +1,50 @@
-# Quarter 1 — Checklist
+# Quarter 1 — Checklist (WeBike)
 
 **Goal:** Set up the company.  
-**Rule:** Do not lock group choices in repo files until the team directs it. Use `decisions.md` only after agreement.  
-**Hard constraint:** Ending **Cash + Certificate of Deposit ≥ $300,000**.
+**Hard constraint:** Ending **Cash + CD ≥ $300,000** (Q1: CD = $0 → Cash ≥ $300k).
 
 ## Required Q1 decisions (simulation)
 
-- [ ] Name your company
-- [ ] Organize your team; decide corporate responsibilities
-- [ ] Review the market research → capture in `../../data/market-survey/`
-- [ ] Establish corporate goals and strategic direction
-- [ ] Design at least one brand for each target segment
-- [ ] Open a bike store and/or web sales center for future sales
-- [ ] Set up a production facility
-- [ ] Verify **Cash + CD ≥ $300,000** after all Q1 spend
+- [x] Name your company → **WeBike**
+- [x] Organize team / norms / majority vote
+- [x] Review market research → `Q1Data.xlsx` / `data/market-survey/`
+- [x] Establish corporate goals and strategic direction
+- [ ] Design at least one brand for each target segment (Mtn → Speed → Rec)
+- [x] Open bike store and/or web → **Amsterdam ($136k) + Web ($150k)**
+- [x] Set up production facility → Bangalore **+24**/day for Q2 (Q1 available = 0)
+- [ ] Verify **Cash ≥ $300,000** after all Q1 spend (CD = $0)
 
-## Class / team overlays (not automatic sim prompts)
+## Locked infrastructure snapshot
 
-- [ ] Frame strategy with **resource-based view** (what capabilities are we building?)
-- [ ] Assign coverage across tactical areas: marketing, sales, manufacturing, accounting/finance, business analytics, HR, leadership
-- [ ] Discuss physical + digital channel approach (instructor: online-only limits growth)
-- [ ] Confirm segment posture consistent with personal goals (all three segments)
-- [ ] Note city cadence for later: 1 new city per quarter → all four by Q4 (only city #1 in Q1)
-- [ ] Note Q2+ commitments: compensation > average; match top advertisements
-- [ ] Capital this week: **+$1,500,000 angel** (class framing)
+| Item | Value |
+|------|-------|
+| Company | WeBike |
+| Segments | 1 Mountain · 2 Speed · 3 Recreation |
+| Store | Amsterdam · $136,000 |
+| Web | World Market · $150,000 |
+| Capacity | Q1: 0 · Q2: 24 units/day (3 printers / $720k) |
+| Equity | $1,500,000 (15,000 × $100) |
+| CD | $0 |
 
-## RBV quick check (after draft decisions, before submit)
+## Strategy directions (locked)
 
-| Resource being built | Q1 action that builds it | Notes |
-|----------------------|--------------------------|-------|
-| Brand / product IP | Segment-fit designs | Drives Brand Judgment |
-| Channel assets | Store and/or web | Physical + web preferred by instructor/team goals |
-| Operations base | Production facility | Watch capacity lead times vs cash |
-| Financial buffer | Cash + CD ≥ $300k | May set higher internal emergency floor |
-| Organization | Roles & goals | Leadership / integration |
-| Analytics habit | Survey review (+ optional paid research) | Closed-system advantage |
+- Smaller, high-margin segments  
+- Largest geographic markets (even if expensive)  
+- Build & defend · take/keep lead · first to market  
+- Profit margin leader  
 
-## BSC reminder (Q1 leverage)
+## Research packet
 
-See full formulas in `../../docs/05-class-framework-rbv-bsc.md`.
+- `decisions.md` — **locked Q1 decisions**
+- `decision-making-thoughts.md` — implications / watch-outs
+- `Q1Data.xlsx` — survey + channel + manufacturing tables
+- `manufacturing-capacity.md` · `sales-channel.md` · `market-research-insights.md`
+- Compensation industry avg files (sales & production)
+- `docs/01-team-goals-and-roles.md` — norms & roles
 
-- **Marketing Effectiveness** ← Brand Judgment (design now); Ad Judgment starts Q2  
-- **Investment in Future** ← facility / future-oriented spend  
-- **Financial / Wealth / risk path** ← Cash+CD discipline  
-- **Market Performance** ← targets + ability to serve demand later  
+## Still open before / into Q2
 
-## Research packet for this quarter
-
-- `decision-making-thoughts.md` — working recommendations (AMS+web+3, Mountain primary) — confirm before locking  
-- `Q1Data.xlsx` — **canonical Q1 Excel** (Needs, Applications, Price_WTP, Market_Potential, Sales_Channel, Stores_Costs, Manufacturing, Needs_Ranked, Growth_Room, Competitor_CI, Comp_Industry)  
-- `manufacturing-capacity.md` — Bangalore fab, printer table, store/web costs, capacity cash review  
-- `sales-channel.md` — shop vs web strategy brief (links to market potential)  
-- `compensation-industry-avg-sales.md` — industry avg sales pay + improvement importance  
-- `compensation-industry-avg-production.md` — industry avg production pay + improvement importance  
-- `market-research-insights.md` — **team decision brief** (includes Human call boxes)  
-- `q1-proven-approaches.md` — external/Q1 pattern brief (**advisory; no decisions**)  
-- `market-research-moa.md` — MOA worksheet (**competitor growth-room lens**)  
-- `decisions.md` — locked choices only after team agreement  
-- `../../data/market-survey/` — markdown mirrors / narrative  
-- `../../data/competitors/` — CI strategy docs  
-
-## Market research progress
-
-- [x] Core survey data in `Q1Data.xlsx`  
-- [x] Sales channel brief + **Sales_Channel** sheet (tied to Market_Potential)  
-- [x] Export insights brief → `market-research-insights.md`  
-- [ ] Team debates **Human call** boxes (esp. **web in Q1**); lock in `decisions.md`  
-- [ ] Draft **means-end** → `data/market-survey/05-means-end-hierarchy.md`  
-- [ ] Score **Growth_Room** vs classmates (optional)  
-- [ ] Fill **MOA worksheet** → `market-research-moa.md`  
-- [ ] List purchasable **competitor research** priorities (cash permitting)
+- [ ] Brand designs (priority Mountain, then Speed, Rec)
+- [ ] Q2 city #2 (strategy favors large geos → **NYC** candidate)
+- [ ] Prices, ads, hiring (comp > avg), operating capacity ≤ 24/day
+- [ ] Confirm cash floor after final Q1 submit

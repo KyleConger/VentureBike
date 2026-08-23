@@ -1,47 +1,61 @@
-# Team Goals, Roles & Norms
+# Team Goals, Roles & Norms — WeBike
+
+## Company
+
+- **Name:** **WeBike**
 
 ## Personal / team performance goals
 
 | Goal | Implication |
 |------|-------------|
-| All 3 segments | Design ≥1 brand per segment early (Q1–Q2); do not “wait and see” on a segment |
-| Digital + physical | Open web sales center **and** physical outlets |
-| Maximize spend, keep emergency cash | Deploy capital into capacity, ads, people, R&D; **sim floor: Cash + CD ≥ $300,000**; team may set a higher emergency cushion |
-| Match top advertisements | Benchmark competitor ad quality each quarter; refresh creatives & media to stay at/above peer set |
-| 1 new city / quarter → all by Q4 | Q1 city 1, Q2 city 2, Q3 city 3, Q4 city 4 (no skipping) |
-| Comp > average | Always set pay/benefits above industry average to protect HR score & productivity |
+| All 3 segments (priority Mtn → Speed → Rec) | Design ≥1 brand per segment; Mountain is tip of spear |
+| Digital + physical | Web sales center **and** physical outlets — both opened in Q1 plan |
+| Maximize spend, keep emergency cash | Deploy capital; **Cash + CD ≥ $300,000** (Q1: CD = $0 → cash floor $300k) |
+| Match top advertisements | Benchmark competitor ad quality each quarter |
+| 1 new city / quarter → all by Q4 | Q1 Amsterdam; Q2–Q4 remaining (strategy favors large/expensive geos) |
+| Comp > average | Always set pay/benefits above industry average |
 
-## Proposed role map (edit names)
+## Locked strategy directions (Q1 form)
+
+- Smaller, high-margin segments  
+- Largest geographic markets (even if more expensive)  
+- Build a market position and defend it  
+- Take the lead and keep it  
+- Be first to market  
+- Be the profit margin leader  
+
+## Decision-making process
+
+**Majority vote** on all important decisions.
+
+## Team norms (ratified)
+
+1. Attendance mandatory unless advance notice of conflict.  
+2. Meetings start and end on time.  
+3. Come prepared (assignments done).  
+4. Brainstorm first; critique only after all ideas are out.  
+5. Everyone gets a chance to participate.  
+6. Active listening; no interrupting.  
+7. Minimize outside interruptions (visits, calls).  
+8. Maintain meeting confidentiality.  
+9. Open to giving and receiving honest feedback.  
+
+## Role map (edit names)
 
 | Tactical area | Owner | Primary sim decisions |
 |---------------|--------|------------------------|
 | Leadership | TBD | Goals, RBV priorities, BSC tradeoffs, integration |
-| Marketing | MBA Marketing | Segments, brands, ads, SEM, pricing vs WTP |
-| Sales | Startups / GTM | Outlets, web center, sales staffing, demand serving |
-| Manufacturing | Consulting / Ops | Facility, printers, production schedule, productivity |
-| Accounting & Finance | MBA Finance | Cash+CD floor, pro formas, liquidity, later raise |
-| Business Analytics | Shared / AI | Survey, purchased research, forecasts, competitor tracking |
-| HR | Real Estate ops or shared | Compensation (> average), productivity |
+| Marketing | TBD | Segments, brands, ads, SEM, pricing vs WTP |
+| Sales | TBD | Outlets, web center, sales staffing, demand serving |
+| Manufacturing | TBD | Printers, production schedule, productivity |
+| Accounting & Finance | TBD | Cash floor, pro formas, liquidity |
+| Business Analytics | TBD / AI | Survey, research buys, forecasts, CI |
+| HR | TBD | Compensation (> average), productivity |
 | **AI support (5th)** | Cursor agent | Research briefs, logs, checklists — **no unilateral decisions** |
 
-## Team norms (draft — ratify in Q1)
+## Agent / repo norms
 
-1. **Survey first**: No major brand/price/city decision without citing market research numbers.
-2. **One decision owner, team challenge**: Owner proposes; others stress-test against goals/BSC.
-3. **Cash floor rule**: Ending Cash + CD must be ≥ **$300,000**. Finance veto if a plan breaches $300k or any higher team cushion without an explicit recovery path.
-4. **Ad parity rule**: Marketing compares our ad scores to leaders every quarter before locking media.
-5. **City cadence locked**: Deviate from 1-city/quarter only with unanimous vote + written rationale.
-6. **Log everything**: Final choices go in `quarters/QX/decisions.md` and `decisions/log.md`.
-7. **After each quarter**: 30-minute after-action — what moved BSC, what we fix next.
-
-## Company naming (open)
-
-Shortlist ideas for team vote (carbon + motion + global feel):
-
-- CarbonShift
-- PrintPeak Cycles
-- FiberForge Bikes
-- ApexWeave
-- LitePath
-
-Record final name in `quarters/Q1/decisions.md`.
+1. Survey first for brand/price/city calls.  
+2. Log finals in `quarters/QX/decisions.md` and `decisions/log.md`.  
+3. Do not invent sim numbers.  
+4. After each quarter: short after-action on BSC movers.

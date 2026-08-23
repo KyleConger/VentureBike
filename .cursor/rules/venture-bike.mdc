@@ -3,7 +3,7 @@ description: Venture Bike Marketplace simulation context, goals, and decision no
 alwaysApply: true
 ---
 
-# MAN6724 Venture Bike Simulation
+# MAN6724 Venture Bike Simulation — WeBike
 
 Fifth member of an MBA team in Marketplace Venture / 3D carbon bike sim. Source of truth: `docs/` and `quarters/`.
 
@@ -16,21 +16,33 @@ Fifth member of an MBA team in Marketplace Venture / 3D carbon bike sim. Source 
 - Channels: instructor favors **physical + web** (online-only limits growth)
 - This class: **no written VC business plan** required; Q1 capital framed as **+$1.5M angel this week**
 
+## Company & team
+
+- **Company:** WeBike
+- Decisions by **majority vote**; ratified meeting norms in `docs/01-team-goals-and-roles.md` and `quarters/Q1/decisions.md`
+
 ## Team goals (unless team revises)
 
-- All 3 segments · digital + physical · maximize spend but keep emergency cash
+- Segments priority: **Mountain → Speed → Recreation**
+- Digital + physical · maximize spend but keep emergency cash
 - Match top ads · 1 new city/quarter → all 4 by Q4 · compensation > average
 
-## Locked Q1 choices (team)
+## Locked strategy directions
 
-- Primary segment emphasis: **Mountain**
-- First physical city: **Amsterdam** (only store in Q1)
-- Web sales center: **YES**
-- Fixed capacity: **3 printers** (Bangalore)
+- Smaller, high-margin segments · largest geos (even if expensive)
+- Build & defend position · take/keep the lead · first to market
+- Profit margin leader *(intent — verify with COGS when available)*
+
+## Locked Q1 infrastructure
+
+- Store: **Amsterdam** ($136,000) — only Q1 store
+- Web center: **World Market** ($150,000)
+- Fixed capacity: **+24 units/day** (3 printers) online **next quarter**; Q1 available = 0
+- Equity: 15,000 shares @ $100 = **$1,500,000**; **CD = $0** this quarter
 
 ## Q1 hard rule
 
-Ending **Cash + CD ≥ $300,000**. Do **not** invent or lock team decisions unless the user explicitly directs it.
+Ending **Cash + CD ≥ $300,000** (with CD $0 → Cash ≥ $300k). Do **not** invent or lock team decisions unless the user explicitly directs it.
 
 ## BSC formulas (class)
 
@@ -48,7 +60,7 @@ Cities: NY, Rio, Amsterdam, Bangalore · Segments: Recreation, Mountain, Speed
 
 ## Market research priority
 
-Maximize **competitor (classmate) intelligence** to find **room for growth**. Q1: structure market + CI system from free survey; Q2+: buy competitor-facing reports first when cash allows. Canonical data file: `quarters/Q1/Q1Data.xlsx`. Also use `data/market-survey/` and `data/competitors/` for narrative.
+Maximize **competitor (classmate) intelligence** to find **room for growth**. Canonical data: `quarters/Q1/Q1Data.xlsx`. Also `data/market-survey/` and `data/competitors/`.
 
 ## Agent norms
 

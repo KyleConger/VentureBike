@@ -112,10 +112,26 @@ Capacity comes online for **Q2** test market (lead time).
 
 ---
 
-## Brands (still open)
+## Brands
 
-### Mountain — Brand: _(undecided)_ — **design priority #1**
-- Features: _(map to Mountain ≥110 needs)_
+### Mountain — Brand: _(name undecided)_ — **design priority #1** (build largely set)
+
+| Component | Selection |
+|-----------|-----------|
+| Bike type | Rugged |
+| Frame | Rugged agile (rough terrain) |
+| Carbon | Standard |
+| Tires | Mountain – high grip |
+| Brakes | Standard disc |
+| Handlebars | Basic straight |
+| Gears | 24-speed (3×8) |
+| Seat | Polymer gel all-purpose |
+| Suspension | Front |
+| Decals | **Colorful thin brushstrokes** |
+| Reflectors | None |
+| Lights | None |
+
+**Need coverage:** terrain / incline / impact / stopping / shifting = strong. **Style/color** addressed via decals. Visibility/safety signaling intentionally light (no reflectors) to protect rugged look. Still open: brand name.
 
 ### Speed — Brand: _(undecided)_ — **design priority #2**
 - Features:

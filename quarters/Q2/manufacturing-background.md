@@ -1,7 +1,8 @@
 # Q2 Manufacturing Background — WeBike
 
 **Source:** Simulation lecture / Workspace (Lean Manufacturing, Operating Capacity, Overtime, Fixed Capacity)  
-**Filed:** 2026-08-27 · Entering test market (Q2)
+**Filed:** 2026-08-27 · Entering test market (Q2)  
+**Status:** OC **LOCKED = 20**/day · OT **LOCKED = 0** · worker productivity **85%** (from production compensation).
 
 ---
 
@@ -51,15 +52,17 @@
 | Fixed capacity (previous Q) | 0 | 0 |
 | Operating capacity (previous Q) | 0 | 0 |
 | Fixed capacity | **24** | **1,560** |
-| Operating capacity | *decision* | day × 65 |
-| Effective OC after productivity | sched × 70% | |
+| Operating capacity | **20 LOCKED** | **1,300** |
+| Effective OC after productivity | 20 × 85% = **~17**/day | **~1,105**/qtr |
 | Effective OC needed for demand | from Demand_Forecast | |
-| Projected worker productivity | **70%** | |
-| New direct labor $/unit OC | from cost curve | |
-| New overhead $/unit OC | from cost curve | |
+| Projected worker productivity | **85% LOCKED** | |
+| New direct labor $/unit OC | ~**$110** at OC 20 (curve) | |
+| New overhead $/unit OC | ~**$48** at OC 20 (curve) | |
 | Expense to change OC | Workspace | |
+| Max overtime | **0 h LOCKED** | |
 
-**Changeable:** daily operating capacity (≤ 24). See `Q2Data.xlsx` → Manufacturing · chart `assets/operating-capacity-costs-curve.png`.
+**Changeable (were):** daily OC / OT — now locked for Q2. See `Q2Data.xlsx` → Manufacturing · chart `assets/operating-capacity-costs-curve.png`.  
+Demand ceiling without OT at this lock ≈ **1,130** units/qtr (`20/1.15 × 65`).
 
 ### Unit cost vs OC (Workspace curve)
 

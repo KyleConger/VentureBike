@@ -8,7 +8,7 @@
 | CD | $0 |
 | Cash+CD vs $300k floor | OK |
 | Capacity online | **24 units/day** |
-| Channels live | Amsterdam + Web |
+| Channels live | Amsterdam + Web; **Rio scheduled** (live next Q) |
 | Q2 equity (auto) | **+$500,000** |
 
 Detail: `opening-position.md` · `q1-financials.md` · `manufacturing-background.md`
@@ -17,13 +17,13 @@ Detail: `opening-position.md` · `q1-financials.md` · `manufacturing-background
 
 - [ ] Confirm $500,000 stock sale
 - [ ] Hire production workers and sales & service personnel — `sales-channel-background.md` · `Q2Data.xlsx` → Sales_Ops (≤7/city tip; ≥1 service)
-- [ ] Establish employee compensation (**> industry average**) — `compensation-background.md` · interactive planner in `Q2Data.xlsx` → Comp_Industry
+- [x] Establish employee compensation (**> industry average**) — **Sales LOCKED** ($24,425 · 85%); **Production LOCKED** ($20,757 · 85%) — Comp_Industry
 - [ ] Establish brand price and priority (Mountain #1)
-- [ ] Design ads; place traditional + web media (**match top ads**) — see `advertising-background.md` (≥2 ads tip)
+- [x] Design ads — **HikeBike1 web LOCKED** ($1,000/qtr) + **World Market inserts LOCKED** (Health 1 · Biking 12 · Sport 2 · News 1 = $89k); 2nd ad still open — `advertising-background.md`
 - [ ] Launch organic SEM — `seo-internet-marketing-background.md` · `Q2Data.xlsx` → Web_SEO
-- [ ] Schedule production (operating ≤ fixed **24**/day) — Manufacturing **B39** + OT **B53**; optimize in `Production_Sim`
+- [x] Schedule production — **LOCKED** OC **20**/day · OT **0** — Manufacturing **B39** / **B53**
 - [ ] Purchase market research (competitor-first bias)
-- [ ] Schedule opening of **city #2** (strategy bias: large geo → NYC candidate) — Sales_Ops
+- [x] Schedule opening of **city #2** — **Rio de Janeiro LOCKED** (setup $90k this Q; live next Q) — Sales_Ops / Stores_Costs
 - [ ] Prepare pro forma financial projections
 - [ ] Verify ending **Cash + CD ≥ $300,000**
 - [ ] Web productivity tactics + budgets (World web LIVE) — `web-productivity-background.md` · `Q2Data.xlsx` → Web_Productivity

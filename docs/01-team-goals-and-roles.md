@@ -12,7 +12,7 @@
 | Digital + physical | Web sales center **and** physical outlets — both opened in Q1 plan |
 | Maximize spend, keep emergency cash | Deploy capital; **Cash + CD ≥ $300,000** (Q1: CD = $0 → cash floor $300k) |
 | Match top advertisements | Benchmark competitor ad quality each quarter |
-| 1 new city / quarter → all by Q4 | Q1 Amsterdam; Q2–Q4 remaining (strategy favors large/expensive geos) |
+| 1 new city / quarter → all by Q4 | Q1 Amsterdam; Q2 **Rio** (locked); Q3–Q4 NYC + Bangalore |
 | Comp > average | Always set pay/benefits above industry average |
 
 ## Locked strategy directions (Q1 form)

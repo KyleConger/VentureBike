@@ -93,7 +93,7 @@ Practical compromise used by high-performing all-segment teams:
 | Cost-first | Bangalore first | Lower open/op costs |
 | Hybrid | High-demand #1, then next-best | Balance share vs cost |
 
-**Team:** 1 new city/quarter → all 4 by Q4. WeBike Q1 = **Amsterdam**; strategy bias for city #2 = **large geo (NYC candidate)**.  
+**Team:** 1 new city/quarter → all 4 by Q4. WeBike Q1 = **Amsterdam**; Q2 city #2 = **Rio de Janeiro** (locked; setup $90k → live next Q). Remaining: NYC, Bangalore.  
 Largest markets = largest demand **and** largest peer crowding.
 
 ---

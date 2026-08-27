@@ -1,8 +1,34 @@
 # Compensation & Productivity — Background (Q2 Lecture)
 
 **Source:** Marketplace Workspace (sales force compensation; same productivity logic for production).  
-**Status:** Background + planning framework — **packages not locked**. Team will use **interactive planning** to find pay vs productivity goals.  
+**Status:** Sales force **and** production packages **LOCKED** (Q2).  
 **Related:** `Q2Data.xlsx` → **Comp_Industry** · Q1 baselines in `../Q1/compensation-industry-avg-sales.md` and `compensation-industry-avg-production.md` · team goal **pay > average**.
+
+## Locked — Q2 Sales Force (World Market / sales people)
+
+| Component | Our setting | Cost | Industry |
+|-----------|-------------|-----:|----------|
+| Annual salary | **$19,000** | $19,000 | $17,000 |
+| Health benefits | **Full coverage** | $4,180 | Minimum $1,700 |
+| Vacation | **2 weeks** | $1,055 | 1 week $440 |
+| Pension | **1%** | $190 | 1% $170 |
+| **Total / year** | | **$24,425** | **$19,310** |
+| Projected productivity | | **85%** | ~70% norm |
+
+Premium vs industry: **+$5,115 (~+26.5%)**. Applies to sales personnel including World Market web staff (Sales_Ops annual comp = $24,425).
+
+## Locked — Q2 Production Workers (World Market)
+
+| Component | Our setting | Cost | Industry |
+|-----------|-------------|-----:|----------|
+| Annual salary | **$16,800** | $16,800 | $14,000 |
+| Health benefits | **Expanded coverage** | $2,520 | Minimum $1,400 |
+| Vacation | **2 weeks** | $933 | 1 week $363 |
+| Pension | **3%** | $504 | 2% $280 |
+| **Total / year** | | **$20,757** | **$16,043** |
+| Projected productivity | | **85%** | ~70% norm |
+
+Premium vs industry: **+$4,714 (~+29.4%)**. Syncs to Manufacturing worker productivity (Manufacturing!B30 = 85%).
 
 ## Philosophy
 
@@ -81,25 +107,32 @@ Priority for dollars (early): **Salary → Health → Vacation → Pension**.
 ## Production workers
 
 - Separate industry package (Q1 snapshot): Salary $14,000 · Health Minimum $1,400 · Vacation 1 wk $363 · Pension 2% $280 · **Total $16,043**. Importance order same (87 / 84 / 72 / 70).  
-- Production health/vacation **tier costs may differ** from sales — confirm in Workspace and paste into `Comp_Industry` if not identical.  
-- Productivity estimate starts at **~70%**; feeds Manufacturing operating-capacity pad.
+- Q2 Workspace costs used in lock: Expanded health **$2,520** · 2 weeks vacation **$933** (differ from sales menus).  
+- Productivity estimate starts at **~70%**; locked Q2 estimate **85%** feeds Manufacturing operating-capacity pad.
 
 ## Interactive planning approach (team method)
 
 1. Lock a **productivity target** (e.g. 75%, 80%) as a performance goal hypothesis.  
 2. Build packages that clear industry total **and** weight spend to high-importance levers (salary first early).  
 3. Compare **$/productivity point** across scenarios in `Comp_Industry`.  
-4. Stress cash: headcount × package vs Cash+CD ≥ $300k and other Q2 spends.  
-5. Revisit after classmates’ packages appear (Q3 industry averages).
+4. Use **Importance-Weighted Value Index** — default weights Salary **87** · Health **84** · Vacation **72** · Pension **70**:  
+   - **OUR Planning Weights** (yellow `F68:F71`) are editable; Score mode `B73` = `Our` or `Industry`  
+   - Value Points = max(0, uplift % vs industry) × Active Importance  
+   - Package Value Index = Σ points / Active total × 100  
+   - Allocate “extra $ above industry” by active weight share  
+   - **History tables + charts** log Our/Industry weights and Value Index / productivity by quarter (Q1–Q6)  
+5. Stress cash: headcount × package vs Cash+CD ≥ $300k and other Q2 spends.  
+6. Revisit after classmates’ packages appear (Q3 industry averages); paste prior-quarter snapshots into History before changing packages.
 
-Do **not** invent final numbers — yellow cells in workbook until majority vote.
+Do **not** invent final numbers — yellow cells in workbook until majority vote.  
+Planner location: `Q2Data.xlsx` → **Comp_Industry** (rows 65+ value scorecards + budget allocator).
 
 ## Open decisions
 
-- [ ] Sales package (salary / health / vacation / pension)  
-- [ ] Sales productivity estimate (%)  
-- [ ] Production package  
-- [ ] Production productivity estimate (%)  
+- [x] Sales package (salary / health / vacation / pension) — **LOCKED** $24,425 · 85% productivity  
+- [x] Sales productivity estimate (%) — **85%**  
+- [x] Production package — **LOCKED** $20,757 · 85% productivity  
+- [x] Production productivity estimate (%) — **85%**  
 - [ ] Service package when role unlocks  
 
 ## Links

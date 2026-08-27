@@ -1,8 +1,8 @@
 # Sales Channel — Background (Q2 Lecture)
 
 **Source:** Marketplace Workspace (distribution / store staffing / demand forecast / web tactics).  
-**Status:** Background only — **hiring, city #2, demand forecast, web tactics not locked**.  
-**Related:** `Q2Data.xlsx` → **Sales_Ops** · Market_Potential · Demand_Forecast · Sales_Channel · team: AMS store + World web **LIVE**.
+**Status:** Background + **city #2 LOCKED = Rio** (schedule this Q → live next Q). Hiring / demand / web tactics still open.  
+**Related:** `Q2Data.xlsx` → **Sales_Ops** · Market_Potential · Demand_Forecast · Sales_Channel · Stores_Costs · team: AMS store + World web **LIVE**.
 
 ## Q2 focus
 
@@ -43,8 +43,10 @@ Sim guideline (Q1 notes): productivity risk if **>~15** display bikes or **>~15*
 
 ### New store / city #2
 
-- Review **market potential** by city × target segments. Largest markets → largest demand **and** largest competitor crowding.  
-- Strategy bias for WeBike: large geos → **NYC** is a candidate (not locked). Costs: see Stores_Costs (NYC setup $200k · lease $62k/qtr).
+- **LOCKED:** **Rio de Janeiro** — schedule in Q2; store **opens next quarter** (full quarter to open).  
+- Costs: setup **$90,000** (this quarter) · quarterly lease **$17,000** when live (`Stores_Costs`).  
+- Remaining closed after Rio: NYC ($200k / $62k), Bangalore ($84k / $13k).  
+- Still open: Rio opening headcount (≤7 tip, ≥1 service) for the quarter it goes live.
 
 ### Demand forecast caution
 
@@ -82,10 +84,11 @@ Pros: broader reach than one store. Cons: harder to target segments except via a
 - [ ] Segment training mix (Mountain primary; secondary TBD)  
 - [ ] Web sales/support headcount  
 - [ ] Web productivity tactics + budgets  
-- [ ] City #2 for next quarter (Y/N + which city)  
+- [x] City #2 for next quarter — **Rio LOCKED** (setup $90k)  
+- [ ] Rio opening staff (for live quarter)  
 - [ ] Demand forecast Q2 and Q3 → Demand_Forecast + Manufacturing  
 - [ ] Paste **unit cost rates** (hire / layoff / salary+training by specialty) into Sales_Ops  
-- [ ] Cash+CD ≥ $300k after hires, leases, tactics, possible store setup
+- [ ] Cash+CD ≥ $300k after hires, leases, tactics, Rio setup
 
 ## Q2Data — Sales_Ops planner
 

@@ -43,7 +43,7 @@ No Q1 revenue (setup quarter) — expected.
 
 - Keep **Cash + CD ≥ $300,000** after Q2 decisions (with +$500k equity, headroom improves before spend).
 - Operating capacity ≤ **24**/day.
-- City #2: strategy favors large geos → **NYC** candidate.
+- City #2: **Rio de Janeiro LOCKED** (schedule Q2 → live next Q; setup $90k).
 - Segments: Mountain → Speed → Recreation; pay **> industry average**; **match top ads**.
 
 Full statements: `q1-financials.md`

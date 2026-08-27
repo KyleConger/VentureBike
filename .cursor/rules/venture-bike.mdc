@@ -73,17 +73,19 @@ External/historical heuristics: `docs/02-external-research-synthesis.md` (update
 
 - Full lecture + Workspace menus: `quarters/Q2/advertising-background.md`
 - Name ad → select ≤**9** benefits → **rank** visibility → emphasize a **brand** (or company) → preview print **and** web
+- **HikeBike1 web LOCKED** — $1,000/qtr; ranks: brand → steep trail → gears → high tread → adventure → tough carbon → mountains easier → great price (last).
+- **HikeBike1 World Market inserts LOCKED** — Health **1** · Biking **12** · Sport **2** · News **1** = **$89,000** (extra budget → +2 Biking vs base 1:10:2:1).
 - Tip: ≥**2** test-market ads (primary + secondary; optional company ad); design/modify has a cost
 - Match claims to bike specs (Hike Bike: no lights/reflectors; mountain tires / steep-trail / adventure OK; avoid comfort-seat & Speed cues)
 - Media prefs: `Q2Data.xlsx` → **Media_Preference** — Mountain: Biking → Sport → General News (Leisure = Rec)
 - Organic SEM: `quarters/Q2/seo-internet-marketing-background.md` · `Q2Data.xlsx` → **Web_SEO** — convert ads→pages; segment picks keywords; SERP shows **first 3 benefits only**; organic is slow; no deceptive claims
-- Compensation: `quarters/Q2/compensation-background.md` · `Q2Data.xlsx` → **Comp_Industry** — interactive pay vs **~70%** productivity; early importance Salary→Health→Vacation→Pension; Q3 gets prior-q industry averages; **packages OPEN**
-- Sales channel: `quarters/Q2/sales-channel-background.md` · `Q2Data.xlsx` → **Sales_Ops** — per-location Total + Service/Rec/Mountain/Speed training; **Regional Summary** (Prior/Current/Net · Hire/Layoff/Salary+Training); test tip ≤**7**/city, ≥**1** service; city #2; web tactics; demand bridge; **OPEN**
+- Compensation: Sales **LOCKED** Q2 — $19,000 · Full coverage $4,180 · 2 wk $1,055 · 1% $190 = **$24,425** · productivity **85%**. Production **LOCKED** — $16,800 · Expanded $2,520 · 2 wk $933 · 3% $504 = **$20,757** · productivity **85%** (Manufacturing!B30). Planner: `Q2Data.xlsx` → **Comp_Industry**.
+- Sales channel: `quarters/Q2/sales-channel-background.md` · `Q2Data.xlsx` → **Sales_Ops** — per-location Total + Service/Rec/Mountain/Speed training; **Regional Summary**; test tip ≤**7**/city, ≥**1** service; **City #2 LOCKED = Rio** (setup $90k this Q → live next Q); web tactics; demand bridge; hiring **OPEN**
 - Web productivity: `quarters/Q2/web-productivity-background.md` · `Q2Data.xlsx` → **Web_Productivity** — toll-free (setup/budget $3k) vs page upgrades ($6k); diminishing returns (most gain by ~$10k); toll-free >> pages on %; Start/Stop **OPEN**
 - Demand projection: `quarters/Q2/demand-projection-background.md` · `Q2Data.xlsx` → **Demand_Forecast** — units/SP × people (stores+web); brand split; Q2 tip **~40**/SP; Q3 tip **~60**/SP; stock-out ill-will = ½ unmet %; **OPEN**
-- Operating capacity: `Q2Data.xlsx` → **Manufacturing** (B39) — fixed **24**/1,560; productivity **70%**; labor U-curve (best ~18–22/day; rises at 24); OH flats ~$45–50; **OPEN**
-- Overtime / production sim: Manufacturing OT table (prod 70%→64.4% at 4h) · `Q2Data.xlsx` → **Production_Sim** — stockouts, utilization, excess capacity, printer add; **OPEN**
-- Goal: **match top ads** · **pay > average**; media/web/comp/sales/demand/OC not locked unless team directs
+- Operating capacity: **LOCKED** Manufacturing **B39 = 20**/day (1,300/qtr) · **B53 OT = 0** · productivity **85%** → effective ~**17/day · ~1,105/qtr**; labor trough; fixed max still 24
+- Overtime / production sim: OT **LOCKED at 0**; `Production_Sim` still useful for demand stress-tests vs OC 20
+- Goal: **match top ads** · **pay > average**; remaining media/SEM/hiring/demand not locked unless team directs
 
 ## Agent norms
 

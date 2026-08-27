@@ -1,7 +1,7 @@
 # Advertising / Ad Design — Background (Q2 Lecture + Workspace)
 
 **Source:** Marketplace Workspace lecture (ad message / agency).  
-**Status:** Background only — **no ads locked** until majority vote.  
+**Status:** **HikeBike1 web ad LOCKED** (benefit ranks + $1,000/qtr web). Traditional magazine inserts & 2nd ad still open.  
 **Related:** `../Q1/brand-mountain.md` (Hike Bike) · team goal **match top ads** · BSC Marketing Effectiveness uses Ad Judgment.
 
 ## Philosophy
@@ -116,7 +116,43 @@ Ad claims must match the bike (Brand Judgment + Ad Judgment). Hike Bike currentl
 | Standard carbon (not elite materials) | Soft-pedal “elite look”; 3D / adventure / tough OK |
 | Parts ~$337; COGS volume-dependent | “Great price” / rebate only if pricing strategy supports it |
 
-## Draft alignment pools (not locked)
+## Locked — HikeBike1 (web)
+
+| Item | Choice |
+|------|--------|
+| Ad name | **HikeBike1** |
+| Brand emphasized | **Hike Bike** |
+| Target | Mountain |
+| Channel | **Web** (quarterly cost **$1,000**) |
+| Rank 1 | Mention brand name |
+| Rank 2 | Picture of a rider on a steep trail |
+| Rank 3 | Tackle steep climbs with more gears |
+| Rank 4 | Grab the path with high tread tires |
+| Rank 5 | Have an adventure on a carbon bike! |
+| Rank 6 | Go anywhere on a tough carbon bike |
+| Rank 7 | Mountains are no longer difficult |
+| Rank 8 | Carbon fiber quality at a great price |
+
+SERP organic shows ranks **1–3** only.
+
+### World Market traditional inserts — LOCKED
+
+Base was Health:Biking:Sport:News = **1:10:2:1** ($80,000). Extra **$10,594** → **+2 Biking** (best Mountain pref per dollar).
+
+| Media | $/insert | Inserts | Spend |
+|-------|----------:|--------:|------:|
+| Leisure & Entertainment | 10,000 | **0** | 0 |
+| Health & Fitness Magazines | 7,000 | **1** | 7,000 |
+| Biking Magazines | 4,500 | **12** | 54,000 |
+| Sport Magazines | 10,000 | **2** | 20,000 |
+| Business Magazines | 9,500 | **0** | 0 |
+| New Venture Magazines | 5,500 | **0** | 0 |
+| General News Magazines | 8,000 | **1** | 8,000 |
+| **Total** | | | **$89,000** |
+
+Envelope ~**$90,594** → **$1,594** unspent (not enough for another Biking insert at $4,500). Alt that nearly empties cash: +1 Sport instead of +2 Biking → $90,000 / $594 left (weaker pref/$).
+
+## Draft alignment pools (reference)
 
 **Mountain / Hike Bike — likely strong pool**
 
@@ -138,20 +174,20 @@ Ad claims must match the bike (Brand Judgment + Ad Judgment). Hike Bike currentl
 
 **Company ad** — no brand; 3D tailor-made + carbon story + local sales & service.
 
-## Decision log template (fill when locking)
+## Decision log
 
-| Ad name | Brand emphasized | Target segment | Ranked benefits (1→n) | Print / Web / Both | Design cost | Status |
-|---------|------------------|----------------|------------------------|--------------------|-------------|--------|
-| | | | | | | OPEN |
-| | | | | | | OPEN |
+| Ad name | Brand emphasized | Target segment | Ranked benefits (1→n) | Print / Web / Both | Design / web cost | Status |
+|---------|------------------|----------------|------------------------|--------------------|-------------------|--------|
+| **HikeBike1** | Hike Bike | Mountain | Brand → steep trail → gears → high tread → adventure → tough carbon → mountains easier → great price | **Web** | **$1,000**/qtr web | **LOCKED** 2026-08-27 |
+| | | | | | | OPEN (2nd ad tip) |
 
 ## Links
 
 - BSC: Marketing Effectiveness = (Brand Judgment + Ad Judgment) / 2  
 - Goal: match or beat top competitor ads  
 - Pricing / COGS: `Q2Data.xlsx` → Pricing, Cost_of_Production  
-- **Media Preference + major placement:** `Q2Data.xlsx` → **Media_Preference** (OPEN)
-- **Organic SEM / web pages:** `seo-internet-marketing-background.md` · `Q2Data.xlsx` → **Web_SEO** (OPEN)
+- **Media Preference + major placement:** `Q2Data.xlsx` → **Media_Preference** — HikeBike1 **web $1,000**/qtr **LOCKED**; World Market inserts **LOCKED** (Health 1 · Biking 12 · Sport 2 · News 1 = $89k)
+- **Organic SEM / web pages:** `seo-internet-marketing-background.md` · `Q2Data.xlsx` → **Web_SEO** — convert **HikeBike1** → Mountain page (**OPEN**)
 
 ### Mountain media priority (one-time report)
 

@@ -41,6 +41,14 @@ Append-only record of locked decisions across quarters.
 | 2026-08-27 | Q2 | Operating capacity table + cost curve | Manufacturing sheet Workspace OC + labor/OH curve | Fixed 24/1560; change B39; U-curve noted | AI |
 | 2026-08-27 | Q2 | OT + Production_Sim imported | OT productivity curve; stockouts/utilization/printers | Max OT B53; sim sheet for optimization | AI |
 | 2026-08-27 | Docs | External historical notes refreshed | `docs/02-external-research-synthesis.md` | Q2 chat consensus: WTP pricing, dual brands, OC/OT, demand tips | AI |
+| 2026-08-27 | Q2 | Comp value planner (importance weights) | Comp_Industry: 87/84/72/70 Value Index + budget split | Sales + production scorecards | AI |
+| 2026-08-27 | Q2 | Custom weights + history charts | Comp_Industry F68:F71 + Q1–Q6 logs/charts | Score mode Our\|Industry | AI |
+| 2026-08-27 | Q2 | **Sales compensation LOCKED** | $19k · Full ($4,180) · 2 wk ($1,055) · 1% ($190) = **$24,425** · **85%** prod | World Market / sales force; +$5,115 vs ind | Team |
+| 2026-08-27 | Q2 | **Production compensation LOCKED** | $16.8k · Expanded ($2,520) · 2 wk ($933) · 3% ($504) = **$20,757** · **85%** prod | World Market / production; +$4,714 vs ind; Mfg B30 sync | Team |
+| 2026-08-27 | Q2 | **City #2 LOCKED = Rio** | Setup **$90,000** · lease **$17,000**/qtr when live | Schedule Q2 → opens next quarter; headcount still open | Team |
+| 2026-08-27 | Q2 | **OC + OT LOCKED** | OC **20**/day · OT **0** · prod **85%** → ~**1,105** effective units/qtr | Labor sweet spot; headroom vs fixed 24 | Team |
+| 2026-08-27 | Q2 | **HikeBike1 web ad LOCKED** | Ranks: brand→trail→gears→tires→adventure→tough→mtns→price · **$1,000**/qtr web | Mountain; SERP top-3 = brand/trail/gears | Team |
+| 2026-08-27 | Q2 | **HikeBike1 World Market inserts LOCKED** | Health **1** · Biking **12** · Sport **2** · News **1** = **$89,000** | Base 1:10:2:1 +$10,594 → +2 Biking; $1,594 unspent | Team |
 | 2026-08-20 | Q1 | Industry avg sales compensation | $19,310 total (see compensation-industry-avg-sales.md) | Reference for Q2; pay above avg | Team / Sim |
 | 2026-08-20 | Q1 | Industry avg production compensation | $16,043 total (see compensation-industry-avg-production.md) | Reference for Q2; pay above avg | Team / Sim |
 | | Q1 | Company name | _(open)_ | | |

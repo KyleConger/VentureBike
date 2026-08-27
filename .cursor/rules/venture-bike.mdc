@@ -40,6 +40,12 @@ Fifth member of an MBA team in Marketplace Venture / 3D carbon bike sim. Source 
 - Fixed capacity: **+24 units/day** (3 printers) online **next quarter**; Q1 available = 0
 - Equity: 15,000 shares @ $100 = **$1,500,000**; **CD = $0** this quarter
 
+## Entering Q2 (Q1 results)
+
+- Cash **$464,000** · CD **$0** · Net fixed assets **$720,000**
+- Q1 NI **−$316,000** · EPS **−21** · No emergency loan
+- Channels + 24/day capacity live for test market; Q2 equity **+$500,000** expected
+
 ## Q1 hard rule
 
 Ending **Cash + CD ≥ $300,000** (with CD $0 → Cash ≥ $300k). Do **not** invent or lock team decisions unless the user explicitly directs it.
@@ -60,12 +66,29 @@ Cities: NY, Rio, Amsterdam, Bangalore · Segments: Recreation, Mountain, Speed
 
 ## Market research priority
 
-Maximize **competitor (classmate) intelligence** to find **room for growth**. Canonical data: `quarters/Q1/Q1Data.xlsx`. Also `data/market-survey/` and `data/competitors/`.
+Maximize **competitor (classmate) intelligence** to find **room for growth**. Canonical data: `quarters/Q1/Q1Data.xlsx` · Q2: `quarters/Q2/Q2Data.xlsx`. Also `data/market-survey/` and `data/competitors/`.  
+External/historical heuristics: `docs/02-external-research-synthesis.md` (updated with Q2 chat consensus — advisory only).
+
+## Advertising (Q2+)
+
+- Full lecture + Workspace menus: `quarters/Q2/advertising-background.md`
+- Name ad → select ≤**9** benefits → **rank** visibility → emphasize a **brand** (or company) → preview print **and** web
+- Tip: ≥**2** test-market ads (primary + secondary; optional company ad); design/modify has a cost
+- Match claims to bike specs (Hike Bike: no lights/reflectors; mountain tires / steep-trail / adventure OK; avoid comfort-seat & Speed cues)
+- Media prefs: `Q2Data.xlsx` → **Media_Preference** — Mountain: Biking → Sport → General News (Leisure = Rec)
+- Organic SEM: `quarters/Q2/seo-internet-marketing-background.md` · `Q2Data.xlsx` → **Web_SEO** — convert ads→pages; segment picks keywords; SERP shows **first 3 benefits only**; organic is slow; no deceptive claims
+- Compensation: `quarters/Q2/compensation-background.md` · `Q2Data.xlsx` → **Comp_Industry** — interactive pay vs **~70%** productivity; early importance Salary→Health→Vacation→Pension; Q3 gets prior-q industry averages; **packages OPEN**
+- Sales channel: `quarters/Q2/sales-channel-background.md` · `Q2Data.xlsx` → **Sales_Ops** — per-location Total + Service/Rec/Mountain/Speed training; **Regional Summary** (Prior/Current/Net · Hire/Layoff/Salary+Training); test tip ≤**7**/city, ≥**1** service; city #2; web tactics; demand bridge; **OPEN**
+- Web productivity: `quarters/Q2/web-productivity-background.md` · `Q2Data.xlsx` → **Web_Productivity** — toll-free (setup/budget $3k) vs page upgrades ($6k); diminishing returns (most gain by ~$10k); toll-free >> pages on %; Start/Stop **OPEN**
+- Demand projection: `quarters/Q2/demand-projection-background.md` · `Q2Data.xlsx` → **Demand_Forecast** — units/SP × people (stores+web); brand split; Q2 tip **~40**/SP; Q3 tip **~60**/SP; stock-out ill-will = ½ unmet %; **OPEN**
+- Operating capacity: `Q2Data.xlsx` → **Manufacturing** (B39) — fixed **24**/1,560; productivity **70%**; labor U-curve (best ~18–22/day; rises at 24); OH flats ~$45–50; **OPEN**
+- Overtime / production sim: Manufacturing OT table (prod 70%→64.4% at 4h) · `Q2Data.xlsx` → **Production_Sim** — stockouts, utilization, excess capacity, printer add; **OPEN**
+- Goal: **match top ads** · **pay > average**; media/web/comp/sales/demand/OC not locked unless team directs
 
 ## Agent norms
 
 - Prefer in-sim data over external tips; external = advisory
 - Log only agreed decisions in `quarters/QX/decisions.md`
 - Ask for survey exports rather than inventing numbers
-- Do not invent needs/WTP/potential scores
+- Do not invent needs/WTP/potential scores or lock ads/prices without explicit team direction
 ---

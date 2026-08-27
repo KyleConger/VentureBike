@@ -25,6 +25,22 @@ Append-only record of locked decisions across quarters.
 | 2026-08-23 | Q1 | Channel costs confirmed | AMS store $136k · Web $150k | Form submission | Team |
 | 2026-08-23 | Q1 | Capacity schedule | +24/day (Q1 avail 0 → Q2 avail 24) | 3 printers; lead time | Team |
 | 2026-08-23 | Q1 | Mountain brand build | Rugged + mtn tires + disc + 24spd + front susp + colorful decals; no reflectors/lights | Style gap closed; name TBD | Team |
+| 2026-08-27 | Q2 | Q1 financials filed as opening position | Cash $464k; RE −$316k; capacity $720k / 24/day online | Entering test market | Team / AI |
+| 2026-08-27 | Q2 | Manufacturing background + lean scenario | Make-to-order / OC / OT recorded; Mtn-only vs Mtn+Speed rerun | See manufacturing-background.md | AI |
+| 2026-08-27 | Q2 | Canonical workbook started | **`Q2Data.xlsx`** | From Q1Data + Cost_of_Production (Hike Bike) + Demand_Forecast + Pricing | Team / AI |
+| 2026-08-27 | Q2 | Mountain brand name (from Workspace) | **Hike Bike** | Appears on Cost of Production Estimate; list price still open | Team / Sim |
+| 2026-08-27 | Q2 | Advertising lecture + attribute menus filed | `advertising-background.md` + rule pointer | ≤9 benefits; ≥2 test ads tip; no ads locked | AI |
+| 2026-08-27 | Q2 | Media Preference imported to Q2Data | **Media_Preference** sheet | Mtn: Biking 134 → Sport 123 → News 122; placement OPEN | Team / AI |
+| 2026-08-27 | Q2 | Organic SEM / web lecture filed | `seo-internet-marketing-background.md` + **Web_SEO** | Ads→pages; segment keywords; SERP top-3; not locked | AI |
+| 2026-08-27 | Q2 | Compensation lecture + planner | `compensation-background.md` + Comp_Industry menus | ~70% prod. baseline; interactive; packages OPEN | AI |
+| 2026-08-27 | Q2 | Sales channel lecture + Sales_Ops | `sales-channel-background.md` + **Sales_Ops** | ≤7/city; ≥1 service; city #2; web tactics; forecast bridge | AI |
+| 2026-08-27 | Q2 | Sales staffing planner expanded | Per-location specialty + Regional Summary in Sales_Ops | Prior=0; costs formula-ready; rates yellow | AI |
+| 2026-08-27 | Q2 | Web Personnel block added | Sales_Ops: Bangalore World Market Web Sales/Support | Comp $19,310 baseline; changeable headcounts | AI |
+| 2026-08-27 | Q2 | Web productivity tactics + curve | `web-productivity-background.md` + **Web_Productivity** | Toll-free $3k/$3k; pages $6k/$6k; diminishing returns | AI |
+| 2026-08-27 | Q2 | Demand projection lecture + planner | `demand-projection-background.md` + Demand_Forecast rebuild | units/SP×people; brand split; Q2~40 / Q3~60 tips | AI |
+| 2026-08-27 | Q2 | Operating capacity table + cost curve | Manufacturing sheet Workspace OC + labor/OH curve | Fixed 24/1560; change B39; U-curve noted | AI |
+| 2026-08-27 | Q2 | OT + Production_Sim imported | OT productivity curve; stockouts/utilization/printers | Max OT B53; sim sheet for optimization | AI |
+| 2026-08-27 | Docs | External historical notes refreshed | `docs/02-external-research-synthesis.md` | Q2 chat consensus: WTP pricing, dual brands, OC/OT, demand tips | AI |
 | 2026-08-20 | Q1 | Industry avg sales compensation | $19,310 total (see compensation-industry-avg-sales.md) | Reference for Q2; pay above avg | Team / Sim |
 | 2026-08-20 | Q1 | Industry avg production compensation | $16,043 total (see compensation-industry-avg-production.md) | Reference for Q2; pay above avg | Team / Sim |
 | | Q1 | Company name | _(open)_ | | |

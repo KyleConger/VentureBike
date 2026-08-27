@@ -1,6 +1,6 @@
 # WeBike — Mountain Brand Spec (Q1)
 
-**Status:** Component build set (name still open)  
+**Status:** Component build set · **Brand name: Hike Bike**  
 **Segment priority:** #1
 
 ## Configuration
@@ -31,6 +31,6 @@
 
 ## Still open
 
-- [ ] Brand name  
-- [ ] Q2 price vs WTP (~$1,365 ceiling)  
-- [ ] Ad copy (5–6 attributes mirroring these features)
+- [x] Brand name → **Hike Bike**
+- [ ] Q2 price vs WTP (~$1,365 ceiling) — see `quarters/Q2/Q2Data.xlsx` → **Pricing**
+- [ ] Ad copy (5–6 attributes mirroring these features) — menus + draft pools in `../Q2/advertising-background.md`

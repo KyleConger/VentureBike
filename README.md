@@ -28,6 +28,7 @@ MBA team workspace for the Marketplace **Venture Strategy / 3D-printed carbon fi
 | `docs/05-class-framework-rbv-bsc.md` | RBV lens, chronology, BSC formulas |
 | `quarters/Q1/decisions.md` | **Locked Q1 decisions** |
 | `quarters/Q1/Q1Data.xlsx` | Canonical Q1 Excel |
+| `quarters/Q2/Q2Data.xlsx` | Canonical Q2 Excel (COGS, demand, pricing) |
 | `quarters/QX/` | Per-quarter checklists & decisions |
 | `templates/` | Brand, ads, compensation, pro forma |
 | `data/` | Survey exports, financials, competitor notes |

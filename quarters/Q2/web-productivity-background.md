@@ -2,7 +2,7 @@
 
 **Source:** Marketplace Workspace — Web Sales Center / Options to Improve Probability of Purchase.  
 **Chart:** Workspace “Potential Improvement [%]” vs Quarterly Budget (saved under project assets).  
-**Status:** Background + planning — **Start/Stop and budgets not locked**.  
+**Status:** **LOCKED** — Start both at default quarterly budgets ($3,000 toll-free · $6,000 page upgrades).  
 **Related:** `Q2Data.xlsx` → **Web_Productivity** · Sales_Ops (web personnel) · `sales-channel-background.md`.
 
 ## Philosophy
@@ -41,12 +41,22 @@ Both tactics show **steep early gains, then flatten** (diminishing returns). App
 
 Exact Workspace numbers may differ slightly from chart read-offs — re-check the live graph when locking spend.
 
-## Decision checklist (OPEN)
+## Locked — Q2
 
-- [ ] Start toll-free? Budget $____ (default 3,000)  
-- [ ] Start page upgrades? Budget $____ (default 6,000)  
-- [ ] Cash: setup (if first start) + quarterly budgets + web personnel still leave Cash+CD ≥ $300k  
-- [ ] Remember: effects ramp over **several quarters** — Q2 alone won’t show full lift  
+| Activity | Start | Setup | Quarterly budget | Est. improvement (chart) |
+|----------|-------|------:|-----------------:|-------------------------:|
+| Toll-free phone | **Yes** | $3,000 | **$3,000** | ~**30–32%** |
+| Page upgrades | **Yes** | $6,000 | **$6,000** | ~**18–19%** |
+| **First-quarter cash** | | | | **≈ $18,000** (setup + budgets) |
+
+Effects ramp over a few quarters — full % not expected in Q2 alone.
+
+## Decision checklist
+
+- [x] Start toll-free — **$3,000**/qtr  
+- [x] Start page upgrades — **$6,000**/qtr  
+- [ ] Cash: confirm Cash+CD ≥ $300k after this + other Q2 spends  
+- [x] Remember: effects ramp over **several quarters**
 
 ## Links
 

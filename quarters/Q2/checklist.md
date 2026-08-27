@@ -16,9 +16,9 @@ Detail: `opening-position.md` · `q1-financials.md` · `manufacturing-background
 ## Official tasks
 
 - [ ] Confirm $500,000 stock sale
-- [ ] Hire production workers and sales & service personnel — `sales-channel-background.md` · `Q2Data.xlsx` → Sales_Ops (≤7/city tip; ≥1 service)
+- [x] Hire sales & service — **LOCKED** AMS **5** (1 svc / 4 mtn) + Web **5** (3 sales / 2 support); production headcount still open — Sales_Ops
 - [x] Establish employee compensation (**> industry average**) — **Sales LOCKED** ($24,425 · 85%); **Production LOCKED** ($20,757 · 85%) — Comp_Industry
-- [ ] Establish brand price and priority (Mountain #1)
+- [x] Establish brand price and priority — **Hike Bike $1,365** only (Speed deferred; HQ two-segment warning accepted)
 - [x] Design ads — **HikeBike1 web LOCKED** ($1,000/qtr) + **World Market inserts LOCKED** (Health 1 · Biking 12 · Sport 2 · News 1 = $89k); 2nd ad still open — `advertising-background.md`
 - [ ] Launch organic SEM — `seo-internet-marketing-background.md` · `Q2Data.xlsx` → Web_SEO
 - [x] Schedule production — **LOCKED** OC **20**/day · OT **0** — Manufacturing **B39** / **B53**
@@ -26,7 +26,7 @@ Detail: `opening-position.md` · `q1-financials.md` · `manufacturing-background
 - [x] Schedule opening of **city #2** — **Rio de Janeiro LOCKED** (setup $90k this Q; live next Q) — Sales_Ops / Stores_Costs
 - [ ] Prepare pro forma financial projections
 - [ ] Verify ending **Cash + CD ≥ $300,000**
-- [ ] Web productivity tactics + budgets (World web LIVE) — `web-productivity-background.md` · `Q2Data.xlsx` → Web_Productivity
+- [x] Web productivity tactics + budgets — **LOCKED** Start both @ toll-free **$3k** / pages **$6k** (≈$18k first Q w/ setup) — Web_Productivity
 - [ ] Demand forecast Q2 + Q3 → `demand-projection-background.md` · `Q2Data.xlsx` → Demand_Forecast (safe ~40 units/SP this Q; ~60 next Q)
 
 ## Compensation baseline (from Q1)

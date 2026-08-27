@@ -80,12 +80,13 @@ External/historical heuristics: `docs/02-external-research-synthesis.md` (update
 - Media prefs: `Q2Data.xlsx` → **Media_Preference** — Mountain: Biking → Sport → General News (Leisure = Rec)
 - Organic SEM: `quarters/Q2/seo-internet-marketing-background.md` · `Q2Data.xlsx` → **Web_SEO** — convert ads→pages; segment picks keywords; SERP shows **first 3 benefits only**; organic is slow; no deceptive claims
 - Compensation: Sales **LOCKED** Q2 — $19,000 · Full coverage $4,180 · 2 wk $1,055 · 1% $190 = **$24,425** · productivity **85%**. Production **LOCKED** — $16,800 · Expanded $2,520 · 2 wk $933 · 3% $504 = **$20,757** · productivity **85%** (Manufacturing!B30). Planner: `Q2Data.xlsx` → **Comp_Industry**.
-- Sales channel: `quarters/Q2/sales-channel-background.md` · `Q2Data.xlsx` → **Sales_Ops** — per-location Total + Service/Rec/Mountain/Speed training; **Regional Summary**; test tip ≤**7**/city, ≥**1** service; **City #2 LOCKED = Rio** (setup $90k this Q → live next Q); web tactics; demand bridge; hiring **OPEN**
-- Web productivity: `quarters/Q2/web-productivity-background.md` · `Q2Data.xlsx` → **Web_Productivity** — toll-free (setup/budget $3k) vs page upgrades ($6k); diminishing returns (most gain by ~$10k); toll-free >> pages on %; Start/Stop **OPEN**
-- Demand projection: `quarters/Q2/demand-projection-background.md` · `Q2Data.xlsx` → **Demand_Forecast** — units/SP × people (stores+web); brand split; Q2 tip **~40**/SP; Q3 tip **~60**/SP; stock-out ill-will = ½ unmet %; **OPEN**
+- Sales channel: **Hiring LOCKED** — AMS **5** (1 Service / 4 Mountain) · Web **5** (3 Sales / 2 Support); train 300/250/400/400; **City #2 = Rio**; Rio staff next Q; `Sales_Ops`
+- Web productivity: **LOCKED** Start both — toll-free **$3,000**/qtr (+$3k setup) · page upgrades **$6,000**/qtr (+$6k setup); ~$18k first-Q cash; diminishing returns (most gain by ~$10k); toll-free >> pages on %
+- Demand projection: people locked → **~40**/SP ≈ **400** Hike Bike this Q; Q3 tip **~60**/SP still **OPEN**; stock-out ill-will = ½ unmet %
 - Operating capacity: **LOCKED** Manufacturing **B39 = 20**/day (1,300/qtr) · **B53 OT = 0** · productivity **85%** → effective ~**17/day · ~1,105/qtr**; labor trough; fixed max still 24
 - Overtime / production sim: OT **LOCKED at 0**; `Production_Sim` still useful for demand stress-tests vs OC 20
-- Goal: **match top ads** · **pay > average**; remaining media/SEM/hiring/demand not locked unless team directs
+- **Hike Bike only Q2 LOCKED** — price **$1,365** · no Speed/Rec brand this quarter (HQ two-segment warning accepted; Speed → Q3+)
+- Goal: **match top ads** · **pay > average**; remaining SEM/production headcount/Q3 demand not locked unless team directs
 
 ## Agent norms
 

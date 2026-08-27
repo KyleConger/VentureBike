@@ -49,6 +49,9 @@ Append-only record of locked decisions across quarters.
 | 2026-08-27 | Q2 | **OC + OT LOCKED** | OC **20**/day · OT **0** · prod **85%** → ~**1,105** effective units/qtr | Labor sweet spot; headroom vs fixed 24 | Team |
 | 2026-08-27 | Q2 | **HikeBike1 web ad LOCKED** | Ranks: brand→trail→gears→tires→adventure→tough→mtns→price · **$1,000**/qtr web | Mountain; SERP top-3 = brand/trail/gears | Team |
 | 2026-08-27 | Q2 | **HikeBike1 World Market inserts LOCKED** | Health **1** · Biking **12** · Sport **2** · News **1** = **$89,000** | Base 1:10:2:1 +$10,594 → +2 Biking; $1,594 unspent | Team |
+| 2026-08-27 | Q2 | **Web productivity LOCKED** | Start **both** · Toll-free **$3k**/qtr (+$3k setup) · Pages **$6k**/qtr (+$6k setup) | Defaults; ~$18k first-Q cash; curve-efficient | Team |
+| 2026-08-27 | Q2 | **Sales/service hiring LOCKED** | AMS **5** (1 svc / 4 mtn) · Web **5** (3 sales / 2 support) | ~400 demand @40/SP; train 300/250/400/400 | Team |
+| 2026-08-27 | Q2 | **Hike Bike only LOCKED** | Price **$1,365** · rebate 0 · priority 1 · **no Speed brand Q2** | Accept HQ two-segment warning; Speed → Q3+ | Team |
 | 2026-08-20 | Q1 | Industry avg sales compensation | $19,310 total (see compensation-industry-avg-sales.md) | Reference for Q2; pay above avg | Team / Sim |
 | 2026-08-20 | Q1 | Industry avg production compensation | $16,043 total (see compensation-industry-avg-production.md) | Reference for Q2; pay above avg | Team / Sim |
 | | Q1 | Company name | _(open)_ | | |

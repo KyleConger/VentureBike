@@ -1,8 +1,22 @@
 # Sales Channel — Background (Q2 Lecture)
 
 **Source:** Marketplace Workspace (distribution / store staffing / demand forecast / web tactics).  
-**Status:** Background + **city #2 LOCKED = Rio** (schedule this Q → live next Q). Hiring / demand / web tactics still open.  
+**Status:** **City #2 = Rio LOCKED**. **AMS + Web hiring LOCKED** (5 + 5). Production headcount / demand/SP confirm / Rio staff still open.  
 **Related:** `Q2Data.xlsx` → **Sales_Ops** · Market_Potential · Demand_Forecast · Sales_Channel · Stores_Costs · team: AMS store + World web **LIVE**.
+
+## Locked — Q2 sales & service hiring
+
+| Location | Total | Service | Rec | Mountain | Speed | Notes |
+|----------|------:|--------:|----:|---------:|------:|-------|
+| **Amsterdam** | **5** | **1** | 0 | **4** | 0 | ≤7 tip; Mountain-only brand |
+| **World Web** | **5** | — | — | — | — | **3** Web Sales · **2** Web Support |
+| Web specialties | | **2** | 0 | **3** | 0 | Support→Service train; Sales→Mountain |
+| Rio | 0 this Q | | | | | Opens next Q — staff later |
+
+**Training $/person/qtr:** Service **300** · Recreation **250** · Mountain **400** · Speed **400**.  
+**Compensation:** **$24,425**/yr (locked sales package).  
+**Demand bridge:** 10 people × **~40**/SP ≈ **400** units (Hike Bike); inside OC 20 / 85% headroom.  
+**Approx Q people cash:** salary **~$61k** + training **~$3.7k** ≈ **$65k** (hire expense TBD if Workspace shows a rate).
 
 ## Q2 focus
 
@@ -78,17 +92,18 @@ Pros: broader reach than one store. Cons: harder to target segments except via a
 - May open now; **one quarter** to set up; then hire web sales/support staff.  
 - WeBike: already past this gate for Q2 test market.
 
-## Decision checklist (OPEN)
+## Decision checklist
 
-- [ ] AMS sales headcount (≤7 tip) + ≥1 service  
-- [ ] Segment training mix (Mountain primary; secondary TBD)  
-- [ ] Web sales/support headcount  
-- [ ] Web productivity tactics + budgets  
+- [x] AMS sales headcount (≤7 tip) + ≥1 service — **5** (1 svc / 4 mtn)  
+- [x] Segment training mix — **Mountain primary**; no Rec/Speed  
+- [x] Web sales/support headcount — **3 + 2**  
+- [x] Web productivity tactics + budgets — locked separately  
 - [x] City #2 for next quarter — **Rio LOCKED** (setup $90k)  
 - [ ] Rio opening staff (for live quarter)  
-- [ ] Demand forecast Q2 and Q3 → Demand_Forecast + Manufacturing  
-- [ ] Paste **unit cost rates** (hire / layoff / salary+training by specialty) into Sales_Ops  
-- [ ] Cash+CD ≥ $300k after hires, leases, tactics, Rio setup
+- [ ] Demand forecast Q2 and Q3 — Q2 people locked; confirm 40/SP → ~400  
+- [x] Paste **unit cost rates** (specialty training 300/250/400/400)  
+- [ ] Cash+CD ≥ $300k after hires, leases, tactics, Rio setup  
+- [ ] Production worker headcount
 
 ## Q2Data — Sales_Ops planner
 

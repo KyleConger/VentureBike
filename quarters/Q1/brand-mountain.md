@@ -32,5 +32,6 @@
 ## Still open
 
 - [x] Brand name → **Hike Bike**
-- [ ] Q2 price vs WTP (~$1,365 ceiling) — see `quarters/Q2/Q2Data.xlsx` → **Pricing**
-- [ ] Ad copy (5–6 attributes mirroring these features) — menus + draft pools in `../Q2/advertising-background.md`
+- [x] Q2 price → **$1,365** (rebate 0; priority 1) — Mountain-only Q2 locked
+- [x] Ad — HikeBike1 locked (`../Q2/advertising-background.md`)
+- [x] Q2: **no second brand** (Speed deferred; HQ warning accepted)

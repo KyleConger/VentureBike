@@ -254,10 +254,23 @@ Full 30-item change list: **`quarters/Q4/copy-the-leader.md`** · workbook `Q3Da
 - **DECISION RULE: 3 slots, 2 bikes → prefer BOTH-bike features.** Frame compatibility ≠ appropriateness: tires/bars/suspension are locked by each segment's recipe, so only **material, gears, decals and accessories** are segment-neutral. Hike Bike = Rugged, Swift = Aerodynamic. **Full suspension is NOT Aerodynamic-compatible** (Hike Bike only); **mesh tote is Comfort-only (fits NEITHER bike)**.
 - **TEAM DECISION (Q4): TWO projects, both RAPID, third slot left empty.** ① **Decals bright/per-segment** $109,155 · $8/unit · score **929, best on list**, 851/$100k, decals are a *measured* +2 in Speed ② **11-speed (1×11)** $568,514 · $50/unit · score 905 · Mountain's #1 need + light weight + shifts smoothly · gears = our strongest measured lever (16-pt swing) · **highest variance**. **Total $677,669 listed = 19.3% of $3.51M — deliberately under the 50–75% guidance.**
 - **Third slot skipped on purpose.** Enriched carbon was next but is the **worst value/$ of anything viable (72/$100k — 6× worse than 11-speed, 12× worse than decals)**. Rationale: decals have a **measured** +2 in Speed today, so the Q4 result **calibrates the R&D multiplier** — the first hard number for what an R&D upgrade is worth. Don't spend $1M before that exists. Engineering capacity expands in Q5 anyway.
-- **CONSEQUENCE — RESIZE THE VC RAISE. Do NOT take the full $2.5M.** Raising $2.5M against $677,669 of R&D recreates the idle-cash problem that put Asset Mgmt **0.353 = LAST**, and issuing shares drags Wealth. **Target $750,000–$1,000,000.** But a raise IS required: $1,010,838 − $677,669 − ~$146,000 operating = **$187,169, breaking the $300k floor by $112,831** (worse at rapid prices).
+- **CONSEQUENCE — RESIZE THE VC RAISE. Do NOT take the full $2.5M.** Raising $2.5M against $677,669 of R&D recreates the idle-cash problem that put Asset Mgmt **0.353 = LAST**. **Target $750,000–$1,000,000** (see `Q4_Financing` for exact sources/uses). A raise IS required: $1,010,838 − $677,669 − ~$146,000 operating = **$187,169, breaking the $300k floor by $112,831** (worse at rapid prices). ⚠️ **CORRECTION: equity does NOT drag Wealth — it RAISES it** while retained earnings are negative. See Financing section.
 - **Q5 R&D queue:** enriched carbon ($1,023,325, 739, both bikes) · racing tires ($254,694, 602, Swift only, hits Speed's #1 need 134) · power straight bars ($181,924, 509, Mtn only) · Mtn super traction ($254,694, 502) · slime ($159,184, $3/unit, 640, lowest risk).
 - **CAVEAT:** feature→need mapping is *our reading* of Workspace text, NOT sim output. Only gears/seat/decals/reflectors/lights have measured point values; frame/tires/brakes/bars never varied within a segment. All 3 picks are **replacement** parts → true incremental unit cost < $98 gross.
 - **OPEN QUESTION for the team: how many quarters remain?** If the sim ends at Q6, 2-quarter scheduling never ships.
+
+## Financing — loan vs equity (`Q4_Financing` · `quarters/Q4/_analyze_financing.py`)
+
+- **WEALTH FORMULA SOLVED: Wealth = (paid-in + RE) / paid-in.** (2,500,000 − 829,162)/2,500,000 = **0.6683 = reported 0.668 exactly**, from 25,000 shares × $100.
+- ⚠️ **CORRECTION to earlier guidance: while RE is NEGATIVE, issuing equity RAISES Wealth** (it dilutes the accumulated deficit). $750k → **0.745** · $1M → **0.763** · $2.5M → 0.834. A **loan leaves Wealth at 0.668 = last, unchanged.**
+- **But Financial Performance denominator = Total Shares Issued.** Equity $750k → FP **4.09 (−23%)** · $1M → **3.80 (−29%)** · $2.5M → 2.66 (−50%). A loan keeps 25,000 shares; only interest touches the numerator.
+- **Net on the BSC product (Total Perf = product of 9):** $750k equity **−14%** vs loan **−8%** · $1M equity **−18%** vs loan **−11%**. **Debt is ~half as damaging** at an assumed 10%/yr. Rate is the input that could flip it.
+- **Neither form helps Asset Mgmt 0.353** — it punishes cash sitting **idle**. Fix = raise only what we deploy.
+- **PRINTERS ARRIVE ONE QUARTER LATE** (Q1 lock proves it). A Q4 printer produces nothing in Q4 ⇒ **NYC CANNOT open in Q4** (would add 340–570 units against committed 24.35/day → more ill will, in BB LLC's 82.8%-Mountain city). **Q4 buys printers · Q5 opens NYC.**
+- **Printer payback: 8/day × 0.74 × 65 = 385 units/qtr × ~$800 = $307,840/qtr vs $240,000 price → repays in 0.78 of a quarter.** Textbook debt asset.
+- **RECOMMENDATION — match funding to asset:** **equity** for R&D + operating plan (speculative, no contractual payback, and Wealth rewards it now) · **debt** for printers if offered at a fair rate (self-liquidating, keeps shares out of the FP denominator) · **never the full $2.5M**.
+- **Sources & uses (Q4):** R&D $677,669 + rapid premium (~$203k est) + operating $146k recurring + $67k one-time + Swift brand redesign ~$30k + Swift ad redesign ~$10k + printer(s) $240k each. **Total $1,373,970 (1 printer) / $1,613,970 (2).** Deployable cash $710,838 ⇒ **raise $663,132 (1 printer) or $903,132 (2).**
+- **MUST CHECK:** (a) is a loan even offered — everything shown so far is a VC/equity round · (b) interest rate + any borrowing cap (RE −$829,162 may disqualify us) · (c) **is R&D EXPENSED or capitalised in Q4?** — the number that matters most; if expensed, Q4 posts a big loss, RE falls, Wealth falls with it · (d) confirm the 1-quarter printer delay.
 
 ## Brand P&L (Q3 actual — supplied with the R&D screen)
 
@@ -278,7 +291,7 @@ Full 30-item change list: **`quarters/Q4/copy-the-leader.md`** · workbook `Q3Da
 
 1. Schedule OC **to the forecast**. Base-only forecast needs ≈13/day, but the **plan of record (Rio + full web = 1,171 units) needs 24.35/day → schedule the full 24, OT 0.00**, giving 1,154 units (within 1.4%). No printers.
 2. Raise compensation — **plan of record is BB LLC exact (Option B): sales $22,000 Expanded 2wk 4% = $27,402 · production $18,500 Expanded 2wk 4% = $23,042.** (Option A $26,564 / $22,240 remains the cheaper fallback.) Either way **drop Full → Expanded**. OPEN until majority vote. **Budget 74% productivity, never 85%**
-3. Stop issuing stock while ~$1M sits idle; deploy cash into revenue (city #3, people, ads)
+3. **Raise only what we DEPLOY** (not "never issue stock" — see Financing). Idle cash is what Asset Mgmt punishes, regardless of whether it came from equity or debt.
 4. **Do not cut channel spend** — it's already the industry's lowest; re-staff web
 5. **Speed: fix, don't abandon.** Redesign Swift Bike toward 12/1/77 **and** rebuild its ad (70→77) — both together take Marketing Effectiveness 0.738 → **0.7675 = industry best**
 6. **Leave Hike Bike's design alone** — spend on supplying and selling it instead
@@ -299,7 +312,7 @@ Ending **Cash + CD ≥ $300,000** (with CD $0 → Cash ≥ $300k). Do **not** in
 - Financial Performance = ((Net Profit from Current Ops + Gross Profit) / 2) / Total Shares Issued
 - Marketing Effectiveness = (Avg Brand Judgment/100 + Avg Ad Judgment/100) / 2 — **VERIFIED exactly on 3 firms** (WeBike 0.738, BB LLC 0.765 max, Spoke'd Up 0.660 min), averaged over the two targeted segments
 - Investment in Future = (Cumulative future-benefit expenses / Cumulative net revenues) * 10 + 1
-- Wealth = Net Equity / Total Stockholders Equity
+- Wealth = Net Equity / Total Stockholders Equity = **(paid-in capital + retained earnings) / paid-in capital = 1 + RE/paid-in** — **VERIFIED EXACTLY**: (2,500,000 − 829,162)/2,500,000 = 0.6683 = reported 0.668, from 25,000 shares × $100
 - Manufacturing Productivity = (Pct operating capacity used / 100) - (Overtime as pct of capacity used / 2 / 100)
 - HR = (Sales force productivity/100 + Production worker productivity/100) / 2
 - Market Performance = (Avg share in targeted segments/100) * (Pct demand actually served/100)

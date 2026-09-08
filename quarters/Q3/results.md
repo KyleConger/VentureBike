@@ -1168,7 +1168,7 @@ SERP after that: wind-cheater / racing tires / elite look — the same three lin
 
 The leader runs the fewest ads relative to its brand count and both are best or near-best in class. The last-place firm runs the most. A second Swift Bike ad is not the answer — a better one is.
 
-Worth filing for later: BB LLC pairs an advertised brand with an unadvertised second brand in each segment (Blu Ruged + Blu Tail in Mountain, Blu Tube + Blu Aero in Speed). The ad builds segment awareness and the cheaper-to-run second brand catches overflow at a higher price. Not a Q4 move for us while capacity binds, but a real pattern.
+Worth filing for later: BB LLC pairs an advertised brand with an unadvertised second brand in each segment (Blu Ruged + Blu Tail in Mountain, Blu Tube + Blu Aero in Speed). The second brand carries the **same** price as the lead brand, not a higher one, and sits one notch lower on judgment. Those two unadvertised brands pulled **612 units — 41% of BB LLC's 1,507**. Not a Q4 move for us while capacity binds, but a real pattern.
 
 ---
 

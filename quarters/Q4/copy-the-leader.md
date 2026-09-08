@@ -144,7 +144,7 @@ Both of our gaps are salary plus the Full-coverage mistake. The proof that mix b
 ## What we deliberately do not copy
 
 - **BB LLC's 6.90 overtime.** Costs Manufacturing Productivity (0.856 vs 1.000) and we don't need it.
-- **BB LLC's 4 brands.** Their third and fourth brands run *unadvertised* as overflow catchers at a higher price. That only works with spare capacity. File for Q5.
+- **BB LLC's 4 brands.** Their second brand in each segment runs *unadvertised* at the **same price** as the lead brand, one notch lower on judgment — and those two brands pulled **612 units, 41% of their total**. It works because they own 30.9 effective capacity and 21 sales people. Capacity binds for us in Q4. Full spec for Q5 in `Q3Data.xlsx` → `Q4_Brand_Count`.
 - **BB LLC's NYC store.** Tier 2. They hold 82.8% of NYC Mountain, and entering needs a printer plus seven new hires. If we go, go via **Speed** — 880 units, no dominant firm, Spoke'd Up's Speed ad is under 70 — not Mountain. Depth in Rio and the web pays back faster.
 - **Bike Bros' breadth.** Most ads and most brands in the industry, and last place.
 - **MILC's compensation.** Highest sales spend, worse satisfaction. Mix beats total.

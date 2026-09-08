@@ -73,7 +73,8 @@ Full analysis: `quarters/Q3/results.md` · data `quarters/Q3/Q3Data.xlsx` (`Q3_C
 - **Swift Bike 10/1/72 — 2nd WORST Speed brand.** Ceiling 77 (MACH I.I, LiteSpeed Pro+ at 12/1/77). 8 of 9 rival Speed brands beat us. Profile is close → modest redesign closes most of the gap.
 - Speed ceiling **77**, Mountain **73**, Recreation **76** (MountainCruise1). Nobody exceeds these.
 - **Designs are commoditising** — many firms share byte-identical profiles (56/73/1 ×3, 12/1/77 ×2, 9/1/76 ×3, 7/1/74 ×2, 73/1/1 ×2). No one wins on product alone.
-- **Brand count ≠ share:** Bike Bros 5 brands → 7.5% (last); SpaceBikes 2 brands → 19.8% (cumulative leader). We have 2. **A 3rd brand is not a Q4 priority.**
+- **Brand count ≠ share — PROVEN per segment (`Q4_Brand_Count`).** Speed: BB LLC 2 brands 22.8% · **SpaceBikes 1 brand 20.4%** · LiteCycle 2 brands 19.0% · us 1 brand 7.5% · **Bike Bros 2 brands 6.3% (worse than us)**. Mountain: BB LLC 2 → 46.3% · **us 1 → 22.1%** · **LiteCycle 1 → 21.0%** · **Bike Bros 2 → 10.6%**. Share tracks **effective OC + sales coverage**, not brand count. **NO 3rd brand in Q4** — plan is already 1,171 demand vs 1,154 capacity (−17 slack); a 2nd Speed brand adds ~363–397 (74–81% of lead, per BB LLC + LiteCycle) → **25% stock-out, ~12% Q5 ill will, needs a 4th printer**. It's a printer decision, not a brand decision.
+- **Q5 BRAND 3 SPEC (second Speed brand, when capacity allows):** aero frame · racing tires · precision brakes · basic drop-down bars · polymer gel racing seat · **14sp · decals · lights · NO reflectors** = **76** (Blu Tube = Armstrong = Skim MILC all converged here). Price **$1,580** = same as Swift Bike. **No ad.** Add reflectors for 77 only if cheap. Brand 4 = 2nd Mountain (Hike Bike recipe + comfort seat = 70, $1,365, no ad) — lower priority. Brand 5 = Rec (MountainCruise1's 76) — fights margin strategy, all Rec winners are the cheapest in the game.
 - Recreation spillover: Hike Bike scores **56** with Rec buyers and pulled **54 untargeted units**; dedicated Rec brands score 73–76, so spillover can't win. Park for Q5.
 
 ## Design model (SOLVED — reproduces all 16 Mtn/Speed scores exactly)
@@ -208,7 +209,7 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 - **Q4 Swift draft (NOT locked):** brand (not a snippet) → wind-cheater → racing tires → elite look → 3D printing → local sales → road-race picture. SERP then matches Unleash #1. Drop lights, reflectors, great price. Preview in the designer.
 - **Fix path:** Swift brand 72→77 **and** ad 70→77 ⇒ ME **0.7675 > BB LLC 0.765** (industry best). Ad only = 0.755; brand only = 0.750.
 - **Ad count is NOT the lever:** BB LLC (leader) runs **2 ads for 4 brands** (Blu Aero + Blu Tail unadvertised); Bike Bros runs **5 ads for 5 brands** and is **last**. Quality > count — don't add a 2nd Swift ad, improve the one.
-- File for later: BB LLC pairs an **advertised** brand with an **unadvertised** 2nd brand per segment — ad builds the segment, 2nd brand catches overflow at a higher price. Not viable while capacity binds.
+- **2nd-brand pattern (CORRECTED — same price, not higher):** BB LLC pairs an **advertised** lead brand with an **unadvertised** 2nd brand per segment at the **identical price**, one notch lower on judgment (Mtn 73 + 70 both @ $1,365 · Speed 76 + 74 both @ $1,580). Those 2 unadvertised brands pulled **612 units = 41% of their 1,507**. Not viable while capacity binds — full spec in `Q4_Brand_Count`.
 
 ## Media inserts (Q3 actual — `Q3_Media`)
 

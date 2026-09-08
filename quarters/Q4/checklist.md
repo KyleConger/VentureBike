@@ -19,7 +19,8 @@ Design model re-validated **16 of 16 exact** on every Mountain/Speed brand: `_ve
 - [ ] Swift Bike price **$1,450 → $1,580** (BB LLC's exact Speed price, zero resistance)
 - [ ] Hike Bike price **hold $1,365**
 - [ ] Priority unchanged: Hike Bike 1, Swift Bike 2
-- [ ] No rebates · no Recreation brand (park for Q5)
+- [ ] No rebates
+- [ ] **No 3rd brand in Q4** — analysis in `../Q3/Q3Data.xlsx` → `Q4_Brand_Count`. Plan is already 1,171 demand vs 1,154 capacity; a 2nd Speed brand adds ~363–397 units → 25% stock-out and ~12% Q5 ill will, and needs a 4th printer (~$240,000). Brand count explains no firm's share — Bike Bros runs 2 Speed brands for 6.3% while SpaceBikes runs 1 for 20.4%.
 
 ## Advertising & media
 - [ ] Swift Bike ad **rebuild** → target 77 (7 ranks in `copy-the-leader.md`; drop lights/reflectors/great price) — **preview the score**
@@ -50,7 +51,9 @@ Design model re-validated **16 of 16 exact** on every Mountain/Speed brand: `_ve
 ## Deferred (tier 2)
 - [ ] **NYC store** — needs a printer + 7 hires; enter via **Speed** (880 units, no dominant firm), not Mountain (BB LLC holds 82.8%)
 - [ ] Business plan + seek up to **$2,500,000** VC
-- [ ] Recreation brand / 3rd + 4th brand overflow play (BB LLC's unadvertised-second-brand pattern)
+- [ ] **Brand 3 — second Speed brand** (follows a printer): aero frame · racing tires · precision brakes · basic drop-down bars · polymer gel racing seat · **14-speed · decals · lights · NO reflectors** = **76** (Blu Tube, The Armstrong and Skim MILC all converged on this exact spec). Price **$1,580**, same as Swift Bike. **No ad** — BB LLC leaves both second brands unadvertised and leads the industry.
+- [ ] Brand 4 — second Mountain brand: Hike Bike's recipe with the **comfort seat** instead of all-purpose = 70. Price $1,365. No ad. Lower priority; Mountain is the smallest segment and we are already #2.
+- [ ] Brand 5 — Recreation (MountainCruise1's exact 76): comfort frame · hybrid tires · **standard disc** brakes · comfort straight bars · 7-speed · comfort seat · reflectors + decals + lights + basket + front shocks. **Fights our margin strategy** — every Rec winner is priced at judgment 100, i.e. cheapest in the game ($950–$1,050 net).
 - [ ] City #4
 
 ## Before advancing

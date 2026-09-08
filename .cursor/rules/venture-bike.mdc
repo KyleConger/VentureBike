@@ -361,6 +361,31 @@ Full 30-item change list: **`quarters/Q4/copy-the-leader.md`** · workbook `Q3Da
 - **Operating recurring dropped $146,000 → $75,000** because media Option C swings **−$44,000** instead of Option B's **+$27,000** (a **$71,000** swing = 7× the social budget). Social media is **reallocated, not added**.
 - HikeBike 1 ad redesign fee was **missing** from the earlier financing table; now included.
 
+## Q4 DECISION SCREEN AUDIT (from live dump — `Q4_Screen_Audit` · `quarters/Q4/_audit_decision_screen.py`)
+
+**5 BLOCKERS, 3 misses, 14 items already correct.** Correct and locked-looking: Swifter Bike design = the 77 recipe (14sp + decals + reflectors + lights) · Hike Bike untouched · both ad stacks = BB LLC Mountain + AndStill Speed exactly · staffing Rio 1/0/3/3 + AMS 1/0/3/3 = 14, web 5+2 = 7 · **printers ordered (fixed capacity 24 → 40 next quarter)** · OT 0 · paid SEM 2.40/$150 + 1.95/$80 · web pages 2×$1,000 · Hike $1,365, rebates 0, priority 1/2 · R&D $677,669 both Q5.
+
+- **BLOCKER — Operating capacity still 8/day** (520/qtr, effective 380). Q3 error verbatim. **Set 24/day, OT 0.00** → 1,139 units at 73%.
+- **BLOCKER — Web productivity total = $6,000, only toll-free "operational."** The other tactics have budgets typed but **status "-" / Start unchecked**. Typing a budget does nothing. Needs **$48,000 setup + $25,000 quarterly = $73,000**.
+- **BLOCKER — $2.5M VC row still on the Stock screen** (25,000 sh @ $100, Qtr 4). Remove/zero.
+- **BLOCKER — no loan entered.** Draw ~$950,000 at 7%.
+- **BLOCKER — Demand Projection all zeros.** Enter store **50.5/head × 14 = 707**, web **62.1/head × 7 = 435**, total **1,142** → required OC 24.07/day. Brand split ~60/40 (Hike 685 / Swift 457) — judgment, not measured.
+- **MISS — Swifter Bike price still $1,450.** Must be **$1,580**.
+- **MISS — sales comp still the Q2 lock** ($19,000/Full/2wk/1% = $24,425, projecting 70). Go **$22,000/Expanded/2wk/4% = $27,402**, project 75.
+- **MISS — production comp still $16,800/Expanded/2wk/3% = $20,757.** Go **$18,500/Expanded/2wk/4% = $23,042**, project 75 → capacity **1,139 → 1,170 units**.
+- REVIEW — Swifter carries **Sport 1 + New Venture 2 = $21,000** of poorly-targeted inserts (Business 1 is Speed's #2 medium, keep). Media Total row (42,119 + 45,433 = 87,552) does **not** reconcile to 20 inserts at list ($102,500); 45,433 is exactly Swift's Q3 ad expense → treat the Total row as stale.
+- REVIEW — ad is named **"HikeBike 2"** (Q3 was HikeBike 1). If a new ad number spawns a new web page we may **reset organic tenure** (HikeBike 1 was Mountain #2, 115 clicks) and pay a second design fee. Prefer modifying in place.
+- Cash: entered **$976,797**, still to add **$100,634**, plus ~$480k printers vs **$1,010,838** on hand → the loan is mandatory.
+
+## Newly confirmed sim mechanics (Q4 screens)
+
+- **RAPID R&D PREMIUM IS KNOWN: 18.9%, total $107,819.** 1-qtr $568,514 + $109,155 = **$677,669 (available Q5)**; 2-qtr $478,062 + $91,788 = $569,850 (Q6). **$677,669 already IS the rapid price — the earlier ~$203,301 "premium on top" was wrong. Cash is ~$203k better than modelled.**
+- **FIVE web productivity tactics exist, not four.** New one: **"Secure web site … credit cards"** (setup $9,000 / $4,000-qtr) — and **"Security of my credit card/identity" is the highest-scoring web need (Rec 135 / Mtn 123 / Speed 124)**. Setup costs: secure $9,000 · cart $23,000 · page upgrades $6,000 · order tracking $10,000 = **$48,000 one-time**; quarterly $4,000/$7,000/$6,000/$8,000. Every one of the five maps to a web need scoring 113–124 in our segments.
+- **Social media carries an $8,000 setup cost** on top of the quarterly budget.
+- **PRIORITY IS INERT — PROVEN.** Q3 demand vs sold: Hike Bike **412 → 278 (67.5%)**, Swift **215 → 145 (67.4%)**. Identical fill rates ⇒ shortage is rationed **pro rata**, priority 1 did not shield Hike Bike. Do not rely on the priority field to protect a brand; fix capacity instead.
+- Sales-people budget reconciles exactly as **(heads × annual comp / 4) + quarterly training**: 14 × $24,425/4 = $85,487 + $5,400 = **$90,888** ✓. Training: Service $300 · Rec $250 · Mountain $400 · Speed $400.
+- Q3 brand **demand** (not units sold): Hike Bike **412**, Swift **215**, total **627**.
+
 ## Q4 standing priorities
 
 1. Schedule OC **to the forecast**. Base-only forecast needs ≈13/day, but the **plan of record (Rio + full web = 1,171 units) needs 24.35/day → schedule the full 24, OT 0.00**, giving 1,154 units (within 1.4%). No printers.

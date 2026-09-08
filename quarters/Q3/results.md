@@ -323,6 +323,83 @@ MountainCruise1 holds the 76 ceiling with: comfort frame, hybrid tires, **standa
 
 Caveat on precision: only four Recreation brands exist and they differ in three places (brakes, decals, lights), so the individual penalties **cannot be uniquely separated** from the data. The observed constraints are `precision + no_decals = 2`, `precision + no_lights = 3`, `standard + no_decals = 3`. What's certain is that standard disc brakes are optimal and MountainCruise1's exact recipe scores 76.
 
+---
+
+# City-level demand — the map changes the city #3 decision
+
+Raw data: `Q3Data.xlsx` → **Q3_City_Demand** (65 brand × city rows). Analysis: **Q3_City_Strategy**. Totals reconcile exactly to 6,559 market / 627 WeBike / 412 Hike Bike / 215 Swift Bike.
+
+## Where the market actually is
+
+| City | Recreation | Mountain | Speed | Total | % of market | Our units | Our share |
+|------|-----------:|---------:|------:|------:|------------:|----------:|----------:|
+| **Amsterdam** | 992 | 650 | 1,343 | **2,985** | 45.5% | 295 | **9.9%** |
+| **New York City** | 664 | 495 | 880 | **2,039** | 31.1% | 38 | **1.9%** |
+| Rio de Janeiro | 219 | 286 | 269 | 774 | 11.8% | 270 | **34.9%** |
+| Bangalore | 185 | 190 | 386 | 761 | 11.6% | 24 | 3.2% |
+
+**Amsterdam and New York are 77% of the entire market.** We hold 9.9% of one and 1.9% of the other, while our best share by far sits in Rio — the smallest city.
+
+## A store is worth roughly 10× web-only coverage
+
+Inferring store locations from demand concentration:
+
+| City | Firms with a store | Our share |
+|------|--------------------|----------:|
+| Amsterdam | **all seven** | 9.9% |
+| New York City | BB LLC, SpaceBikes, Spoke'd Up | **1.9%** (no store) |
+| Rio de Janeiro | **WeBike only** | **34.9%** |
+| Bangalore | LiteCycle only | 3.2% (no store) |
+
+The pattern is stark. With no store we get 1.9–3.2%. With a store against six rivals we get 9.9%. With the *only* store in a city we get 34.9% — and LiteCycle, alone in Bangalore, gets 48.6%. Bike Bros appears in no city but Amsterdam, which independently confirms its one-store, zero-web-center profile.
+
+This makes store placement the highest-leverage decision available to us. (Caveat: locations are inferred from demand patterns, not reported directly; MILC's second store isn't identifiable.)
+
+## Rio is our crown jewel, and we damaged it
+
+| Mountain by city | Size | Our units | Our share | Leader |
+|------------------|-----:|----------:|----------:|--------|
+| Amsterdam | 650 | 156 | 24.0% | us |
+| New York City | 495 | 23 | 4.6% | BB LLC 82.8% |
+| **Rio de Janeiro** | 286 | **166** | **58.0%** | **us** |
+| Bangalore | 190 | 13 | 6.8% | LiteCycle 64.2% |
+
+Rio delivers Hike Bike's single best result — **166 Mountain units, more than Amsterdam's 156 out of a segment less than half the size**. We hold 58% of Rio Mountain.
+
+That makes the Q3 stock-out worse than it first looked: the 16.3% ill-will penalty bites hardest exactly where we lead, in the one market where we have no competition for shelf space.
+
+## City #3: New York is the larger prize
+
+| | New York City | Bangalore |
+|---|---:|---:|
+| City demand | **2,039** | 761 |
+| Rival stores present | 3 | 1 |
+| Our share today | 1.9% | 3.2% |
+| Mountain size / leader hold | 495 / BB LLC 82.8% | 190 / LiteCycle 64.2% |
+| Speed size | **880** | 386 |
+| Recreation size (untapped) | 664 | 185 |
+| Units at a conservative 10% | **204** | 76 |
+| Units at a Rio-like 25% | 510 | 190 |
+
+New York at a weak 10% still beats Bangalore at 25%, and its Speed segment alone (880) is larger than all of Bangalore (761). It also fits our locked "largest geos even if expensive" direction.
+
+The caution: New York is BB LLC's fortress — 36.9% of the city and **82.8% of its Mountain**. We should not attack there head-on in Mountain. The opening is **Speed** (880 units with no dominant firm; The Armstrong leads on only 272) — which is exactly the segment where the two-component Swift Bike fix takes us to the industry ceiling. Those two decisions reinforce each other.
+
+## Capacity can absorb it
+
+| | Units |
+|---|---:|
+| Fixed capacity 24/day × 65 days | 1,560 |
+| At 74% productivity | 1,154 |
+| Q4 forecast, existing cities | 656 |
+| **Headroom** | **~498** |
+
+We can absorb roughly 500 additional units without buying a printer, so a New York store at ~204 units fits comfortably. The condition is scheduling operating capacity to match — the Q3 failure repeated at three cities would be far more expensive.
+
+## The competing use of the money
+
+Worth weighing honestly before locking city #3: **Amsterdam is 45.5% of the market and we hold 9.9% of it**, where no rival exceeds 16.5%. It is genuinely open, we already have the store, and deepening sales coverage there may cost less per unit than opening a third city. Our demand per store salesperson (~46) is roughly half BB LLC's (~88), so there is headroom in the stores we already own.
+
 ## Open decisions for Q4
 
 - [ ] Operating capacity + overtime

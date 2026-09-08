@@ -718,6 +718,79 @@ So buying capacity converts dead cash into revenue-producing assets and fixes th
 - **Rio + web + New York:** roughly 33/day, so two more printers
 - **Do nothing:** hard-capped at ~1,154 units
 
+---
+
+# Price judgment — Hike Bike is optimal, Swift Bike is under-priced
+
+Data and analysis: `Q3Data.xlsx` → **Q3_Price_Judgment**. A score of 100 means no price resistance.
+
+Because the score depends only on price versus segment willingness-to-pay, **identical triplets imply identical prices** — which lets us rank every rival's price without ever seeing the price list.
+
+## Inferred price tiers (cheapest first)
+
+| Tier | Rec | Mtn | Speed | Brands |
+|-----:|----:|----:|------:|--------|
+| 100 | 100 | 100 | 100 | Spoke'd Easy, Mars Rover, Whole MILC MKII |
+| 92 | 92 | 100 | 100 | MountainCruise1 |
+| 85 | 85 | 100 | 100 | LiteTrail Pro |
+| 83 | 83 | 100 | 100 | LiteSpeed+ |
+| 82 | 82 | 100 | 100 | TERRAMean |
+| **81** | 81 | **100** | 100 | **Hike Bike**, Blu Ruged Ballz, Blu Tail Ballz |
+| **76** | 76 | 94 | **100** | **Swift Bike**, Skim MILC MKII |
+| 73 | 73 | 91 | 100 | TERRAMAX, Spoke'd Speed |
+| 73 | 73 | 90 | 100 | LiteSpeed Pro+ |
+| 70 | 70 | 86 | **100** | Mach 0.6, Blu Aero Ballz, Blu Tube Ballz, The Armstrong |
+| 63 | 63 | 78 | 90 | MACH I.I |
+
+## Speed is the least price-sensitive segment in the game
+
+Resistance sets in at completely different points by segment:
+
+- **Speed** stays at 100 all the way down to tier 70 — only the most expensive brand in the industry (MACH I.I) drops to 90
+- **Mountain** holds 100 only to tier 81, then falls immediately (94, 91, 86, 78)
+- **Recreation** resists almost everything; only the three cheapest brands reach 100
+
+## Hike Bike: hold $1,365
+
+Mountain price judgment is **100 — zero resistance** — and tier 81 is the **highest-priced tier that still achieves it**. The very next tier down (73, where TERRAMAX sits) takes a 9-point hit.
+
+We are extracting the maximum price Mountain will bear without penalty. Raising it drops us into the resistance band. This was a good decision; keep it.
+
+## Swift Bike: raise it
+
+Speed price judgment is 100 at our tier 76 — but **The Armstrong, Blu Tube Ballz, Blu Aero Ballz, and Mach 0.6 are all priced above us at tier 70 and still score 100.** There is roughly one to two tiers of headroom before Speed resistance appears at all.
+
+Estimating the dollar value: BB LLC averages about $1,480 across four brands, two of which (Blu Ruged, Blu Tail) appear to sit at our $1,365 tier. That implies their tier-70 Speed brands are near **$1,595** — roughly **$145 above Swift Bike's $1,450**.
+
+On Q3's 215 units that's about **$31,000 of pure margin**; on a rebuilt Speed volume of 400 units, closer to **$58,000**. No cost change whatsoever.
+
+> **Verify before locking.** The $1,595 figure is inferred from a graph-read average price plus the tier assumption. The *direction* is solid — rivals charge more and face no resistance — but confirm the exact number against the price list.
+
+## The BB LLC comparison is now airtight
+
+| | Hike Bike | Blu Ruged Ballz |
+|---|---|---|
+| Brand judgment (Mountain) | 73 | 73 |
+| Component recipe | 56/73/1 | **56/73/1 (identical)** |
+| Price judgment | 81 / 100 / 100 | **81 / 100 / 100 (identical)** |
+| Implied price | $1,365 | **$1,365 (same tier)** |
+| **Mountain share** | **22.1%** | **46.3%** |
+
+Same product, same price, same price perception — and they take 2.1× our share. **There is no product or pricing explanation left.** The entire gap is supply (we stocked out on 33% of demand), coverage (7 web staff to our 3), and advertising (24 regional ads to our 19).
+
+## Another reason Recreation stays parked
+
+Hike Bike's Recreation price judgment is **81** — Rec buyers resist $1,365 — while all three winning Recreation brands sit at tier 100, the cheapest in the game. Entering would mean a low-price, low-margin product, the opposite of our "profit margin leader" intent. Combined with the 56-versus-76 brand judgment gap, that settles it.
+
+## Q4 pricing actions
+
+| Brand | Decision |
+|-------|----------|
+| **Hike Bike** | **Hold $1,365** — judgment 100 at the top tier achieving it |
+| **Swift Bike** | **Raise** toward the Armstrong / Blu Tube tier, after verifying the price list |
+
+Two notes on timing. Raise Swift Bike's price in the **same quarter we fix its design to 77** — better product plus a price the segment doesn't resist is the cleanest margin gain on the board. And a price rise **relieves the capacity squeeze**: if we can't build 1,171 units, we should at least earn more on the ones we do build.
+
 ## Open decisions for Q4
 
 - [ ] Operating capacity + overtime

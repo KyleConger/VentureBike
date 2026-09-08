@@ -125,6 +125,27 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 - **Near-perfect pattern:** all 4 tactics funded → web demand **435–569** (BB LLC 33k/569 · SpaceBikes 33k/491 · LiteCycle 29k/435 · MILC 24k/435). Fewer tactics → **120–138** (Spoke'd Up 9k/138 · WeBike 6k/120).
 - **Full web rebuild:** 120 → 435 = **+315 units** ≈ $236,250 margin − $24,425 staff − $22,000 budget = **≈ +$189,800/qtr**. (Supersedes the earlier +$89,600, which only matched average web *mix*.)
 
+## Price judgment (Q3 actual — `Q3_Price_Judgment`)
+
+100 = no price resistance. Identical triplets ⇒ identical prices, so tiers rank every rival's price.
+
+| Tier | Rec | Mtn | Speed | Brands |
+|---:|---:|---:|---:|---|
+| 100 | 100 | 100 | 100 | Spoke'd Easy, Mars Rover, Whole MILC (the 3 Rec brands = cheapest) |
+| 85–92 | | 100 | 100 | MountainCruise1, LiteTrail Pro, LiteSpeed+, TERRAMean |
+| **81** | 81 | **100** | 100 | **Hike Bike ($1,365)**, Blu Ruged Ballz, Blu Tail Ballz |
+| **76** | 76 | 94 | **100** | **Swift Bike ($1,450)**, Skim MILC |
+| 73 | 73 | 91/90 | 100 | TERRAMAX, Spoke'd Speed, LiteSpeed Pro+ |
+| 70 | 70 | 86 | **100** | Mach 0.6, Blu Aero, Blu Tube, **The Armstrong** |
+| 63 | 63 | 78 | **90** | MACH I.I (most expensive in game) |
+
+- **SPEED is the least price-sensitive segment** — 100 all the way to tier 70; only tier 63 resists. **Mountain** holds 100 only to tier 81. **Recreation** resists nearly everything.
+- **HIKE BIKE: HOLD $1,365.** Mtn judgment **100** and tier 81 is the *highest* tier that still scores 100 (next tier down = 91). Already optimal.
+- **SWIFT BIKE: RAISE.** Tier-70 rivals (Armstrong, Blu Tube, Blu Aero) price *above* us and still score Speed **100**. Headroom ≈ 1–2 tiers. Inferred tier-70 price ≈ **$1,595** (+$145) ⇒ ~$31k on 215 units, ~$58k on 400. **VERIFY vs price list — direction solid, number inferred.**
+- Do the price rise in the **same quarter as the design fix to 77**. A price rise also **relieves the capacity squeeze** (more margin per unit on the same 24/day).
+- **BB LLC comparison now airtight:** Blu Ruged Ballz = identical components (56/73/1), identical brand judgment (73), **identical price judgment (81/100/100 ⇒ same $1,365)** — and **46.3% share vs our 22.1%**. No product or price explanation remains; the gap is **supply + coverage + ads**.
+- Recreation also fails on price: our Rec price judgment 81 vs winners all at tier 100 (cheapest) → low-margin segment, contradicts "profit margin leader". **Stays parked.**
+
 ## Capacity math — CORRECTED FORMULA
 
 **required OC/day = forecast units / (productivity × 65)**  ← use this

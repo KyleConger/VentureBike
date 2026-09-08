@@ -108,8 +108,22 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 - **City #3 = NYC is the larger prize** (2,039 vs Bangalore 761; NYC at 10% = 204 units beats Bangalore at 25% = 76). NYC Speed alone (880) > all Bangalore.
   - **Attack NYC via SPEED, not Mountain** — BB LLC holds 82.8% of NYC Mountain, but NYC Speed 880 has no dominant firm (best = Armstrong 272). Pairs with the Swift Bike → 77 fix.
 - **Capacity headroom ≈ 498 units** (24/day × 65 × 0.74 = 1,154 − 656 forecast) → a 3rd city fits with no printer purchase.
-- **Q4 SEQUENCING (depth before breadth):** 1st dollar **web rebuild** (+$89,600/qtr, reaches all 4 cities) → 2nd **Rio depth** (~106 units, no new lease) → 3rd **NYC store** (enter via Speed). NOT priorities: deepening AMS vs 6 store rivals, or Bangalore vs LiteCycle's 48.6%.
-- Our demand/store rep ~46 vs BB LLC ~88 → real headroom inside stores we already own.
+## Staffing (Q3 actual — `Q3_Staffing`)
+
+- **7 PEOPLE PER CITY IS THE HARD CAP.** No firm anywhere exceeds 7. **Amsterdam WeBike = 7 → AT CAP, cannot add anyone.** **Rio = 4 → 3 slots open.** A new city unlocks 7 fresh slots. ("Deepen Amsterdam" is NOT a legal move.)
+- **Rio head > Amsterdam head:** Rio 270 demand / 4 people = **67.5** vs AMS 295 / 7 = **42.1** (no rival store in Rio). Filling Rio's 3 slots ≈ **+200 units** — highest-return staffing move.
+- **We carry 2 UNTRAINED people** (1 Rio, 1 AMS). Only Bike Bros (last place) also does; other 5 firms train everyone. **Training costs $400/qtr each → $800 total.** Cheapest fix available.
+- **Demand per store person: WeBike 46.1 = LAST.** Bike Bros 70.0 · BB LLC 67.0 · Spoke'd Up 65.1 · SpaceBikes 57.6 · LiteCycle 54.9 · MILC 52.0. Industry avg (excl us) **61.1** → matching it at current 11 heads ≈ **+165 units, no new hires**.
+- Store headcount: BB LLC 14 (7+7) · SpaceBikes 14 (7+7) · WeBike 11 (7 AMS + 4 Rio) · Spoke'd Up 11 · LiteCycle 10 · Bike Bros 7 · MILC 7. Web staff: we cut to **~3** (from 5).
+- **Speed coverage thin: 3 specialists vs BB LLC/SpaceBikes/LiteCycle 6** — in the largest segment (2,878), with the 2nd-worst Speed brand. Mtn specialists: BB LLC 6 · WeBike 4 · LiteCycle 2 · Bike Bros 2. Rec: we have **0** (54 units pure spillover).
+
+## Q4 sequencing (depth before breadth)
+
+1. **Train the 2 untrained — $800.** Free productivity.
+2. **Fill Rio to 7** (+3: Mtn/Speed/Service) ≈ +200 units, no new lease.
+3. **Rebuild web staff 3 → 6** ≈ +152 units / **+$89,600**/qtr.
+4. **NYC store** (biggest prize, unlocks 7 slots) — enter via **Speed** once Swift Bike = 77.
+- NOT possible: more staff in Amsterdam (capped). NOT priorities: Bangalore vs LiteCycle's 48.6%.
 
 ## Channel mix (Q3 actual — `Q3_Channel`)
 

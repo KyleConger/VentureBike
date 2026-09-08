@@ -536,6 +536,95 @@ Web reach isn't a consolation prize for cities you skip — it's how the strong 
 
 Not priorities: deepening Amsterdam against six store-equipped rivals, or opening Bangalore against LiteCycle's entrenched 48.6%.
 
+---
+
+# Sales & service staffing — a cap, and a free win we skipped
+
+Data and analysis: `Q3Data.xlsx` → **Q3_Staffing**.
+
+| City | Company | Total | Service | Rec | Mtn | Speed | Untrained |
+|------|---------|------:|--------:|----:|----:|------:|----------:|
+| New York City | BB LLC | **7** | 1 | 0 | 3 | 3 | 0 |
+| New York City | Spoke'd Up | 5 | 1 | 2 | 0 | 2 | 0 |
+| New York City | SpaceBikes | **7** | 2 | 2 | 0 | 3 | 0 |
+| Rio de Janeiro | **WeBike** | **4** | 1 | 0 | 1 | 1 | **1** |
+| Amsterdam | Bike Bros | **7** | 2 | 0 | 2 | 2 | 1 |
+| Amsterdam | LiteCycle | 5 | 1 | 0 | 1 | 3 | 0 |
+| Amsterdam | **WeBike** | **7** | 1 | 0 | 3 | 2 | **1** |
+| Amsterdam | BB LLC | **7** | 1 | 0 | 3 | 3 | 0 |
+| Amsterdam | Spoke'd Up | 6 | 1 | 2 | 0 | 3 | 0 |
+| Amsterdam | SpaceBikes | **7** | 2 | 2 | 0 | 3 | 0 |
+| Amsterdam | MILC Bikes | **7** | 1 | 3 | 0 | 3 | 0 |
+| Bangalore | LiteCycle | 5 | 1 | 0 | 1 | 3 | 0 |
+
+## The 7-person cap settles the depth-vs-breadth question
+
+**No firm anywhere exceeds 7 people in a city**, and five separate city-firm pairs sit exactly at 7 — including our own Amsterdam.
+
+| | Rio | Amsterdam |
+|---|---:|---:|
+| Our headcount | 4 | **7 (at cap)** |
+| Open slots | **3** | **0** |
+
+"Deepen Amsterdam" is not a legal move — we're already maxed there. The only ways to add store selling capacity are to **fill Rio's three open slots** or **open a new city**, which unlocks seven fresh slots. That reframes my earlier suggestion about Amsterdam depth: it isn't available.
+
+## A Rio head is worth more than an Amsterdam head
+
+| | Rio | Amsterdam |
+|---|---:|---:|
+| Store people | 4 | 7 |
+| City demand | 270 | 295 |
+| **Demand per person** | **67.5** | **42.1** |
+| Rival stores in city | **0** | 6 |
+
+Rio staff are roughly 60% more productive, for the obvious reason that no rival has a store there. Filling those three Rio slots is the highest-return staffing move on the board — call it **+200 units** at Rio's current rate.
+
+(Caveat: city demand includes web orders, so per-person figures are directional rather than pure store productivity. The ranking is robust; the exact multiple isn't.)
+
+## We're paying two salaries for untrained sellers
+
+We carry **two untrained people** — one in Rio, one in Amsterdam. Only Bike Bros (the last-place firm) shares this; the other five competitors have trained **everyone**.
+
+Training costs $400 per quarter for Mountain or Speed. **Two people, $800 total**, against roughly $750 of contribution per unit. We're paying $24,425 a year each for sellers we never equipped. This is the cheapest fix in the entire quarter.
+
+## Our overall selling productivity is last
+
+| Company | Store people | Store demand | Demand per person |
+|---------|-------------:|-------------:|------------------:|
+| Bike Bros | 7 | 490 | **70.0** |
+| BB LLC | 14 | 938 | 67.0 |
+| Spoke'd Up | 11 | 716 | 65.1 |
+| SpaceBikes | 14 | 807 | 57.6 |
+| LiteCycle | 10 | 549 | 54.9 |
+| MILC Bikes | 7 | 364 | 52.0 |
+| **WeBike** | **11** | **507** | **46.1** |
+
+Matching the 61.1 industry average with our *existing* 11 people would mean about **672 store units instead of 507 — roughly 165 additional units with no new hires**. Part of that is the stock-out (we couldn't sell what we didn't build) and part is the two untrained staff.
+
+## We're thinnest in Speed, the largest segment
+
+| Speed specialists | Count | Speed demand | Per specialist |
+|-------------------|------:|-------------:|---------------:|
+| BB LLC | 6 | 657 | 109.5 |
+| SpaceBikes | 6 | 588 | 98.0 |
+| LiteCycle | 6 | 548 | 91.3 |
+| Spoke'd Up | 5 | 362 | 72.4 |
+| MILC Bikes | 3 | 328 | 109.3 |
+| **WeBike** | **3** | **215** | **71.7** |
+
+We field half the Speed coverage of the three leaders in the market's biggest segment (2,878 units) — while also carrying the industry's second-worst Speed brand. Both are fixable in Q4.
+
+## Q4 staffing plan
+
+| Priority | Action | Cost |
+|----------|--------|------|
+| 1 | **Train the 2 untrained** (Mountain in Rio, Speed in Amsterdam) | **$800** |
+| 2 | **Fill Rio to the 7-cap** (+3: Mountain, Speed, Service) | ~$18,300/qtr + hire/train |
+| 3 | **Rebuild web staff** 3 → 6 | ~$18,300/qtr |
+| 4 | Add Speed coverage (we have 3 vs leaders' 6) | included above |
+| 5 | New York store, if funded — unlocks 7 fresh slots, staff Speed-heavy | setup + lease + salaries |
+| — | **Not possible:** adding anyone in Amsterdam | at the cap |
+
 ## Open decisions for Q4
 
 - [ ] Operating capacity + overtime

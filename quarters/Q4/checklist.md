@@ -48,6 +48,20 @@ Design model re-validated **16 of 16 exact** on every Mountain/Speed brand: `_ve
 - [ ] Issue **no stock** ($1,010,838 already idle)
 - [ ] Target segments unchanged: Mountain primary / Speed secondary
 
+## R&D — 3 project slots (analysis `../Q3/Q3Data.xlsx` → `Q4_RD`, script `_analyze_rd.py`)
+**Framing:** every rated brand in the industry is **"Acceptable" (70–77)**. Nobody has reached Good (78–84), Very Good (85–94) or Excellent (95–100). Component ceilings are Mtn 73 / Speed 77 / Rec 76 — all one band. **R&D is the only route into three unclaimed bands.**
+**Decision rule:** 3 slots, 2 bikes → prefer features that upgrade **both** bikes. Only the material, gears, decals and accessory slots are segment-neutral; tires/bars/suspension are locked by each segment's recipe.
+- [ ] **Slot 1 — Decals: bright, styled per segment & frame** · $109,155 · $8/unit · needs score **929 (highest on the list)** · best value at 851 per $100k · decals are a **measured** +2 in Speed
+- [ ] **Slot 2 — Gears: 11 speed (1×11)** · $568,514 · $50/unit · score **905** · hits Mountain's **#1** need (incline 131) + Light weight (121/133) + Shifts smoothly (118/118) · gears are our **strongest measured** component (16-pt swing in Speed) · **highest-variance pick**
+- [ ] **Slot 3 — Enriched carbon fiber** · $1,023,325 · $40/unit · score 739 · Light weight (Speed **#2**, 133) + Durable (Mtn **#3**, 127) + Competitive advantage (Spd 124) · most on-strategy item on the board · **worst value per dollar (72/$100k)** — justified by the 50–75% spend mandate
+- [ ] **Schedule all three 1-quarter (rapid)** — we are slot-constrained, not cash-constrained. Features land in Q5 designs, and Q5's expanded engineering capacity stays free.
+- [ ] **Raise the full $2,500,000 VC.** Reconciles with the "stop issuing stock" rule, which was conditional on cash sitting *idle*; R&D is the productive use.
+- [ ] Read the **1-quarter vs 2-quarter** prices after selecting a quarter — listed figures are "Cost to finish" with no quarter chosen, and rapid costs more in total
+- [ ] Confirm the **incremental** unit cost on the Design Brand screen — all three are **replacements**, so the true add is less than the $98 gross
+- [ ] **ASK THE TEAM: how many quarters remain?** If the sim ends at Q6, 2-quarter scheduling would never ship. Only missing input.
+- Alternatives if the team wants less risk or less cash out: **puncture slime** ($159,184, $3/unit, score 640, both bikes) · **racing tires** ($254,694, score 602, Speed only) · **power straight bars** ($181,924, score 509, Mountain only)
+- Excluded: mesh tote basket (**Comfort frames only — fits neither bike**) · full suspension (**not Aerodynamic-compatible**, Hike Bike only, $85/unit) · hybrid tires + pedal charger (Recreation) · bike computer ($60/unit, navigation only 117/118)
+
 ## Deferred (tier 2)
 - [ ] **NYC store** — needs a printer + 7 hires; enter via **Speed** (880 units, no dominant firm), not Mountain (BB LLC holds 82.8%)
 - [ ] Business plan + seek up to **$2,500,000** VC

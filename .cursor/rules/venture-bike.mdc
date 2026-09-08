@@ -246,6 +246,34 @@ Full 30-item change list: **`quarters/Q4/copy-the-leader.md`** · workbook `Q3Da
 - **Expected:** units 423 → ~1,154 · served 67.5% → ~99% · web 120 → 435+ · ME 0.738 → **0.7675 (1st)** · Mfg 0.938 → **1.000** · Market 0.098 → **~0.26** · revenue $589,720 → ~$1.5–1.7M.
 - **Deliberately NOT copied:** BB LLC's 6.90 OT · their 4 brands (unadvertised overflow play needs spare capacity — Q5) · their **NYC store** (tier 2; they hold 82.8% NYC Mountain — enter via **Speed**, needs a printer + 7 hires).
 
+## R&D (Q4 — new decision type; `Q4_RD` · `quarters/Q4/_analyze_rd.py`)
+
+- **THE BIG ONE: every rated brand in the industry is "Acceptable" (70–77). ZERO are Good (78–84), Very Good (85–94) or Excellent (95–100).** Bands: Poor <70 · Acceptable 70–77 · Good 78–84 · Very Good 85–94 · Excellent 95–100. Component ceilings (Mtn 73 / Speed 77 / Rec 76) all sit in one band → **R&D is the ONLY route into 3 unclaimed bands.** "Customers are only partially satisfied" is literal.
+- **Constraints:** max **3 projects** this quarter (engineering expands next Q) · spend **50–75%** of available on R&D · each project schedulable over 1 or 2 quarters (**1-qtr costs MORE in total, arrives sooner**).
+- **Needs importance data already exists** in `Needs` sheet (Q1 research). Mountain top: incline **131** · rough terrain 128 · durable 127 · turn sharply 124 · soften impact 124 · stop quickly 123 · expertise 123 · light weight 121. Speed top: **speed 134** · **light weight 133** · expertise 126 · competitive advantage 124 · aerodynamic 122 · sleek 119 · high visibility 119 · shifts smoothly 118.
+- **DECISION RULE: 3 slots, 2 bikes → prefer BOTH-bike features.** Frame compatibility ≠ appropriateness: tires/bars/suspension are locked by each segment's recipe, so only **material, gears, decals and accessories** are segment-neutral. Hike Bike = Rugged, Swift = Aerodynamic. **Full suspension is NOT Aerodynamic-compatible** (Hike Bike only); **mesh tote is Comfort-only (fits NEITHER bike)**.
+- **RECOMMENDED 3 (not locked):** ① **Decals bright/per-segment** $109,155 · $8/unit · score **929, best on list**, 851/$100k, decals are a *measured* +2 in Speed ② **11-speed (1×11)** $568,514 · $50/unit · score 905 · Mountain's #1 need + light weight + shifts smoothly · gears = our strongest measured lever (16-pt swing) · **highest variance** ③ **Enriched carbon** $1,023,325 · $40/unit · score 739 · light weight/durable/competitive advantage · most on-strategy · **worst value/$ (72/$100k)**, justified only by the spend mandate. **Total $1,700,994 = 48.4% of $3.51M.**
+- **Schedule 1-quarter (rapid):** slot-constrained, NOT cash-constrained. Close any gap to the 50% floor by paying for speed, **not** by adding a weaker 4th feature.
+- **Raise the full $2.5M VC.** Reconciles with "stop issuing stock" — that rule was conditional on cash sitting **idle**; R&D is the productive use.
+- Alternatives: slime $159,184/$3/score 640/both bikes (lowest risk) · racing tires $254,694/602/Speed only · power straight bars $181,924/509/Mtn only.
+- **CAVEAT:** feature→need mapping is *our reading* of Workspace text, NOT sim output. Only gears/seat/decals/reflectors/lights have measured point values; frame/tires/brakes/bars never varied within a segment. All 3 picks are **replacement** parts → true incremental unit cost < $98 gross.
+- **OPEN QUESTION for the team: how many quarters remain?** If the sim ends at Q6, 2-quarter scheduling never ships.
+
+## Brand P&L (Q3 actual — supplied with the R&D screen)
+
+| | Hike Bike | Swift Bike |
+|---|---:|---:|
+| Units | 278 | 145 |
+| Revenue | $379,470 | $210,250 |
+| COGS/unit | **$618** | **$694** |
+| Gross margin/unit | $747 | $756 |
+| Brand expense/unit (ad+design) | $247 | **$569** |
+| Profit/unit | **$500** | **$188** |
+
+- Units reconcile to the 423 built. Gross margins confirm the $747 / $756 contribution figures.
+- **Swift's $188 is NOT structural:** one-time **$30,000** design fee + $45,433 advertising spread over only 145 units ($313/unit). At BB LLC's Speed volume (363) the same ad dollars = **$125/unit**. **Advertising is FIXED — volume crushes cost/unit.** Strongest financial argument yet for the capacity fix.
+- Swift costs **$76/unit MORE to build** than Hike Bike; the 14-speed swap should narrow it.
+
 ## Q4 standing priorities
 
 1. Schedule OC **to the forecast**. Base-only forecast needs ≈13/day, but the **plan of record (Rio + full web = 1,171 units) needs 24.35/day → schedule the full 24, OT 0.00**, giving 1,154 units (within 1.4%). No printers.

@@ -98,14 +98,18 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 | Rio | 219 | 286 | 269 | 774 | 11.8% | 270 | **34.9%** |
 | Bangalore | 185 | 190 | 386 | 761 | 11.6% | 24 | 3.2% |
 
-- **AMS + NYC = 77% of the market.** Stores inferred: AMS = all 7 · NYC = BB LLC/SpaceBikes/Spoke'd Up · **Rio = WeBike ONLY** · Bangalore = LiteCycle only · Bike Bros = AMS only.
+- **AMS + NYC = 77% of the market.** Stores **CONFIRMED** (Competitors in City): AMS = **all 7** · NYC = BB LLC/SpaceBikes/Spoke'd Up (**only 3**) · **Rio = WeBike ONLY** · Bangalore = LiteCycle only. Web centres = all but **Bike Bros**. Store counts: 2 each except **Bike Bros 1 (AMS, no web)** and **MILC 1 (AMS, web-first 54.4%)**.
+- **Amsterdam is the MOST contested city, not open** — all 7 have stores there; nobody exceeds 16.5% *because* all 7 are present. Avg demand per store firm: **AMS 426 vs NYC 579** → a NYC store beats deeper AMS investment.
+- **A store never captures the whole city:** store-firm capture = AMS 100% (7 firms) · NYC 85.2% (3) · **Rio 34.9% (1) → web-only rivals took 504 of 774** · Bangalore 48.6% (1).
+- **Rio: we under-exploit our monopoly.** Sole store holder, 34.9% vs **LiteCycle's 48.6%** in the same position in Bangalore (13.7 pts ≈ 106 units left on the table). BB LLC took **139 Rio units with NO store** = 51% of ours with one.
 - **Store effect ≈ 10x:** no store → 1.9–3.2% · store vs 6 rivals → 9.9% · **only store in city → 34.9% (us, Rio) / 48.6% (LiteCycle, Bangalore)**. Highest-leverage decision we have.
 - **Rio is the crown jewel: 58.0% of Rio Mountain**, 166 Hike Bike units (> Amsterdam's 156 from a segment 2.3x larger). Q3 ill will hits hardest exactly where we lead.
 - Mountain by city: AMS 24.0% · **Rio 58.0%** · NYC 4.6% (**BB LLC 82.8%**) · Bangalore 6.8% (LiteCycle 64.2%).
 - **City #3 = NYC is the larger prize** (2,039 vs Bangalore 761; NYC at 10% = 204 units beats Bangalore at 25% = 76). NYC Speed alone (880) > all Bangalore.
   - **Attack NYC via SPEED, not Mountain** — BB LLC holds 82.8% of NYC Mountain, but NYC Speed 880 has no dominant firm (best = Armstrong 272). Pairs with the Swift Bike → 77 fix.
 - **Capacity headroom ≈ 498 units** (24/day × 65 × 0.74 = 1,154 − 656 forecast) → a 3rd city fits with no printer purchase.
-- **Competing use of funds:** Amsterdam is 45.5% of the market, we hold 9.9%, and no rival exceeds 16.5%. Our demand/store rep ~46 vs BB LLC ~88 → depth in existing stores may beat map expansion.
+- **Q4 SEQUENCING (depth before breadth):** 1st dollar **web rebuild** (+$89,600/qtr, reaches all 4 cities) → 2nd **Rio depth** (~106 units, no new lease) → 3rd **NYC store** (enter via Speed). NOT priorities: deepening AMS vs 6 store rivals, or Bangalore vs LiteCycle's 48.6%.
+- Our demand/store rep ~46 vs BB LLC ~88 → real headroom inside stores we already own.
 
 ## Channel mix (Q3 actual — `Q3_Channel`)
 

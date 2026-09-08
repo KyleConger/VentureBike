@@ -342,7 +342,7 @@ Raw data: `Q3Data.xlsx` → **Q3_City_Demand** (65 brand × city rows). Analysis
 
 ## A store is worth roughly 10× web-only coverage
 
-Inferring store locations from demand concentration:
+Store locations — **confirmed by the "Competitors in City" report** (see the Presence section below):
 
 | City | Firms with a store | Our share |
 |------|--------------------|----------:|
@@ -353,7 +353,7 @@ Inferring store locations from demand concentration:
 
 The pattern is stark. With no store we get 1.9–3.2%. With a store against six rivals we get 9.9%. With the *only* store in a city we get 34.9% — and LiteCycle, alone in Bangalore, gets 48.6%. Bike Bros appears in no city but Amsterdam, which independently confirms its one-store, zero-web-center profile.
 
-This makes store placement the highest-leverage decision available to us. (Caveat: locations are inferred from demand patterns, not reported directly; MILC's second store isn't identifiable.)
+This makes store placement one of the highest-leverage decisions available to us.
 
 ## Rio is our crown jewel, and we damaged it
 
@@ -398,7 +398,9 @@ We can absorb roughly 500 additional units without buying a printer, so a New Yo
 
 ## The competing use of the money
 
-Worth weighing honestly before locking city #3: **Amsterdam is 45.5% of the market and we hold 9.9% of it**, where no rival exceeds 16.5%. It is genuinely open, we already have the store, and deepening sales coverage there may cost less per unit than opening a third city. Our demand per store salesperson (~46) is roughly half BB LLC's (~88), so there is headroom in the stores we already own.
+Worth weighing before locking city #3: **Amsterdam is 45.5% of the market and we hold 9.9% of it.** Our demand per store salesperson (~46) is roughly half BB LLC's (~88), so there is real headroom in the stores we already own — and deepening them costs no new lease.
+
+> **Corrected below.** I initially read Amsterdam as "genuinely open" because no rival exceeds 16.5%. The Competitors in City report shows all seven firms hold an Amsterdam store — nobody exceeds 16.5% *because* all seven are there. See the Presence section.
 
 ---
 
@@ -469,6 +471,70 @@ BB LLC pulls **1.8× our demand from the same number of stores**. Bike Bros — 
 ## This shifts the Q4 spending order
 
 The city #3 analysis said New York is the biggest prize, and that still holds. But this data says the **first** dollars should go to channel depth rather than channel breadth: rehire web staff, restart page upgrades, and add store sales people in Amsterdam and Rio. Those moves are cheaper, they pay back inside the quarter, and they don't add the fixed lease and setup cost of a third city while we're still carrying a $111,431 operating loss.
+
+---
+
+# Confirmed competitor footprints (Competitors in City)
+
+Data and analysis: `Q3Data.xlsx` → **Q3_Presence**.
+
+| Location | Bike Bros | LiteCycle | WeBike | BB LLC | Spoke'd Up | SpaceBikes | MILC | Store firms |
+|----------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---:|
+| Amsterdam | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | **7** |
+| New York City | – | – | – | ✔ | ✔ | ✔ | – | **3** |
+| Rio de Janeiro | – | – | **✔** | – | – | – | – | **1** |
+| Bangalore | – | ✔ | – | – | – | – | – | **1** |
+| Web Sales Centre | **–** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | 6 |
+
+**Every store location I inferred from the demand patterns is confirmed exactly.** One correction: **MILC Bikes has only one store** (Amsterdam), not two — so MILC runs a genuine web-first model, taking 54.4% of its demand online from a single physical location.
+
+## Correction: Amsterdam is the *most* contested city
+
+I earlier read Amsterdam as "genuinely open" because no rival exceeds 16.5% share. That was backwards. **All seven firms hold an Amsterdam store** — nobody exceeds 16.5% precisely because all seven are there.
+
+| | Amsterdam | New York City |
+|---|---:|---:|
+| City demand | 2,985 | 2,039 |
+| Store firms present | **7** | **3** |
+| Avg demand per store firm | **426** | **579** |
+
+A store in New York is worth *more* than deeper investment in Amsterdam. Amsterdam is 2,985 units split seven ways; New York is 2,039 units split three ways. Gaining Amsterdam share means prying it from six store-equipped rivals.
+
+## A store never captures the whole city
+
+| City | Store firms | Store-firm capture | Web-only rivals take |
+|------|------------:|-------------------:|---------------------:|
+| Amsterdam | 7 | 100% | 0 |
+| New York City | 3 | 85.2% | 301 (14.8%) |
+| Rio de Janeiro | **1** | **34.9%** | **504 (65.1%)** |
+| Bangalore | 1 | 48.6% | 391 (51.4%) |
+
+## Rio: we under-exploit our own monopoly
+
+| | WeBike in Rio | LiteCycle in Bangalore |
+|---|---:|---:|
+| Sole store holder | yes | yes |
+| City demand | 774 | 761 |
+| Units | 270 | **370** |
+| Share | **34.9%** | **48.6%** |
+
+Two nearly identical structural positions — sole store in a ~770-unit city — and LiteCycle extracts **13.7 more points of share**. Some of that is timing, since Rio only opened in Q3 and we stocked out. But **65% of our exclusive city still went to rivals with no store there at all**, worth roughly 106 units if we merely matched LiteCycle's extraction rate.
+
+## This makes the web case stronger, not weaker
+
+BB LLC pulled **139 units out of Rio with no store there** — 51% of what we managed *with* a store. SpaceBikes took 120, MILC 107, LiteCycle 106.
+
+Meanwhile we pull only 38 from New York and 24 from Bangalore by web. Rivals are three to five times better at the same manoeuvre.
+
+Web reach isn't a consolation prize for cities you skip — it's how the strong firms raid cities they never entered. Our 19.1% web mix is costing us in **all four cities, including the two where we have stores**.
+
+## Q4 sequencing
+
+1. **Web rebuild** — cheapest demand, reaches all four cities, pays back in-quarter (≈ +$89,600). Rivals have proved web raids cities you never enter.
+2. **Rio depth** — we're the only store there and extract 34.9% against LiteCycle's 48.6% in the same position. Closing that gap is ~106 units with no new lease.
+3. **New York store** — biggest single prize (2,039 units, only three store rivals). Enter through **Speed** once Swift Bike is fixed to 77; BB LLC holds 82.8% of NYC Mountain.
+
+Not priorities: deepening Amsterdam against six store-equipped rivals, or opening Bangalore against LiteCycle's entrenched 48.6%.
 
 ## Open decisions for Q4
 

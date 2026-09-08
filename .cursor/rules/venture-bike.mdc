@@ -47,16 +47,31 @@ Fifth member of an MBA team in Marketplace Venture / 3D carbon bike sim. Source 
 - Brands live: **Hike Bike** (Mtn, $1,365) · **Swift Bike** (Speed, $1,450) · Stores: Amsterdam + Rio · World web
 - Segments: Primary **Mountain** (22.1% share, #2) · Secondary **Speed** (7.5%, #6)
 - **Total Performance 0.411 — LAST.** Weakest: Market Perf 0.098, Asset Mgmt 0.353, Wealth 0.668
-- **204 of 627 units stocked out (33%)** — scheduled OC ~8/day vs fixed **24/day**. Q4 ill-will cut **16.3%**
-- Productivity actuals **70% sales / 72% production** (we projected 85%) — peers out-paid us
-- Full analysis: `quarters/Q3/results.md` · data `quarters/Q3/Q3Data.xlsx` (Q4_Planner sheet)
+- **204 of 627 units stocked out (33%)** — scheduled OC **8/day** vs fixed **24/day**. Q4 ill-will cut **16.3%**
+- Full analysis: `quarters/Q3/results.md` · data `quarters/Q3/Q3Data.xlsx` (`Q4_Planner`, `Q3_Industry_Graphs`)
+
+## Industry facts from Strategic Graphs (Q3) — approximate, chart-read
+
+- **OC ranking:** SpaceBikes 30 · MILC 24 · Bike Bros/LiteCycle/BB LLC 15 · Spoke'd Up 14 · **WeBike 8 (LAST)**. Only firm that *reduced* OC.
+- **Fixed capacity:** SpaceBikes 32 · WeBike/MILC 24 · rest 16. We own the 2nd-most and used the least.
+- **Under-scheduling raised unit cost:** labor/unit **$130 → $205**, COGS/unit **~$520 → ~$620**, utilization 16% → 73%. Right-sizing OC cuts cost *and* ends stock-outs.
+- **Productivity is mid-pack, NOT behind:** industry 68–73%; ours 72% prod / 70% sales. Pay is low-middle (prod $20,757 in a $20.5–23.5k range; sales $24,425 in $22–27k). **The error was planning on 85% — plan 73–75%.**
+- **Marketing is fine:** ads 19 (2nd), spend $119k (3rd), price ~$1,400 (3rd), Marketing Effectiveness at par. Weak spots: organic SEM clicks ~150 vs 440 best; **store+web spend $121k = LOWEST in industry**.
+- **Leakage:** share of demand **9.6%** vs share of units sold **7.3%**. Demand growth +235% = highest in industry. We create demand well and fill it badly.
+- **Demand per head is LAST:** ~45/SP vs 60 typical, 72 best (store 46 vs 88; web 42 vs 95) — headcount is at parity (14), output per head is not.
+- **Segments:** Speed **2,878** (all 7 firms, our 7.5%) · Recreation **2,060** (most searches ~1,350, our 2.6%) · Mountain **1,621** (smallest/slowest, BB LLC 46.3%, our 22.1%).
+- **BB LLC** = leader: all 3 segments, *highest* price ~$1,480, most ads (24), Asset Mgmt 0.920, fixed cap only 16 + ~7 OT (buys flexibility, not printers).
+- **SpaceBikes** = cumulative leader: skips Mountain, Rec 34.5% + Speed 20.4%, fixed cap 32.
+- **Bike Bros** = cautionary tale: 1 store, 0 web centers, 7 SP, share falling everywhere. Don't cut channel.
+- **Stores:** everyone but Bike Bros has 2 → **city #3 is a real differentiator**.
 
 ## Q4 standing priorities
 
-1. Schedule OC **to the forecast** (≈13/day required, 15/day suggested; fixed 24 is enough — no printers needed)
-2. Raise compensation — industry averages now visible from Q4
+1. Schedule OC **to the forecast** (≈13/day required, **15/day suggested**; fixed 24 is enough — no printers needed)
+2. Raise compensation toward upper quartile (sales ~$26.5k, prod ~$22.5k) but **budget 74% productivity, never 85%**
 3. Stop issuing stock while ~$1M sits idle; deploy cash into revenue (city #3, people, ads)
-4. Speed: strengthen the ad (judgment 70) or refocus media on Mountain
+4. **Do not cut channel spend** — it's already the industry's lowest; re-staff web
+5. Speed: strengthen the ad (judgment 70) or refocus on Mountain — but note Mountain alone caps our ceiling at a 1,621-unit segment
 
 ## Q1/Q2 history
 

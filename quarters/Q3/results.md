@@ -68,7 +68,7 @@ Mountain remains our real franchise. Speed entry bought share of a crowded segme
 ## Carry-forward penalties into Q4
 
 - **Ill will:** 32.5% of demand was lost → Q4 generated demand is cut by **16.3%**
-- **Sales force productivity fell to 70%** (we projected 85%) and **production to 72%** — competitors raised pay past us
+- **Productivity came in at 70% sales / 72% production** against our 85% projection — see the correction below
 - **Cash is $1,010,838 and idle** — the direct cause of Asset Management 0.353 (last)
 - We issued another **$500,000** of stock (25,000 shares), which lowers per-share Financial Performance and further dilutes asset turnover
 
@@ -84,10 +84,97 @@ Mountain remains our real franchise. Speed entry bought share of a crowded segme
 ## Q4 priorities
 
 1. **Schedule operating capacity to the forecast, not below it.** Planner in `Q3Data.xlsx` → `Q4_Planner`: at ~656 forecast demand and 72% productivity, required OC ≈ **13/day**; suggested **15/day** with cushion. Fixed 24/day covers it — no printers needed yet.
-2. **Raise compensation.** Q4 shows last quarter's industry averages for the first time. Our 85% projection missed by 13–15 points because peers out-paid us.
+2. **Raise compensation, but fix the planning assumption.** Move toward upper-quartile pay (sales ~$26–27k, production ~$22–23k) and budget capacity on **73–75%** productivity — the industry ceiling is ~73%, so 85% was never achievable.
 3. **Stop issuing stock** while $1M sits idle, and deploy the cash into revenue (city #3, sales people, ads).
 4. **Decide on Speed:** invest in a better Speed ad/brand or refocus media on Mountain where we are #2 with only 3 rivals.
 5. Gross margin (53.8%, lowest in industry) rises automatically with volume — another reason to build to demand.
+
+---
+
+# Industry comparison — Strategic Graphs (Q4 view, Q0–Q3)
+
+Chart-read values are approximate (±1 gridline). Full table: `Q3Data.xlsx` → **Q3_Industry_Graphs**.
+
+## The capacity chart confirms the diagnosis outright
+
+The Operating Capacity graph plots our scheduled capacity dropping **20 → 8 units/day** while every rival raised theirs. This is no longer an inference from the overtime math — it's on the chart.
+
+| Firm | Fixed cap | Scheduled OC (Q3) |
+|------|----------:|------------------:|
+| SpaceBikes | 32 | 30 |
+| MILC Bikes | 24 | 24 |
+| Bike Bros | 16 | 15 |
+| LiteCycle | 16 | 15 |
+| BB LLC | 16 | 15 (+~7 overtime) |
+| Spoke'd Up | 16 | 14 |
+| **WeBike** | **24** | **8** |
+
+We had the second-highest fixed capacity in the industry and scheduled the lowest operating capacity. We were the only firm that *reduced* operating capacity in Q3.
+
+## New finding: under-scheduling also raised our unit cost
+
+| WeBike | Q2 | Q3 |
+|--------|---:|---:|
+| Capacity utilization | 16% | 73% |
+| Average labor cost per unit | ~$130 | **~$205** |
+| Average COGS per unit | ~$520 | **~$620** |
+
+This was the opposite of what I expected. We sold four times the units and unit cost still went **up**, because a sub-scale operating capacity run with overtime is expensive per unit. So right-sizing capacity in Q4 is not just a revenue fix — it should pull COGS down too. That also explains why our gross margin (53.8%) is the industry's lowest.
+
+## Correction: we were not badly underpaid
+
+I previously wrote that peers out-paid us into a productivity gap. The HR graphs don't support that.
+
+| Metric | WeBike | Industry range |
+|--------|-------:|----------------|
+| Production compensation | $20,757 | $20,500 – $23,500 |
+| Sales compensation | $24,425 | $22,000 – $27,000 |
+| Production productivity | 72% | 68 – 73% |
+| Sales productivity | 70% | 70 – 75% |
+
+Our pay sits low-middle, but productivity is **mid-pack** — the entire industry runs about 70%. The real mistake was **planning capacity on an 85% assumption** that nobody in this market achieves. Raising pay is still worth doing (it buys a few points and helps the HR indicator), but budget on **73–75%**, not 85%.
+
+## Marketing is not our problem
+
+| Input | WeBike | Industry high | Rank |
+|-------|-------:|--------------:|-----:|
+| Regional ads | 19 | 24 | 2nd |
+| Advertising spend | $119,165 | ~$145,000 | 3rd |
+| Average price | ~$1,400 | ~$1,480 | 3rd |
+| Organic SEM clicks | ~150 | ~440 | 6th |
+| Store + web center spend | $121,000 | ~$360,000 | **lowest** |
+
+Ad volume and spend are competitive, which is why Marketing Effectiveness sits at par. Two things stand out instead: organic SEM clicks are weak, and **we spend the least in the industry on channel**. Our Q3 instinct to cut web staff and spend was pointed at the wrong target.
+
+Related: our **share of demand was 9.6% but share of units sold only 7.3%** — the stock-out leakage is visible directly in the graphs. And our Q3 demand growth rate (~235%) was the highest in the industry. **We are good at creating demand and bad at filling it.**
+
+## Demand per head is our weakest operating metric
+
+| Per-head demand (Q3) | WeBike | Best | Typical |
+|----------------------|-------:|-----:|--------:|
+| Per sales person | ~45 | ~72 | ~60 |
+| Per store sales person | ~46 | ~88 | ~70 |
+| Per web center person | ~42 | ~95 | ~75 |
+
+Headcount is at parity (14 people vs a typical 14), so this is an output problem, not a staffing-level problem.
+
+## Who's winning, and what to take from them
+
+**BB LLC** (Q3 leader, Total Performance ~22) competes in all three segments, charges the *highest* price (~$1,480) and still leads share, runs the most regional ads (24), and posts Asset Management of 0.920. Notably it keeps fixed capacity at 16 and buys flexibility with ~7 units of overtime instead of printers.
+
+**SpaceBikes** (cumulative leader, ~6.3) skips Mountain entirely, owns Recreation at 34.5% plus Speed at 20.4%, and was the only firm to out-build us — fixed capacity 32/day.
+
+**Bike Bros** is the cautionary tale: one store, zero web sales centers, seven sales people, and share falling in all three segments (Mountain 19% → 11%). That's where under-investing in channel leads.
+
+## The segment tension
+
+| Segment | Q3 size | Growth | Searches | Our share | Rivals |
+|---------|--------:|-------:|---------:|----------:|-------:|
+| Speed | 2,878 | +92% | ~900 | 7.5% | all 7 |
+| Recreation | 2,060 | +87% | ~1,350 | 2.6% | 3 |
+| Mountain | 1,621 | +54% | ~1,030 | 22.1% | 4 |
+
+Our least-crowded segment is also the smallest and slowest-growing, and BB LLC holds 46% of it. Mountain alone caps our ceiling — worth weighing before we decide whether to abandon or reinforce Speed.
 
 ## Open decisions for Q4
 

@@ -310,6 +310,38 @@ Full 30-item change list: **`quarters/Q4/copy-the-leader.md`** · workbook `Q3Da
 - **Swift's $188 is NOT structural:** one-time **$30,000** design fee + $45,433 advertising spread over only 145 units ($313/unit). At BB LLC's Speed volume (363) the same ad dollars = **$125/unit**. **Advertising is FIXED — volume crushes cost/unit.** Strongest financial argument yet for the capacity fix.
 - Swift costs **$76/unit MORE to build** than Hike Bike; the 14-speed swap should narrow it.
 
+## Social media (Q4 — new decision type; `Q4_Social_Media` · `_analyze_social_media.py`)
+
+- **RECOMMEND: START Social Networking at $10,000.** Agency advice: one medium now, **add one per quarter**. Can stop any time.
+- **OPPOSITE CASE FROM MEDIA INSERTS — and the reason is TIMING, not a change of principle.** Inserts deliver demand **this** quarter (harmful, capacity capped at 1,154 vs 1,171 forecast). Social media delivers **~none** this quarter (brief says so explicitly) and matures Q5–Q6 — **exactly when 2 printers take capacity to ~1,924 and NYC opens.** Ramp curve matches capacity curve.
+- **THE CLOCK IS START-DATE DRIVEN:** "if you decide to wait, you just push back the time it takes." Delay doesn't skip the ramp, it **shifts it right**. Two delay sources: search-engine cross-listing + our team's inexperience (learns by trial and error). Same logic as rapid R&D — when TIME is scarce, buy time.
+- **NO COMPETITOR BENCHMARK EXISTS** (verified across all 52 sheets). Q2 background listed social as a later unlock; this is it. ⇒ **every firm starts from zero — for once we're not behind.** Spend anchors we do have: SEM page $1,000 · ad design $6,000 · Biking insert $4,500 · BB LLC web tactics $7,000–$9,000 each. **Sim's unit for one meaningful activity ≈ $5,000–$10,000/qtr.**
+- **Social Networking fits the needs data:** hits 5 needs scoring **109–121 in BOTH segments** (status symbol 121/116 · colorful 120/109 · stylish 118/116 · young at heart 115/117 · fits personality 113/116) — the same cluster the decals R&D project targets. No reason to override the agency.
+- **PRE-REGISTERED: Q5 = VIDEO SHARING** (bikes are visual; a PICTURE is the most-used benefit in the industry — 4/4 Mountain ads, 8/8 Speed ads). **Q6 = BLOG** (hits "rider expertise required" Mtn 123 / Speed **126**, a top need we currently ignore).
+- **$10,000 rationale:** starts the clock · credible not token · **buys the MEASUREMENT cheaply** (same principle as skipping R&D slot 3 to calibrate) · 1% of the loan. Alternatives $5,000 (pure clock-start) / $20,000 (only if learning scales with headcount — brief pulls both ways) / $0 (only if sim ends Q5).
+- **Don't cut it later** — cutting restarts the clock we're paying to start. Expect **nothing measurable in Q4**; judge on the Q5–Q6 trend.
+- Case against (all real, none decisive): attribution impossible with 11 other Q4 changes (⇒ small steady budget, not delay) · we're last and should fix basics (⇒ that's why $10k not $50k) · effectiveness may be zero.
+- **⚠️ SAME OPEN QUESTION AS R&D: HOW MANY QUARTERS REMAIN?** If the sim ends at Q5 the honest answer is $0. Asymmetry (downside $10k, upside a matured channel, stoppable any time) is why we start anyway.
+
+## Q4 cash — REVISED sources & uses (`Q4_Social_Media` Part 6)
+
+| Use | Amount |
+|---|---:|
+| R&D listed (decals + 11-speed) | $677,669 |
+| R&D rapid premium (**estimate**) | $203,301 |
+| Operating plan, recurring | $75,000 |
+| Operating plan, one-time | $67,000 |
+| Swift brand redesign | $30,000 |
+| Swift ad redesign | $10,000 |
+| **HikeBike 1 ad redesign** | $10,000 |
+| Printers #4 + #5 | $480,000 |
+| **Social Networking** | $10,000 |
+| **TOTAL** | **$1,562,970** |
+
+- Cash $1,010,838 + loan $950,000 = **$1,960,838** → **ending cash $397,868** vs $300,000 floor = **headroom $97,868**.
+- **Operating recurring dropped $146,000 → $75,000** because media Option C swings **−$44,000** instead of Option B's **+$27,000** (a **$71,000** swing = 7× the social budget). Social media is **reallocated, not added**.
+- HikeBike 1 ad redesign fee was **missing** from the earlier financing table; now included.
+
 ## Q4 standing priorities
 
 1. Schedule OC **to the forecast**. Base-only forecast needs ≈13/day, but the **plan of record (Rio + full web = 1,171 units) needs 24.35/day → schedule the full 24, OT 0.00**, giving 1,154 units (within 1.4%). No printers.

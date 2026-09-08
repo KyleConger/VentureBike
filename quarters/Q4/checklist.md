@@ -30,6 +30,7 @@ Design model re-validated **16 of 16 exact** on every Mountain/Speed brand: `_ve
 - [ ] Media: **Swift Bike Biking ×12** and nothing else
 - [ ] Total 24 inserts / **$108,000** — five more inserts than Q3 for **$8,000 less**
 - [ ] Organic SEM: 2 pages at $1,000, unchanged (rank follows ad judgment, so the ad fixes are the SEM fix)
+- [ ] Paid SEM (OPEN, analysis `../Q3/Q3Data.xlsx` → `Q4_Paid_SEM`): **HikeBike 1 bid $2.40 / budget $150** (Mountain keywords, match the $2.40 avg). **Swift Bike bid $1.95 / budget $80** (Speed keywords, match the $1.95 avg). Appear in paid; cap the clicks. Do not bid above the averages and do not sit out.
 
 ## Channel
 - [ ] Toll-free phone **$6,000 → $9,000**

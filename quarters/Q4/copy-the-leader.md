@@ -138,6 +138,7 @@ Both of our gaps are salary plus the Full-coverage mistake. The proof that mix b
 26. **Issue no stock.** $1,010,838 already sits idle — that's exactly what Asset Management 0.353 punishes.
 27. **Target segments: Mountain primary, Speed secondary.** Already identical to BB LLC. No action, just don't touch it.
 28. **Organic SEM: 2 pages at $1,000 each, unchanged.** BB LLC gets 437 clicks from the *same* two pages and the *same* $2,000. Rank is the gap, not budget — and since rank follows ad judgment, changes 10 and 11 *are* the SEM fix.
+28a. **Paid SEM (new Q4 screen): match the posted averages, throttle with the budget.** Industry averages are Mountain **$2.40** and Speed **$1.95**. Enter **HikeBike 1 at $2.40 / $150** and **Swift Bike at $1.95 / $80**. Paid listings sit above organic, so sitting out hands BB LLC the intercept on Mountain searches; a $1,000 budget would dump 400+ clicks onto a 17-unit capacity hole. Full math: `../Q3/Q3Data.xlsx` → `Q4_Paid_SEM`. OPEN — vote required.
 29. **No rebates.** Only the two Recreation price leaders use them.
 30. **No Recreation brand — park it for Q5.** BB LLC doesn't have one scoring 70+ either. Brand count doesn't drive share: Bike Bros has 5 brands and finished last, SpaceBikes has 2 and leads cumulatively.
 

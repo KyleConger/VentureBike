@@ -52,6 +52,11 @@ Append-only record of locked decisions across quarters.
 | 2026-08-27 | Q2 | **Web productivity LOCKED** | Start **both** · Toll-free **$3k**/qtr (+$3k setup) · Pages **$6k**/qtr (+$6k setup) | Defaults; ~$18k first-Q cash; curve-efficient | Team |
 | 2026-08-27 | Q2 | **Sales/service hiring LOCKED** | AMS **5** (1 svc / 4 mtn) · Web **5** (3 sales / 2 support) | ~400 demand @40/SP; train 300/250/400/400 | Team |
 | 2026-08-27 | Q2 | **Hike Bike only LOCKED** | Price **$1,365** · rebate 0 · priority 1 · **no Speed brand Q2** | Accept HQ two-segment warning; Speed → Q3+ | Team |
+| 2026-09-08 | Q3 | **Speed brand launched** | **Swift Bike** @ $1,450 · new Speed ad · Speed sales/service training | Secondary segment; ad judgment 70 vs Mtn 80 | Team |
+| 2026-09-08 | Q3 | Mountain ad media diversified | Channels spread beyond Biking-heavy mix | Ad judgment held at 80 | Team |
+| 2026-09-08 | Q3 | Web staff + spend cut | Fewer web sales/support; page-upgrade tactic **stopped** | Constraint was production, not demand | Team |
+| 2026-09-08 | Q3 | **Q3 RESULT — last place** | TP **0.411** · **204/627 units stocked out** · op profit **−$111,431** | Scheduled OC ~8/day vs fixed 24/day; see `quarters/Q3/results.md` | Sim |
+| 2026-09-08 | Q3 | Q3 data captured | **`quarters/Q3/Q3Data.xlsx`** | Q3_BSC · Q3_Market · Q3_Financials · Q3_Unit_Economics · Q4_Planner | AI |
 | 2026-08-20 | Q1 | Industry avg sales compensation | $19,310 total (see compensation-industry-avg-sales.md) | Reference for Q2; pay above avg | Team / Sim |
 | 2026-08-20 | Q1 | Industry avg production compensation | $16,043 total (see compensation-industry-avg-production.md) | Reference for Q2; pay above avg | Team / Sim |
 | | Q1 | Company name | _(open)_ | | |

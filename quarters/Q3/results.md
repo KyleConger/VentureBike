@@ -86,7 +86,7 @@ Mountain remains our real franchise. Speed entry bought share of a crowded segme
 1. **Schedule operating capacity to the forecast, not below it.** Planner in `Q3Data.xlsx` → `Q4_Planner`: at ~656 forecast demand and 72% productivity, required OC ≈ **13/day**; suggested **15/day** with cushion. Fixed 24/day covers it — no printers needed yet.
 2. **Raise compensation, but fix the planning assumption.** Move toward upper-quartile pay (sales ~$26–27k, production ~$22–23k) and budget capacity on **73–75%** productivity — the industry ceiling is ~73%, so 85% was never achievable.
 3. **Stop issuing stock** while $1M sits idle, and deploy the cash into revenue (city #3, sales people, ads).
-4. **Decide on Speed:** invest in a better Speed ad/brand or refocus media on Mountain where we are #2 with only 3 rivals.
+4. **Speed: fix it, don't abandon it.** Redesign Swift Bike toward the 12/1/77 profile (we're at 10/1/72, and 8 of 9 rivals beat us) and strengthen the Speed ad (judgment 70). Leave Hike Bike's design alone — it's tied for best in the industry at 73.
 5. Gross margin (53.8%, lowest in industry) rises automatically with volume — another reason to build to demand.
 
 ---
@@ -175,6 +175,85 @@ Headcount is at parity (14 people vs a typical 14), so this is an output problem
 | Mountain | 1,621 | +54% | ~1,030 | 22.1% | 4 |
 
 Our least-crowded segment is also the smallest and slowest-growing, and BB LLC holds 46% of it. Mountain alone caps our ceiling — worth weighing before we decide whether to abandon or reinforce Speed.
+
+---
+
+# Brand Judgment — World Market, Q3 (all 20 industry brands)
+
+Exact scores from the sim report. Full table: `Q3Data.xlsx` → **Q3_Brand_Judgment**.
+
+## Hike Bike is tied for the best Mountain brand in the industry
+
+| Brand | Company | Mountain judgment |
+|-------|---------|------------------:|
+| **Hike Bike** | **WeBike** | **73** |
+| TERRAMAX | Bike Bros | 73 |
+| Blu Ruged Ballz | BB LLC | 73 |
+| TERRAMean | Bike Bros | 72 |
+| LiteTrail Pro | LiteCycle | 70 |
+| Blu Tail Ballz | BB LLC | 70 |
+
+Nobody in the industry exceeds 73, so that looks like the ceiling — and we're at it.
+
+This is the single most useful thing in the report, because **BB LLC takes 46.3% of Mountain to our 22.1% with a brand scored *identically* to ours (56/73/1)**. Same product appeal, 2.1× the share. The gap cannot be product. It is:
+
+- **Supply** — we stocked out on 33% of demand; they didn't
+- **Coverage** — 21 sales people to our 14, ~88 demand per store rep to our 46
+- **Ad volume** — 24 regional ads to our 19
+
+**Do not redesign Hike Bike. Feed it.** Redesign spend on Mountain is wasted money.
+
+## Swift Bike is the weakest real Speed brand
+
+| Brand | Company | Speed judgment |
+|-------|---------|---------------:|
+| MACH I.I | Bike Bros | 77 |
+| LiteSpeed Pro+ | LiteCycle | 77 |
+| Blu Tube Ballz | BB LLC | 76 |
+| The Armstrong | SpaceBikes | 76 |
+| Skim MILC MKII | MILC Bikes | 76 |
+| Spoke'd Speed | Spoke'd Up | 75 |
+| LiteSpeed+ | LiteCycle | 74 |
+| Blu Aero Ballz | BB LLC | 74 |
+| **Swift Bike** | **WeBike** | **72** |
+| Mach 0.6 | Bike Bros | 61 |
+
+Eight of nine rival Speed brands beat us; only Bike Bros' abandoned Mach 0.6 is worse. But the winning profile (12/1/77) is very close to ours (10/1/72), so a **modest redesign should close most of the 5-point gap**.
+
+This answers the Speed question from the graph analysis. Weak product (72) *plus* weak ad (judgment 70) fully explains 7.5% share in a 2,878-unit segment. Speed isn't a lost cause — it's an under-built entry. Fixing both is cheaper than abandoning the segment.
+
+## Brand design is commoditising
+
+Multiple firms have landed on byte-identical profiles:
+
+| Profile (Rec/Mtn/Speed) | Brands sharing it |
+|-------------------------|-------------------|
+| 56 / 73 / 1 | TERRAMAX, **Hike Bike**, Blu Ruged Ballz |
+| 58 / 70 / 1 | LiteTrail Pro, Blu Tail Ballz |
+| 12 / 1 / 77 | MACH I.I, LiteSpeed Pro+ |
+| 9 / 1 / 76 | Blu Tube Ballz, The Armstrong, Skim MILC MKII |
+| 7 / 1 / 74 | LiteSpeed+, Blu Aero Ballz |
+| 73 / 1 / 1 | Spoke'd Easy, Mars Rover |
+
+Everyone is converging on the same optima, and the ceilings (73 Mountain, 77 Speed) appear hard. **No one can win on product alone from here** — differentiation has to come from supply, channel, ads, and price. That is consistent with everything the Strategic Graphs showed.
+
+## Brand count doesn't buy share
+
+| Company | Brands | Overall share |
+|---------|-------:|--------------:|
+| Bike Bros | 5 | 7.5% |
+| BB LLC | 4 | 23.0% |
+| LiteCycle | 3 | 15.0% |
+| **WeBike** | **2** | **9.6%** |
+| Spoke'd Up | 2 | 13.0% |
+| SpaceBikes | 2 | **19.8%** |
+| MILC Bikes | 2 | 12.2% |
+
+Bike Bros has the most brands and the worst share; SpaceBikes leads cumulatively on two. **A third brand is not our Q4 priority** — filling demand for the two we have is.
+
+## One free option we're sitting on
+
+Hike Bike scores **56 with Recreation buyers** and pulled **54 units of Recreation demand we never targeted** — in the segment with the highest search volume (~1,350) and 2,060 units of size. But 56 against a dedicated 76 means we can't win Recreation on spillover. Worth parking as a Q5 option with a real design, not a Q4 scramble.
 
 ## Open decisions for Q4
 

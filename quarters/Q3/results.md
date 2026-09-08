@@ -764,7 +764,7 @@ Estimating the dollar value: BB LLC averages about $1,480 across four brands, tw
 
 On Q3's 215 units that's about **$31,000 of pure margin**; on a rebuilt Speed volume of 400 units, closer to **$58,000**. No cost change whatsoever.
 
-> **Verify before locking.** The $1,595 figure is inferred from a graph-read average price plus the tier assumption. The *direction* is solid — rivals charge more and face no resistance — but confirm the exact number against the price list.
+> **Verified.** The actual price list came in at **$1,580** for that tier — my $1,595 estimate was off by $15 (0.9%). See the Prices section below.
 
 ## The BB LLC comparison is now airtight
 
@@ -787,9 +787,106 @@ Hike Bike's Recreation price judgment is **81** — Rec buyers resist $1,365 —
 | Brand | Decision |
 |-------|----------|
 | **Hike Bike** | **Hold $1,365** — judgment 100 at the top tier achieving it |
-| **Swift Bike** | **Raise** toward the Armstrong / Blu Tube tier, after verifying the price list |
+| **Swift Bike** | **Raise $1,450 → $1,580** — verified against the actual price list |
 
 Two notes on timing. Raise Swift Bike's price in the **same quarter we fix its design to 77** — better product plus a price the segment doesn't resist is the cleanest margin gain on the board. And a price rise **relieves the capacity squeeze**: if we can't build 1,171 units, we should at least earn more on the ones we do build.
+
+---
+
+# Actual price list — the tier inference was right
+
+Data and analysis: `Q3Data.xlsx` → **Q3_Prices**.
+
+## Validation
+
+| Inferred tier | Actual net price | Brands |
+|--------------:|-----------------:|--------|
+| 100 | $950 – $1,050 | Spoke'd Easy, Mars Rover, Whole MILC MKII |
+| 92 | $1,199 | MountainCruise1 |
+| 85 | $1,300 | LiteTrail Pro |
+| 83 | $1,325 | LiteSpeed+ |
+| 82 | $1,349 | TERRAMean |
+| **81** | **$1,365** | **Hike Bike**, Blu Ruged Ballz, Blu Tail Ballz |
+| **76** | **$1,450** | **Swift Bike**, Skim MILC MKII |
+| 73 | $1,499 – $1,515 | TERRAMAX, Spoke'd Speed, LiteSpeed Pro+ |
+| 70 | $1,579 – $1,580 | Mach 0.6, Blu Aero Ballz, Blu Tube Ballz, The Armstrong |
+| 63 | $1,749 | MACH I.I |
+
+**Monotonic across all ten tiers, and identical price judgment meant identical price in every single case.** My tier-70 estimate of $1,595 came in at $1,580 — off by $15.
+
+## The Speed ladder: we're nearly the cheapest with nearly the worst product
+
+| Price | Brand | Brand judgment | Price judgment |
+|------:|-------|---------------:|---------------:|
+| $1,749 | MACH I.I | 77 | **90** ← only Speed brand facing resistance |
+| $1,580 | Blu Aero Ballz | 74 | 100 |
+| $1,580 | Blu Tube Ballz | 76 | 100 |
+| $1,580 | The Armstrong | 76 | 100 |
+| $1,579 | Mach 0.6 | 61 | 100 |
+| $1,515 | LiteSpeed Pro+ | 77 | 100 |
+| $1,499 | Spoke'd Speed | 75 | 100 |
+| **$1,450** | **Swift Bike** | **72** | 100 |
+| $1,450 | Skim MILC MKII | 76 | 100 |
+| $1,325 | LiteSpeed+ | 74 | 100 |
+
+Swift Bike is the **second cheapest of ten Speed brands** and carries the **second worst product**. We're $97 below the Speed median.
+
+Note Mach 0.6: Bike Bros charges **$1,579** for a brand judged **61** and still draws no price resistance. Speed buyers simply aren't price-sensitive in this range.
+
+## Swift Bike: raise to $1,580 (+$130)
+
+$1,580 is proven safe by four separate rival brands. Resistance doesn't appear until $1,749.
+
+| | |
+|---|---:|
+| On Q3 volume (215 units) | **+$27,950** |
+| On a rebuilt 400 units | **+$52,000** |
+
+Pure margin, no cost change. The $1,581–$1,748 zone is untested — nobody prices there — so $1,580 is the evidence-backed target.
+
+## Hike Bike confirmed at the Mountain ceiling
+
+| Price | Mountain price judgment |
+|------:|------------------------:|
+| $1,300 – $1,365 | **100** |
+| $1,450 | 94 |
+| $1,499 | 91 |
+
+Mountain resistance begins somewhere between $1,365 and $1,450. We sit at the top of the clean band, and the $85 of untested space isn't worth risking a judgment drop. **Hold.**
+
+## After the price rise, Swift Bike becomes our most profitable unit
+
+| | Price | Unit cost | Contribution |
+|---|---:|---:|---:|
+| Hike Bike | $1,365 | $618 | $747 |
+| Swift Bike today | $1,450 | $694 | $756 |
+| **Swift Bike at $1,580** | $1,580 | $694 | **$886** |
+| Swift Bike at $1,580, 14-speed | $1,580 | lower | higher still |
+
+And the 14-speed design fix should reduce its cost, widening the gap further. This matters because capacity now binds — with a hard ceiling on units, contribution per unit determines profit.
+
+## How rivals price by segment
+
+| Company | Mountain | Speed | Recreation |
+|---------|---------:|------:|-----------:|
+| BB LLC | $1,365 | **$1,580** | — |
+| SpaceBikes | — | $1,580 | $1,050 net |
+| MILC Bikes | — | $1,450 | $950 net |
+| LiteCycle | $1,300 | $1,325–1,515 | — |
+| Bike Bros | $1,349–1,499 | $1,579–1,749 | $1,199 |
+| **WeBike** | **$1,365** | **$1,450** | — |
+
+The strong firms price Speed **$200+ above Mountain** and Recreation far below. BB LLC is the cleanest case: identical Mountain price to ours, Speed **$215 higher**. We copied their Mountain price correctly and missed their Speed price entirely.
+
+## A lever we haven't considered: the priority field
+
+Our order is Hike Bike 1, Swift Bike 2. In Q3 both brands lost almost exactly the same share of demand (32.5% and 32.6%), so priority did **not** shield Hike Bike — treat the mechanism as unverified.
+
+It matters in Q4 because capacity binds. If we can't build all demand, priority decides the mix, and after the price rise Swift Bike earns $886 per unit against Hike Bike's $747. A pure margin view argues for promoting Swift Bike.
+
+The counter-argument is real, though: **Mountain is our primary segment for the Balanced Scorecard's Market Performance**, and we hold 22.1% there versus 7.5% in Speed. Starving Hike Bike would help the income statement and hurt the scorecard. Worth deciding deliberately rather than leaving on default.
+
+On rebates: only the two Recreation leaders use them (Mars Rover $50, Whole MILC $100). It looks like a price-sensitive-segment tool, so no reason for us to start.
 
 ## Open decisions for Q4
 

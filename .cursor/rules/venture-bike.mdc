@@ -46,29 +46,30 @@ Fifth member of an MBA team in Marketplace Venture / 3D carbon bike sim. Source 
 - Q3 NI **−$111,431** · Revenue **$589,720** · Retained earnings **−$829,162** · No debt
 - Brands live: **Hike Bike** (Mtn, $1,365) · **Swift Bike** (Speed, $1,450) · Stores: Amsterdam + Rio · World web
 - Segments: Primary **Mountain** (22.1% share, #2) · Secondary **Speed** (7.5%, #6)
-- **Total Performance 0.411 — LAST.** Weakest: Market Perf 0.098, Asset Mgmt 0.353, Wealth 0.668
+- **Total Performance 0.411 — LAST** (product of 9 indicators; 7% of industry avg 5.897). Last on Financial 5.319, Wealth 0.668, Asset Mgmt 0.353. Market 0.098 is **6th** (Bike Bros 0.085). Mktg Eff 0.738 near par. IIF 6.795 is 2nd (ratio — will fall as revenue grows). Mfg 0.938 is high because we under-scheduled.
 - **204 of 627 units stocked out (33%)** — scheduled OC **8/day** vs fixed **24/day**. Q4 ill-will cut **16.3%**
-- Full analysis: `quarters/Q3/results.md` · data `quarters/Q3/Q3Data.xlsx` (`Q4_Planner`, `Q3_Industry_Graphs`)
+Full analysis: `quarters/Q3/results.md` · data `quarters/Q3/Q3Data.xlsx` (`Q3_Competitor_Profiles`, `Q4_Planner`, `Q3_Industry_Graphs`, `Q3_Organic_SEM`)
 
-## Industry facts from Strategic Graphs (Q3) — approximate, chart-read
+## Industry facts from Competitor Profiles (Q3) — EXACT report, supersedes chart-reads
 
-- **OC ranking:** SpaceBikes 30 · MILC 24 · Bike Bros/LiteCycle/BB LLC 15 · Spoke'd Up 14 · **WeBike 8 (LAST)**. Only firm that *reduced* OC.
-- **Fixed capacity:** SpaceBikes 32 · WeBike/MILC 24 · rest 16. We own the 2nd-most and used the least.
+- **OC ranking (exact):** BB LLC **24 + 6.90 OT = 30.90 effective** · SpaceBikes 30 + 0 · MILC 17 · Spoke'd Up 15+1.88 · LiteCycle 14+1.75 · Bike Bros 15 · **WeBike 8+1.00 = 9.00 (LAST)**. Only firm that *reduced* OC.
+- **Fixed capacity (exact):** SpaceBikes 32 · **WeBike = BB LLC = MILC 24** · rest 16. Three firms own 24; we used 33% of ours (BB LLC used 100% + OT).
+- **BB LLC capacity model:** 24 owned, 24 scheduled, 6.90 OT, 75% worker prod → 1,506 units vs 1,507 demand. They scheduled TO demand. NOT "16 printers + flexibility".
 - **Under-scheduling raised unit cost:** labor/unit **$130 → $205**, COGS/unit **~$520 → ~$620**, utilization 16% → 73%. Right-sizing OC cuts cost *and* ends stock-outs.
-- **Productivity is mid-pack, NOT behind:** industry 68–73%; ours 72% prod / 70% sales. Pay is low-middle (prod $20,757 in a $20.5–23.5k range; sales $24,425 in $22–27k). **The error was planning on 85% — plan 73–75%.**
-- **Marketing is fine:** ads 19 (2nd), spend $119k (3rd), price ~$1,400 (3rd), Marketing Effectiveness at par. Weak spots: organic SEM clicks ~150 vs 440 best; **store+web spend $121k = LOWEST in industry**.
+- **Productivity is mid-pack, NOT behind:** worker **70–75%** (ours 72); sales **68–78%** (ours 70; BB LLC 78 is the ceiling). **The error was planning on 85% — plan 73–75% workers, mid-70s sales.** Exact packages: `quarters/Q3/compensation-competitors.md`. Sales **$24,425 = 6th of 7** (mean $25,211). Production **$20,757 = tied 5th/6th** (mean $21,441). Team goal "pay > average" is currently failing. Sales mix error: salary $19k is 6th of 7 while Full coverage bloats health. BB LLC 78.4% sat on Expanded/2wk/4%; MILC 70.0% on Full/1wk/1% at higher cost.
+- **Marketing volume is fine, mix is not:** ads 19 (2nd), spend $119k (3rd), ME at par. BB LLC spent **$108k for 24 inserts, 100% Biking**; we spent **$116k for 19, only 10 Biking**. HikeBike 1 Biking **12 (Q2) → 6 (Q3)** on the identical Mountain product. Organic SEM 144 vs 437 on the SAME $2,000 — quality not budget; LiteCycle 153 clicks / 435 web units vs our 144/120, so organic is **not** the web problem. **store+web spend $121k = LOWEST**.
 - **Leakage:** share of demand **9.6%** vs share of units sold **7.3%**. Demand growth +235% = highest in industry. We create demand well and fill it badly.
-- **Demand per head is LAST:** ~45/SP vs 60 typical, 72 best (store 46 vs 88; web 42 vs 95) — headcount is at parity (14), output per head is not.
+- **Demand per head is LAST:** WeBike 44.8/SP vs BB LLC 71.8, Bike Bros 70.0. Headcount is NOT at parity — leaders run **21** (14 store + 7 web); we have 14.
 - **Segments:** Speed **2,878** (all 7 firms, our 7.5%) · Recreation **2,060** (most searches ~1,350, our 2.6%) · Mountain **1,621** (smallest/slowest, BB LLC 46.3%, our 22.1%).
-- **BB LLC** = leader: all 3 segments, *highest* price ~$1,480, most ads (24), Asset Mgmt 0.920, fixed cap only 16 + ~7 OT (buys flexibility, not printers).
-- **SpaceBikes** = cumulative leader: skips Mountain, Rec 34.5% + Speed 20.4%, fixed cap 32.
-- **Bike Bros** = cautionary tale: 1 store, 0 web centers, 7 SP, share falling everywhere. Don't cut channel.
-- **Stores:** everyone but Bike Bros has 2 → **city #3 is a real differentiator**.
+- **BB LLC** = Q3 quarterly BSC 22: Mountain + Speed (no Rec brand ≥70), most ads (24), Asset Mgmt 0.920, **24 printers fully scheduled + 6.90 OT**, 21 people, 4 web tactics, sales prod 78%.
+- **SpaceBikes** = cumulative leader + Q3 BSC 11: skips Mountain, Rec 34.5% + Speed 20.4%, **32 printers, 30 OC, 0 OT**.
+- **Bike Bros** = cautionary tale: 5 brands, 1 store, 0 web, 7 SP, BSC 1, 490 demand. Don't cut channel. Don't add a 3rd brand.
+- **Stores:** 5 firms have 2; Bike Bros AND MILC have 1. **Nobody has 3 → city #3 is still unclaimed.**
 
 ## Brand judgment (Q3 actual — exact from report)
 
 - **Hike Bike 56/73/1 — Mountain 73 is TIED FOR BEST IN INDUSTRY** (with Bike Bros TERRAMAX + BB LLC Blu Ruged Ballz). **Ceiling is 73; do NOT redesign.**
-- Key proof: BB LLC has an **identical 56/73/1** design and **46.3%** Mountain share vs our **22.1%**. Same product, 2.1x share → gap is **supply + coverage + ad volume, not product**.
+- Key proof: BB LLC has an **identical 56/73/1** design and **46.3%** Mountain share vs our **22.1%**. Same product, 2.1x share → gap is **supply + coverage + Biking inserts (12 vs 6), not product**.
 - **Swift Bike 10/1/72 — 2nd WORST Speed brand.** Ceiling 77 (MACH I.I, LiteSpeed Pro+ at 12/1/77). 8 of 9 rival Speed brands beat us. Profile is close → modest redesign closes most of the gap.
 - Speed ceiling **77**, Mountain **73**, Recreation **76** (MountainCruise1). Nobody exceeds these.
 - **Designs are commoditising** — many firms share byte-identical profiles (56/73/1 ×3, 12/1/77 ×2, 9/1/76 ×3, 7/1/74 ×2, 73/1/1 ×2). No one wins on product alone.
@@ -89,7 +90,7 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 - **Components are segment-dependent:** reflectors **+1 Speed / −1 Mountain** / required Rec · decals +2 Speed · lights +1 Speed, excluded Mountain. Biggest lever: **gears in Speed, seat in Mountain, brakes in Rec.**
 - **Recreation ceiling 76** = MountainCruise1: comfort frame · hybrid tires · **standard disc brakes** · comfort straight bars · 7sp · comfort seat · reflectors + decals + lights + basket + front shocks. (Individual Rec penalties are underdetermined — only 4 brands.)
 
-## City map (Q3 actual — reconciles exactly; `Q3_City_Demand` / `Q3_City_Strategy`)
+## City map (Q3 actual — reconciles exactly; `Q3_City_Demand` / `Q3_City_Strategy` / `Q3_City_Profiles`)
 
 | City | Rec | Mtn | Speed | Total | % mkt | Our units | Our share |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -101,17 +102,19 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 - **AMS + NYC = 77% of the market.** Stores **CONFIRMED** (Competitors in City): AMS = **all 7** · NYC = BB LLC/SpaceBikes/Spoke'd Up (**only 3**) · **Rio = WeBike ONLY** · Bangalore = LiteCycle only. Web centres = all but **Bike Bros**. Store counts: 2 each except **Bike Bros 1 (AMS, no web)** and **MILC 1 (AMS, web-first 54.4%)**.
 - **Amsterdam is the MOST contested city, not open** — all 7 have stores there; nobody exceeds 16.5% *because* all 7 are present. Avg demand per store firm: **AMS 426 vs NYC 579** → a NYC store beats deeper AMS investment.
 - **A store never captures the whole city:** store-firm capture = AMS 100% (7 firms) · NYC 85.2% (3) · **Rio 34.9% (1) → web-only rivals took 504 of 774** · Bangalore 48.6% (1).
-- **Rio: we under-exploit our monopoly.** Sole store holder, 34.9% vs **LiteCycle's 48.6%** in the same position in Bangalore (13.7 pts ≈ 106 units left on the table). BB LLC took **139 Rio units with NO store** = 51% of ours with one.
+- **Physical store mix (city profiles):** AMS 83% store · NYC 67% · **Rio 31%** · Bangalore 36%. Rio's shelf is 240 units; 534 went through the web.
+- **Rio: we under-exploit our monopoly.** Sole store holder, 34.9% vs **LiteCycle's 48.6%** in the same position in Bangalore (13.7 pts ≈ 106 units left on the table). BB LLC took **139 Rio units with NO store** = 51% of ours with one. Our own Rio web is only **30** vs LiteCycle's 93 in Bangalore.
 - **Store effect ≈ 10x:** no store → 1.9–3.2% · store vs 6 rivals → 9.9% · **only store in city → 34.9% (us, Rio) / 48.6% (LiteCycle, Bangalore)**. Highest-leverage decision we have.
 - **Rio is the crown jewel: 58.0% of Rio Mountain**, 166 Hike Bike units (> Amsterdam's 156 from a segment 2.3x larger). Q3 ill will hits hardest exactly where we lead.
 - Mountain by city: AMS 24.0% · **Rio 58.0%** · NYC 4.6% (**BB LLC 82.8%**) · Bangalore 6.8% (LiteCycle 64.2%).
-- **City #3 = NYC is the larger prize** (2,039 vs Bangalore 761; NYC at 10% = 204 units beats Bangalore at 25% = 76). NYC Speed alone (880) > all Bangalore.
-  - **Attack NYC via SPEED, not Mountain** — BB LLC holds 82.8% of NYC Mountain, but NYC Speed 880 has no dominant firm (best = Armstrong 272). Pairs with the Swift Bike → 77 fix.
-- **Capacity headroom ≈ 498 units** (24/day × 65 × 0.74 = 1,154 − 656 forecast) → a 3rd city fits with no printer purchase.
+- **City #3 = NYC is the larger prize** (2,039 vs Bangalore 761). **Retire 10% = 204.** Store firms actually pull **371–567 NYC store units** (Spoke'd Up 371 with 5 people and no Mountain; SpaceBikes 435 at 62/head; BB LLC 567 at 81/head). 4th-store band **340–570**. NYC Speed alone (880) > all Bangalore.
+  - **Attack NYC via SPEED, not Mountain** — BB LLC holds 82.8% of NYC Mountain, but NYC Speed 880 has no dominant firm (best = Armstrong 272). Spoke'd Up's Speed ad is **<70**. Pairs with the Swift Bike → 77 fix.
+- **AMS store productivity: WeBike 38/head = LAST** (Bike Bros 70, industry excl us 57). At cap — cannot hire. Matching 57 ≈ +132 store units from people we already have.
+- **Capacity:** Rio-fill + web rebuild already 24.3/day vs 24 owned. NYC at 340–570 on top needs ~2 printers. Idle cash $1.01M funds it. Headroom of ~498 absorbs Rio, not Rio+web+NYC.
 ## Staffing (Q3 actual — `Q3_Staffing`)
 
 - **7 PEOPLE PER CITY IS THE HARD CAP.** No firm anywhere exceeds 7. **Amsterdam WeBike = 7 → AT CAP, cannot add anyone.** **Rio = 4 → 3 slots open.** A new city unlocks 7 fresh slots. ("Deepen Amsterdam" is NOT a legal move.)
-- **Rio head > Amsterdam head:** Rio 270 demand / 4 people = **67.5** vs AMS 295 / 7 = **42.1** (no rival store in Rio). Filling Rio's 3 slots ≈ **+200 units** — highest-return staffing move.
+- **Rio head > Amsterdam head (store-only):** Rio **240 / 4 = 60** vs AMS **267 / 7 = 38** (no rival store in Rio). Filling Rio's 3 slots ≈ **+180 store units** — highest-return staffing move.
 - **We carry 2 UNTRAINED people** (1 Rio, 1 AMS). Only Bike Bros (last place) also does; other 5 firms train everyone. **Training costs $400/qtr each → $800 total.** Cheapest fix available.
 - **Demand per store person: WeBike 46.1 = LAST.** Bike Bros 70.0 · BB LLC 67.0 · Spoke'd Up 65.1 · SpaceBikes 57.6 · LiteCycle 54.9 · MILC 52.0. Industry avg (excl us) **61.1** → matching it at current 11 heads ≈ **+165 units, no new hires**.
 - Store headcount: BB LLC 14 (7+7) · SpaceBikes 14 (7+7) · WeBike 11 (7 AMS + 4 Rio) · Spoke'd Up 11 · LiteCycle 10 · Bike Bros 7 · MILC 7. Web staff: we cut to **~3** (from 5).
@@ -124,6 +127,7 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 - **FOUR web productivity tactics exist; we fund ONE.** Toll-free **$6,000** (above avg $5,667 — our one good web call) · shopping cart **$0** (avg $7,000) · page upgrades **$0** (avg $6,667, we STOPPED it) · order tracking **$0** (avg $8,000). Our total **$6,000** vs leaders **$24,000–33,000**.
 - **Near-perfect pattern:** all 4 tactics funded → web demand **435–569** (BB LLC 33k/569 · SpaceBikes 33k/491 · LiteCycle 29k/435 · MILC 24k/435). Fewer tactics → **120–138** (Spoke'd Up 9k/138 · WeBike 6k/120).
 - **Full web rebuild:** 120 → 435 = **+315 units** ≈ $236,250 margin − $24,425 staff − $22,000 budget = **≈ +$189,800/qtr**. (Supersedes the earlier +$89,600, which only matched average web *mix*.)
+- **Web raid is even across all 4 cities:** BB LLC 121/185/139/123. WeBike **28/38/30/24** (last everywhere, including AMS where both have stores). LiteCycle with no NYC store still beats us 143 to 38.
 
 ## Price judgment (Q3 actual — `Q3_Price_Judgment`)
 
@@ -171,10 +175,10 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 ## Q4 sequencing (depth before breadth)
 
 1. **Train the 2 untrained — $800.** Free productivity.
-2. **Fill Rio to 7** (+3: Mtn/Speed/Service) ≈ +200 units, no new lease. Fits capacity easily.
+2. **Fill Rio to 7** (+3: Mtn/Speed/Service) ≈ **+180 store units** at measured 60/head, no new lease. Fits capacity easily.
 3. **Full web rebuild: staff 3 → 7 AND fund all 4 tactics (~$28k)** ≈ +315 units / **+$189,800**/qtr.
-4. **Decide printers** — steps 2+3 together need 24.3/day vs 24 owned. Buy 1 printer for slack, 2 if adding NYC.
-5. **NYC store** (biggest prize, unlocks 7 slots) — enter via **Speed** once Swift Bike = 77. Needs printers.
+4. **Decide printers** — Rio+web is 24.3/day vs 24 owned. BB LLC served 1,507 on 24 + 6.90 OT, so scenario D can use a little OT instead of a 4th printer. Buy 1 printer for slack, **2 if adding NYC**.
+5. **NYC store** (340–570 store units, unlocks 7 slots) — enter via **Speed** once Swift Bike = 77. Needs printers. Floor analog: Spoke'd Up 371 store with 5 people and no Mountain.
 - NOT possible: more staff in Amsterdam (capped at 7). NOT a priority: Bangalore vs LiteCycle's 48.6%.
 
 ## Channel mix (Q3 actual — `Q3_Channel`)
@@ -198,21 +202,40 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 
 ## Ad judgment (Q3 actual)
 
-- **HikeBike 1 = 80 Mountain — 2nd of the whole field**, 1 pt behind BB Big Momma (81). **Do NOT redesign it.**
+- **HikeBike 1 = 80 Mountain — 2nd of the whole field**, 1 pt behind BB Big Momma (81). **Do NOT redesign it.** Q3 copy: brand → steep trail → gears → high tread → adventure → tough carbon → mountains easier (Q2’s 8th claim “great price” was dropped).
 - **Swift Bike ad = 70 Speed — 8th of 9.** Leaders: AndStill 78 · Speed of Lite 1 / Armstrong 1 77 · Unleash lil pap 76 · Skim MILC 75.
-- **Swift ad is unfocused:** Rec **52** + Mtn **36** = leakage **88**, vs 12–46 for every other Speed ad (Armstrong 1 leaks only 23). Same root cause as the 24-speed gears — **we cloned Hike Bike's playbook into a Speed launch**. Hypothesis, not a solved model (AndStill leaks 46 and still scores best) — re-read the score in the designer.
+- **Swift copy is Rec-safety + price, not a Mountain clone.** Ranks: road race → carbon light → **great price** → brand → **lights** → **reflectors**. Unique among Speed ads on those last three. Missing wind-cheater (8/8), racing tires (7/8; bike has them), elite look (6/8). Full matrix: `quarters/Q3/competitor-ads.md` · `Q3_Competitor_Ads`.
+- **Q4 Swift draft (NOT locked):** brand (not a snippet) → wind-cheater → racing tires → elite look → 3D printing → local sales → road-race picture. SERP then matches Unleash #1. Drop lights, reflectors, great price. Preview in the designer.
 - **Fix path:** Swift brand 72→77 **and** ad 70→77 ⇒ ME **0.7675 > BB LLC 0.765** (industry best). Ad only = 0.755; brand only = 0.750.
 - **Ad count is NOT the lever:** BB LLC (leader) runs **2 ads for 4 brands** (Blu Aero + Blu Tail unadvertised); Bike Bros runs **5 ads for 5 brands** and is **last**. Quality > count — don't add a 2nd Swift ad, improve the one.
 - File for later: BB LLC pairs an **advertised** brand with an **unadvertised** 2nd brand per segment — ad builds the segment, 2nd brand catches overflow at a higher price. Not viable while capacity binds.
 
+## Media inserts (Q3 actual — `Q3_Media`)
+
+- World Market **= all 106 major inserts** (company totals reconcile). BB LLC **24** · WeBike **19** · SpaceBikes 17 · rest 10–12.
+- **BB LLC spent less for more:** $108k / 24 inserts / **$4,500 each / 100% Biking**. WeBike $116k / 19 / $6,105. Our $116k would have bought **25 Biking inserts**; we bought 10. BB LLC owns **47% of all Biking pages** (24 of 51).
+- **Identical Mountain bike:** Blu Ruged **12** Biking vs Hike Bike **6**. We cut HikeBike 1 Biking **12 → 6** in Q3 to "diversify." That $27k left the best Mountain medium.
+- Swift Bike: **4** Biking vs Unleash lil pap **12**. Plus leaked Speed copy (judgment 70). Placement and copy are separate fixes.
+- Q4 options **OPEN**: A copy BB LLC (12+12 Biking, $108k) · **B restore Q2 Hike + Swift Biking 12 ($143k, +$27k)** · C add Swift Business 1 ($152.5k). Do not repeat Q3 mix. Do not add a 3rd ad or Leisure. HikeBike 1 copy stays (80).
+
+## Organic SEM (Q3 actual — `Q3_Organic_SEM`)
+
+- **Clicks:** BB LLC **437** · SpaceBikes 401 · Bike Bros 213 · MILC 187 · LiteCycle **153** · **WeBike 144** · Spoke'd Up 82. Searches: Rec **1,333** · Mountain **1,027** · Speed **894**.
+- **CTR is rank, not quality:** pos 1 ≈ **23%** of searches · pos 2 ≈ **11%** · pos 3 ≈ **6.7%** in every segment. Rec/Mountain rank = ad-judgment order; Speed is not (AndStill 78 sits #7).
+- **Organic ≠ web sales:** LiteCycle 153 clicks → **435** web units; WeBike 144 → **120**. Bike Bros 213 clicks, **0** web centre. Web rebuild still dominates.
+- **HikeBike 1 = Mountain #2** (115 clicks, ad 80). Brand name does **not** eat a snippet slot (locked rank 1 is the Ad/Brand columns; snippet = ranks 2–4: picture / gears / tires). BB LLC #1 is gears / tires / **Highest rated Mountain bike** — we are tied at 73 so that claim is legal. **Do not redesign** for 1 point; optional re-rank only if already in Ad Design.
+- **Swift Bike = Speed #5** (29 clicks, ad 70). Snippet = road-race picture / “enjoy your ride” / **“great price.”** Full copy also ranks lights and reflectors 5–6 — Rec cues, unique among Speed ads. Not a Mountain clone. Target snippet: wind-cheater / racing tires / elite (Unleash #1). Highest rated Speed is legal only after the 77 design lands.
+- Every page invested **$1,000**. Two pages in one segment cannibalize (Bike Bros 2 Mountain ads = 79 clicks vs our 115). **No Rec page** (comfort-seat SERP we cannot enter).
+
 ## Q4 standing priorities
 
 1. Schedule OC **to the forecast** (≈13/day required, **15/day suggested**; fixed 24 is enough — no printers needed)
-2. Raise compensation toward upper quartile (sales ~$26.5k, prod ~$22.5k) but **budget 74% productivity, never 85%**
+2. Raise compensation toward 7-firm upper half — **sales Option A $21,500 Expanded 2wk 3% = $26,564** (drop Full → Expanded, raise salary + pension); **production $18,000 Expanded 2wk 3% = $22,240**. OPEN until majority vote. **Budget 74% productivity, never 85%**
 3. Stop issuing stock while ~$1M sits idle; deploy cash into revenue (city #3, people, ads)
 4. **Do not cut channel spend** — it's already the industry's lowest; re-staff web
 5. **Speed: fix, don't abandon.** Redesign Swift Bike toward 12/1/77 **and** rebuild its ad (70→77) — both together take Marketing Effectiveness 0.738 → **0.7675 = industry best**
 6. **Leave Hike Bike's design alone** — spend on supplying and selling it instead
+7. **Media: concentrate on Biking.** Restore HikeBike 1 Biking **6 → 12**; raise Swift Biking toward **12**. Mix change, not a budget crisis — we already outspend BB LLC on inserts. Option B (+$27k) recommended, not locked.
 
 ## Q1/Q2 history
 
@@ -247,12 +270,12 @@ External/historical heuristics: `docs/02-external-research-synthesis.md` (update
 
 - Full lecture + Workspace menus: `quarters/Q2/advertising-background.md`
 - Name ad → select ≤**9** benefits → **rank** visibility → emphasize a **brand** (or company) → preview print **and** web
-- **HikeBike1 web LOCKED** — $1,000/qtr; ranks: brand → steep trail → gears → high tread → adventure → tough carbon → mountains easier → great price (last).
-- **HikeBike1 World Market inserts LOCKED** — Health **1** · Biking **12** · Sport **2** · News **1** = **$89,000** (extra budget → +2 Biking vs base 1:10:2:1).
+- **HikeBike1 web LOCKED (Q2)** — $1,000/qtr; ranks: brand → steep trail → gears → high tread → adventure → tough carbon → mountains easier → great price (last). **Q3 actual dropped great price** (7 benefits, judgment 80) — keep that version.
+- **HikeBike1 World Market inserts LOCKED (Q2)** — Health **1** · Biking **12** · Sport **2** · News **1** = **$89,000**. **Q3 actual changed this:** Biking **12 → 6**. Restore in Q4 (OPEN; Option B in `Q3_Media`).
 - Tip: ≥**2** test-market ads (primary + secondary; optional company ad); design/modify has a cost
 - Match claims to bike specs (Hike Bike: no lights/reflectors; mountain tires / steep-trail / adventure OK; avoid comfort-seat & Speed cues)
 - Media prefs: `Q2Data.xlsx` → **Media_Preference** — Mountain: Biking → Sport → General News (Leisure = Rec)
-- Organic SEM: `quarters/Q2/seo-internet-marketing-background.md` · `Q2Data.xlsx` → **Web_SEO** — convert ads→pages; segment picks keywords; SERP shows **first 3 benefits only**; organic is slow; no deceptive claims
+- Organic SEM: `quarters/Q2/seo-internet-marketing-background.md` · Q3 dump `Q3Data.xlsx` → **Q3_Organic_SEM**. Convert ads→pages; segment picks keywords; SERP shows **first 3 content benefits** (brand name does **not** consume a snippet slot); organic is slow; no deceptive claims. Q3: HikeBike 1 #2 Mountain / Swift Bike #5 Speed with cloned price copy.
 - Compensation: Sales **LOCKED** Q2 — $19,000 · Full coverage $4,180 · 2 wk $1,055 · 1% $190 = **$24,425** · productivity **85%**. Production **LOCKED** — $16,800 · Expanded $2,520 · 2 wk $933 · 3% $504 = **$20,757** · productivity **85%** (Manufacturing!B30). Planner: `Q2Data.xlsx` → **Comp_Industry**.
 - Sales channel: **Hiring LOCKED** — AMS **5** (1 Service / 4 Mountain) · Web **5** (3 Sales / 2 Support); train 300/250/400/400; **City #2 = Rio**; Rio staff next Q; `Sales_Ops`
 - Web productivity: **LOCKED** Start both — toll-free **$3,000**/qtr (+$3k setup) · page upgrades **$6,000**/qtr (+$6k setup); ~$18k first-Q cash; diminishing returns (most gain by ~$10k); toll-free >> pages on %

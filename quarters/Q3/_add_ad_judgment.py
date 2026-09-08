@@ -211,13 +211,13 @@ rows = [
     ["Our Swift Bike ad: Mountain score", 36, "highest Mtn score of ANY Speed ad"],
     ["Total off-target leakage", 88, "next highest is AndStill at 46; The Armstrong 1 is just 23"],
     ["Leading Speed ads for comparison", "Rec 2-22, Mtn 13-24", "The Armstrong 1 scores Rec 2 - almost zero"],
-    ["Hypothesis", None, "The ad appears to carry Mountain- and Recreation-flavoured benefit claims rather "
-     "than Speed-specific ones. This MIRRORS the component error: Swift Bike inherited Hike Bike's 24-speed "
-     "drivetrain AND, it seems, Hike Bike's messaging. Same root cause - we cloned our Mountain assets into "
-     "a Speed launch."],
-    ["CAUTION", None, "Leakage does NOT cleanly predict score across the field (AndStill leaks 46 and scores "
-     "best), so this is a strong hypothesis, not a solved model like the component analysis. Rebuild the ad "
-     "around Speed cues and re-test in the ad designer."],
+    ["UPDATED with copy (Q3_Competitor_Ads)", None, "FALSE that we cloned Hike Bike's messaging. Actual ranks: "
+     "road race -> carbon light -> great price -> brand -> lights -> reflectors. Zero Mountain claims. "
+     "It is a Rec-safety + price ad with a Speed picture. Unique among Speed ads on lights, reflectors, "
+     "and great price. Missing wind-cheater (8/8 rivals), racing tires (7/8), elite look (6/8)."],
+    ["Q4 draft (NOT locked)", None, "Unleash snippet + AndStill extras. 1 brand (not a snippet)  2 wind-cheater  "
+     "3 racing tires  4 elite look  5 3D printing  6 local sales  7 road-race picture. "
+     "DROP lights, reflectors, great price. Preview in the designer. See Q3_Competitor_Ads."],
 ]
 r2 = block(r, rows, wrap_col=3)
 ws.cell(r + 3, 2).fill = bad
@@ -252,8 +252,9 @@ rows = [
     ["Q4 ADVERTISING ACTIONS", "Decision"],
     ["HikeBike 1", "KEEP. 80 vs BB LLC's 81 - one point off the industry best. Redesign cost is not "
      "justified; put the money into media inserts and capacity instead."],
-    ["Swift Bike ad", "REDESIGN around Speed cues. Strip Mountain/Recreation claims (aerodynamic, racing "
-     "tires, precision brakes, drop bars, lightweight). Target 77 to match Speed of Lite 1 / The Armstrong 1."],
+    ["Swift Bike ad", "REDESIGN: Unleash snippet + AndStill extras. 1 brand  2 wind-cheater  3 racing tires  "
+     "4 elite look  5 3D printing  6 local sales  7 road-race picture. DROP lights, reflectors, great price. "
+     "Not locked — preview in the designer. Copy is on Q3_Competitor_Ads."],
     ["Do NOT add more ads", "The leader runs 2 ads for 4 brands; the last-place firm runs 5 for 5. "
      "Quality over count."],
     ["Combined payoff", "Swift Bike brand 72->77 AND ad 70->77 lifts Marketing Effectiveness from 0.738 to "

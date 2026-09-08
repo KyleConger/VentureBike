@@ -18,8 +18,9 @@ Root cause: scheduled operating capacity ~**8/day** against **24/day** of owned 
 ## Carry into Q4
 
 - [ ] Operating capacity sized to forecast (`Q3Data.xlsx` → **Q4_Planner**; ≈13/day required, 15/day suggested)
-- [ ] Raise sales + production compensation (industry averages now visible; productivity fell to 70% / 72%)
+- [ ] Raise sales + production compensation — exact classmate packages in `compensation-competitors.md` (we are 6th of 7 on sales pay; Option A $26,564 / $22,240 recommended, not locked; budget 74% productivity)
 - [ ] Stop or justify the $500,000 stock issue
 - [ ] Deploy idle cash into revenue (city #3, sales people, ads)
-- [ ] Speed brand: invest in a stronger ad or refocus on Mountain
+- [ ] Speed brand: 14-speed + decals (72→77) **and** rebuild Swift Bike ad — Unleash snippet + AndStill extras (draft in `competitor-ads.md`, not locked)
 - [ ] Absorb 16.3% ill-will demand cut in the forecast
+- [ ] Media mix: restore HikeBike 1 Biking 6→12; raise Swift Biking; stop diversifying off Biking (`Q3_Media`; Option B recommended, not locked)

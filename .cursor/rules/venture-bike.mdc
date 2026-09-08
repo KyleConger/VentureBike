@@ -177,7 +177,7 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 1. **Train the 2 untrained — $800.** Free productivity.
 2. **Fill Rio to 7** (+3: Mtn/Speed/Service) ≈ **+180 store units** at measured 60/head, no new lease. Fits capacity easily.
 3. **Full web rebuild: staff 3 → 7 AND fund all 4 tactics (~$28k)** ≈ +315 units / **+$189,800**/qtr.
-4. **Decide printers** — Rio+web is 24.3/day vs 24 owned. BB LLC served 1,507 on 24 + 6.90 OT, so scenario D can use a little OT instead of a 4th printer. Buy 1 printer for slack, **2 if adding NYC**.
+4. **Printers: buy NONE.** Scenario D needs 24.35/day vs 24.00 owned — short only **17 units (1.4%)**. Schedule 24 with **OT 0.00** (OT would cost Mfg Productivity 1.000 → 0.856). Buy 1 only if NYC is added (32.7/day).
 5. **NYC store** (340–570 store units, unlocks 7 slots) — enter via **Speed** once Swift Bike = 77. Needs printers. Floor analog: Spoke'd Up 371 store with 5 people and no Mountain.
 - NOT possible: more staff in Amsterdam (capped at 7). NOT a priority: Bangalore vs LiteCycle's 48.6%.
 
@@ -202,7 +202,7 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 
 ## Ad judgment (Q3 actual)
 
-- **HikeBike 1 = 80 Mountain — 2nd of the whole field**, 1 pt behind BB Big Momma (81). **Do NOT redesign it.** Q3 copy: brand → steep trail → gears → high tread → adventure → tough carbon → mountains easier (Q2’s 8th claim “great price” was dropped).
+- **HikeBike 1 = 80 Mountain — 2nd of the whole field**, 1 pt behind BB Big Momma (81). Copy is on-message; do not rewrite it. **REVISION: do attempt 82** — Mountain SERP rank = exact ad-judgment order and CTR is a step function (pos 1 = 22.8%, pos 2 = 11.1%), so beating 81 is worth **115 → 237 clicks** on a page we already pay for. Add **"Highest rated Mountain bike"** (legal — tied at 73) + **"Local sales & service"** (BB LLC runs both; 3 of 4 rival Mtn ads run local). **Preview first; below 80, keep Q3 copy.** Q3 copy: brand → steep trail → gears → high tread → adventure → tough carbon → mountains easier (Q2’s 8th claim “great price” was dropped).
 - **Swift Bike ad = 70 Speed — 8th of 9.** Leaders: AndStill 78 · Speed of Lite 1 / Armstrong 1 77 · Unleash lil pap 76 · Skim MILC 75.
 - **Swift copy is Rec-safety + price, not a Mountain clone.** Ranks: road race → carbon light → **great price** → brand → **lights** → **reflectors**. Unique among Speed ads on those last three. Missing wind-cheater (8/8), racing tires (7/8; bike has them), elite look (6/8). Full matrix: `quarters/Q3/competitor-ads.md` · `Q3_Competitor_Ads`.
 - **Q4 Swift draft (NOT locked):** brand (not a snippet) → wind-cheater → racing tires → elite look → 3D printing → local sales → road-race picture. SERP then matches Unleash #1. Drop lights, reflectors, great price. Preview in the designer.
@@ -226,11 +226,29 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 - **HikeBike 1 = Mountain #2** (115 clicks, ad 80). Brand name does **not** eat a snippet slot (locked rank 1 is the Ad/Brand columns; snippet = ranks 2–4: picture / gears / tires). BB LLC #1 is gears / tires / **Highest rated Mountain bike** — we are tied at 73 so that claim is legal. **Do not redesign** for 1 point; optional re-rank only if already in Ad Design.
 - **Swift Bike = Speed #5** (29 clicks, ad 70). Snippet = road-race picture / “enjoy your ride” / **“great price.”** Full copy also ranks lights and reflectors 5–6 — Rec cues, unique among Speed ads. Not a Mountain clone. Target snippet: wind-cheater / racing tires / elite (Unleash #1). Highest rated Speed is legal only after the 77 design lands.
 - Every page invested **$1,000**. Two pages in one segment cannibalize (Bike Bros 2 Mountain ads = 79 clicks vs our 115). **No Rec page** (comfort-seat SERP we cannot enter).
+- **CTR by position (verified):** 1 = **22.8%** · 2 = **11.1%** · 3 = **6.7%** · 4 = **4.6%** · 5 = **3.2%**. Step function ⇒ **one rank is worth more than one ad point costs.** Mountain rank = exact ad-judgment order (81>80>79>78>77) so **HikeBike 1 → 82 buys position 1 = +122 clicks**. Speed rank is NOT ad-judgment order (AndStill 78 sits 7th — likely page tenure); top 4 are all ad 75–77 and we are the only sub-75 in the top 5, so Swift at 77 should join that cluster (pos 2–4 = 43–98 clicks) — **upside, not a forecast**.
+
+## Q4 PLAN OF RECORD — copy BB LLC
+
+Full 30-item change list: **`quarters/Q4/copy-the-leader.md`** · workbook `Q3Data.xlsx` → **`Q4_Copy_The_Leader`** · builder `quarters/Q4/_build_copy_the_leader.py`. **Nothing locked — vote required.**
+
+- **Why BB LLC:** Q3 BSC **22** (next 11, us 0) and it targets **our exact two segments**. SpaceBikes leads cumulatively but skips Mountain — only its *manufacturing* model transfers.
+- **Segment gap (built from brand-by-city, reconciles to 1,507 / 627):** Mountain BB **751 (46.3%)** vs us **358 (22.1%)** → **+393**. Speed BB **657 (22.8%)** vs us **215 (7.5%)** → **+442**.
+- **Market Performance verified:** ours 14.78% avg share × 67.5% served = **0.100** (reported 0.098). BB LLC 34.58% × 100% = **0.346**. **Fixing stock-outs ALONE → 0.148 (+51%)** with zero share growth.
+- **We own the SAME 24/day BB LLC owns.** They scheduled 24, we scheduled 8. **Buy no printers** (only NYC needs one).
+- **DO NOT copy BB LLC's 6.90 OT.** Mfg Productivity = (util of *scheduled* OC) − (OT/OC ÷ 2): BB LLC **0.856**, us Q3 0.938 (1.00 OT on 8 sched), **24 sched + 0 OT = 1.000**. Copy **SpaceBikes** on capacity, BB LLC on everything else.
+- **MEDIA COPY IS STRICTLY DOMINANT:** BB LLC 24 inserts **100% Biking = $108,000**; WeBike 19 inserts **$116,000**, only 10 Biking. Copying = **+5 inserts, −$8,000 cash, Biking 10→24**. (Exact Q3 ours: HikeBike 1 Health 1/Biking 6/Sport 2/Venture 1/News 1 = $67,500; Swift Biking 4/Sport 1/Business 1/Venture 2 = $48,500.) Biking = 51 industry pages, BB owned 24.
+- **BB LLC STORE TEMPLATE = 1 Service / 0 Rec / 3 Mountain / 3 Speed = 7, IDENTICAL in both cities.** We can clone it exactly: **AMS** (at cap) train the 1 untrained → **Speed** ⇒ 1/3/3. **Rio** train the 1 untrained → **Mountain**, hire **+1 Mtn +2 Speed** ⇒ 1/3/3. Store force **11 → 14 = BB LLC's 14**.
+- **Web tactics, BB LLC exact:** toll-free **$9,000** · cart **$7,000** · page upgrades **$9,000** · order tracking **$8,000** = **$33,000** (ours $6,000). Staff **7 = 5 sales + 2 service**. All-4 firms land 435–569 units; fewer-than-4 firms land 120–138.
+- **Comp = BB LLC exact** (Option B): sales **$22,000/Expanded/2wk/4% = $27,402** (78% prod, industry best); production **$18,500/Expanded/2wk/4% = $23,042** (75%). Proof mix>total: MILC pays **more** ($27,630) on Full+1wk and scores **8.4 pts worse**.
+- **Cash:** recurring **+$79,374/qtr** (media −$8,000 · tactics +$27,000 · web staff +$27,402 · Rio staff +$20,552 · comp +$10,420 · training +$2,000) plus ~$67k one-time estimates = **~$146k**, **21% of the $710,838 headroom** above the $300k floor.
+- **Expected:** units 423 → ~1,154 · served 67.5% → ~99% · web 120 → 435+ · ME 0.738 → **0.7675 (1st)** · Mfg 0.938 → **1.000** · Market 0.098 → **~0.26** · revenue $589,720 → ~$1.5–1.7M.
+- **Deliberately NOT copied:** BB LLC's 6.90 OT · their 4 brands (unadvertised overflow play needs spare capacity — Q5) · their **NYC store** (tier 2; they hold 82.8% NYC Mountain — enter via **Speed**, needs a printer + 7 hires).
 
 ## Q4 standing priorities
 
-1. Schedule OC **to the forecast** (≈13/day required, **15/day suggested**; fixed 24 is enough — no printers needed)
-2. Raise compensation toward 7-firm upper half — **sales Option A $21,500 Expanded 2wk 3% = $26,564** (drop Full → Expanded, raise salary + pension); **production $18,000 Expanded 2wk 3% = $22,240**. OPEN until majority vote. **Budget 74% productivity, never 85%**
+1. Schedule OC **to the forecast**. Base-only forecast needs ≈13/day, but the **plan of record (Rio + full web = 1,171 units) needs 24.35/day → schedule the full 24, OT 0.00**, giving 1,154 units (within 1.4%). No printers.
+2. Raise compensation — **plan of record is BB LLC exact (Option B): sales $22,000 Expanded 2wk 4% = $27,402 · production $18,500 Expanded 2wk 4% = $23,042.** (Option A $26,564 / $22,240 remains the cheaper fallback.) Either way **drop Full → Expanded**. OPEN until majority vote. **Budget 74% productivity, never 85%**
 3. Stop issuing stock while ~$1M sits idle; deploy cash into revenue (city #3, people, ads)
 4. **Do not cut channel spend** — it's already the industry's lowest; re-staff web
 5. **Speed: fix, don't abandon.** Redesign Swift Bike toward 12/1/77 **and** rebuild its ad (70→77) — both together take Marketing Effectiveness 0.738 → **0.7675 = industry best**

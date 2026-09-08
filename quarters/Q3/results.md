@@ -255,6 +255,74 @@ Bike Bros has the most brands and the worst share; SpaceBikes leads cumulatively
 
 Hike Bike scores **56 with Recreation buyers** and pulled **54 units of Recreation demand we never targeted** — in the segment with the highest search volume (~1,350) and 2,060 units of size. But 56 against a dedicated 76 means we can't win Recreation on spillover. Worth parking as a Q5 option with a real design, not a Q4 scramble.
 
+---
+
+# Component teardown & reverse-engineered design model
+
+Full matrix: `Q3Data.xlsx` → **Q3_Components** (20 brands × 23 components). Fitted model: **Q3_Design_Model**. Validation: `_validate_design_model.py`.
+
+Every brand in a segment shares one base recipe; scores differ only on a handful of components. Fitting point values to those differences **reproduces all 16 Mountain and Speed scores exactly, with zero error** — so this is a solved system, not a guess.
+
+## Speed scoring model
+
+Base recipe shared by all 10 Speed brands: aerodynamic frame, racing tires, precision brakes, basic drop-down handlebars, polymer gel racing seat, no carrier, no suspension.
+
+| Variable component | Effect |
+|--------------------|-------:|
+| 14 speed (2×7) | optimal |
+| 24 speed (3×8) instead | **−3** |
+| 7 speed (1×7) instead | **−16** |
+| Decals (colorful brushstrokes) | **+2** |
+| Reflectors | +1 |
+| Lights | +1 |
+| **Maximum achievable** | **77** |
+
+## Swift Bike: two changes reach the industry ceiling
+
+| Component | Now | Change to | Points |
+|-----------|-----|-----------|-------:|
+| Gears | 24 speed (3×8) | **14 speed (2×7)** | +3 |
+| Decals | not included | **add colorful brushstrokes** | +2 |
+| | | **72 → 77** | **+5** |
+
+Everything else on Swift Bike is already correct — frame, tires, brakes, handlebars, seat, reflectors, and lights all match the 77-point brands.
+
+**The root cause is a copy-paste error.** Swift Bike inherited Hike Bike's **24-speed (3×8) mountain drivetrain**. That gearing is optimal in Mountain — all six Mountain brands use it — and wrong in Speed, where all eight leading Speed brands run 14-speed. Swift Bike is the *only* Speed brand in the industry with 24 speeds. We built a Speed bike with mountain gears.
+
+Worth noting: 14-speed (2×7) is a simpler drivetrain than 24-speed (3×8), so this change should also **lower** unit cost. Verify against the component price list before locking, but this looks like a rare fix that raises appeal and cuts cost at once.
+
+## Mountain scoring model — Hike Bike is verified optimal
+
+Base recipe shared by all 6 Mountain brands: rugged frame, mountain high-grip tires, standard disc brakes, basic straight handlebars, 24 speed, front shocks, decals, no lights.
+
+| Variable component | Effect |
+|--------------------|-------:|
+| Polymer gel **all-purpose** seat | optimal |
+| Polymer gel **comfort** seat instead | **−3** |
+| Reflectors added | **−1** |
+| **Maximum achievable** | **73** |
+
+That explains the whole Mountain field. LiteTrail Pro and Blu Tail Ballz score 70 because they chose a comfort seat. TERRAMean scores 72 because it added reflectors — otherwise identical to Hike Bike.
+
+**Hike Bike scores 73 of a possible 73.** It has the all-purpose seat, correctly omits reflectors, and correctly omits lights. There is literally nothing to gain from redesigning it, which confirms the earlier conclusion from a second direction: Q4 money belongs in capacity, coverage, and ads.
+
+## Components are segment-dependent, not universally good
+
+| Component | Speed | Mountain | Recreation |
+|-----------|------:|---------:|-----------:|
+| Reflectors | **+1** | **−1** | required |
+| Decals | **+2** | required | varies |
+| Lights | **+1** | excluded | required |
+| Biggest lever | gears | seat | brakes |
+
+Reflectors help in Speed and *hurt* in Mountain — they read as a Recreation cue. This is the trap that cost TERRAMean a point and the reason a shared component list across brands is dangerous.
+
+## Recreation blueprint (Q5 option, with a caveat)
+
+MountainCruise1 holds the 76 ceiling with: comfort frame, hybrid tires, **standard disc brakes**, comfort straight handlebars, 7 speed, comfort seat, plus reflectors, decals, lights, plastic basket, and front shocks.
+
+Caveat on precision: only four Recreation brands exist and they differ in three places (brakes, decals, lights), so the individual penalties **cannot be uniquely separated** from the data. The observed constraints are `precision + no_decals = 2`, `precision + no_lights = 3`, `standard + no_decals = 3`. What's certain is that standard disc brakes are optimal and MountainCruise1's exact recipe scores 76.
+
 ## Open decisions for Q4
 
 - [ ] Operating capacity + overtime

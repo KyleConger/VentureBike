@@ -75,6 +75,20 @@ Fifth member of an MBA team in Marketplace Venture / 3D carbon bike sim. Source 
 - **Brand count ≠ share:** Bike Bros 5 brands → 7.5% (last); SpaceBikes 2 brands → 19.8% (cumulative leader). We have 2. **A 3rd brand is not a Q4 priority.**
 - Recreation spillover: Hike Bike scores **56** with Rec buyers and pulled **54 untargeted units**; dedicated Rec brands score 73–76, so spillover can't win. Park for Q5.
 
+## Design model (SOLVED — reproduces all 16 Mtn/Speed scores exactly)
+
+Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · proof → `quarters/Q3/_validate_design_model.py`
+
+- **Speed base recipe:** aero frame · racing tires · precision brakes · basic drop-down bars · polymer gel racing seat · no carrier/suspension
+- **Speed points:** 14sp (2×7) = optimal · **24sp = −3** · **7sp = −16** · **decals = +2** · reflectors = +1 · lights = +1 · **ceiling 77**
+- **SWIFT BIKE FIX (2 changes → 72 to 77, ties best):** gears **24sp → 14sp (+3)** · **ADD colorful brushstroke decals (+2)**. Everything else already correct.
+  - Root cause: Swift Bike inherited Hike Bike's **24-speed mountain drivetrain** — it is the ONLY Speed brand in the industry with 24sp. 14sp is also a simpler/cheaper drivetrain → likely LOWERS unit cost (verify vs component price list).
+- **Mountain base recipe:** rugged frame · mountain high-grip tires · standard disc brakes · basic straight bars · 24sp · front shocks · decals · no lights
+- **Mountain points:** all-purpose seat = optimal · **comfort seat = −3** · **reflectors = −1** · **ceiling 73**
+- **Hike Bike = 73 of 73. VERIFIED OPTIMAL — do not touch.** (LiteTrail/Blu Tail = 70 from comfort seat; TERRAMean = 72 from adding reflectors)
+- **Components are segment-dependent:** reflectors **+1 Speed / −1 Mountain** / required Rec · decals +2 Speed · lights +1 Speed, excluded Mountain. Biggest lever: **gears in Speed, seat in Mountain, brakes in Rec.**
+- **Recreation ceiling 76** = MountainCruise1: comfort frame · hybrid tires · **standard disc brakes** · comfort straight bars · 7sp · comfort seat · reflectors + decals + lights + basket + front shocks. (Individual Rec penalties are underdetermined — only 4 brands.)
+
 ## Q4 standing priorities
 
 1. Schedule OC **to the forecast** (≈13/day required, **15/day suggested**; fixed 24 is enough — no printers needed)

@@ -190,6 +190,25 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 5. **NYC store** (340–570 store units, unlocks 7 slots) — enter via **Speed** once Swift Bike = 77. Needs printers. Floor analog: Spoke'd Up 371 store with 5 people and no Mountain.
 - NOT possible: more staff in Amsterdam (capped at 7). NOT a priority: Bangalore vs LiteCycle's 48.6%.
 
+## Q4 roster — DECIDED: hire 7, train 2, NO new store (`Q4_Staffing_Stores`)
+
+**Exact per-city allocation (Q3 actual):** AMS **1 Svc / 0 Rec / 3 Mtn / 2 Spd / 1 UNTRAINED = 7 (AT CAP)** · Rio **1 Svc / 0 Rec / 1 Mtn / 1 Spd / 1 UNTRAINED = 4** · Web **2 sales + 1 svc = 3**. BB LLC template = **1/0/3/3 = 7, identical in BOTH its cities**.
+
+| | Now | Q4 target | Change | How |
+|---|---:|---:|---:|---|
+| AMS Speed | 2 | 3 | +1 | **TRAIN the untrained → Speed ($400). NO HIRE — at cap.** |
+| Rio Mountain | 1 | 3 | +2 | TRAIN the untrained → Mtn ($400), then hire +1 |
+| Rio Speed | 1 | 3 | +2 | HIRE +2 |
+| Web sales | 2 | 5 | +3 | BB LLC runs 5 |
+| Web service | 1 | 2 | +1 | BB LLC runs 2 |
+
+- **Result matches BB LLC exactly:** store **11 → 14** · web **3 → 7** · total **14 → 21** · **Mtn 4 → 6** · **Speed 3 → 6 (DOUBLED)** · Rec stays **0** (BB LLC also 0).
+- **SPEED IS THE HEADLINE:** 3 specialists vs 6 for BB LLC/SpaceBikes/LiteCycle, in the **largest segment (2,878)** where we hold 7.5% — and we're fixing the Speed product (72→77) and ad (70→77) the same quarter. Coverage is what lets those convert.
+- **Cost/return:** training **$800 (cheapest item on the board)** · Rio +3 = **$20,553/qtr → ~+190 units → +$131,447** · Web +4 = **$27,404/qtr → ~+315 units → +$186,846** (only works if all 4 web tactics are funded too — **don't split staff from tactics**). Total people cost **$48,757/qtr**.
+- **NO NEW STORE IN Q4.** NYC is the right city (2,039 units, 31.1%, only 3 firms there, **nobody has 3 stores**) and store effect ≈10x — **but printers arrive a quarter late.** Q4 capacity **1,154** vs forecast **1,171** (which ALREADY assumes these hires) = **−17 spare**. An NYC store adds 340–570 → straight back to Q3's 33% stock-out and 16.3% ill will, in the city where BB LLC holds **82.8% of NYC Mountain**. **Q4 buys printers → Q5 opens NYC via SPEED** (NYC Speed 880, no dominant firm; best is Armstrong 272).
+- **WHY THIS DOESN'T CONTRADICT CUTTING MEDIA:** the 1,171 forecast **IS** scenario D = Rio filled + full web rebuild. **The hires ARE the base plan.** Remove them → demand ~656 = 13.6/day vs 24/day owned = **under-scheduling, the Q3 mistake.** Ads + media were the *overshoot*, so inserts are the right thing to cut — discretionary and purely demand-generating, while people are durable capability needed **before** Q5's 1,924-unit capacity and 7 new NYC slots.
+- **DON'T:** cut anyone (we cut web 5→3 in Q3 → 40/head, worst in industry; Bike Bros = 1 store/0 web/7 people/LAST) · hire Rec specialists · try to add in AMS (cap) · open Bangalore (761 vs NYC 2,039, LiteCycle holds 48.6%) · put new hires on the old comp package.
+
 ## Channel mix (Q3 actual — `Q3_Channel`)
 
 | Firm | Store | Store % | Web | Web % | Total |

@@ -400,6 +400,76 @@ We can absorb roughly 500 additional units without buying a printer, so a New Yo
 
 Worth weighing honestly before locking city #3: **Amsterdam is 45.5% of the market and we hold 9.9% of it**, where no rival exceeds 16.5%. It is genuinely open, we already have the store, and deepening sales coverage there may cost less per unit than opening a third city. Our demand per store salesperson (~46) is roughly half BB LLC's (~88), so there is headroom in the stores we already own.
 
+---
+
+# Channel mix — the Q3 web cut has a price tag
+
+Data and analysis: `Q3Data.xlsx` → **Q3_Channel**. Store + web reconciles to total for every firm, and to 6,559 industry-wide.
+
+| Company | Store | Store % | Web | Web % | Total |
+|---------|------:|--------:|----:|------:|------:|
+| BB LLC | 938 | 62.2% | **569** | 37.8% | 1,507 |
+| SpaceBikes | 807 | 62.2% | **491** | 37.8% | 1,298 |
+| LiteCycle | 549 | 55.8% | 435 | 44.2% | 984 |
+| Spoke'd Up | 716 | 83.8% | 138 | 16.2% | 854 |
+| MILC Bikes | 364 | 45.6% | 435 | **54.4%** | 799 |
+| **WeBike** | **507** | **80.9%** | **120** | **19.1%** | **627** |
+| Bike Bros | 490 | 100.0% | 0 | 0.0% | 490 |
+
+Our 120 web units are the **lowest of any firm that operates a web centre**, and our 19.1% web mix sits far below the 34.9% average across the six firms with one. We cut web staff and spend in Q3; this is the bill.
+
+## The top three firms all run 38–44% web
+
+| Model | Who | Result |
+|-------|-----|--------|
+| Web-first | MILC Bikes, 54.4% | 12.2% share off a single store base |
+| **Balanced (38–44%)** | LiteCycle, BB LLC, SpaceBikes | **the three strongest firms** |
+| Store-heavy | Spoke'd Up 83.8%, **WeBike 80.9%** | 13.0% and 9.6% |
+| Store-only | Bike Bros, 100% | **7.5%, last, falling everywhere** |
+
+Bike Bros is the control group for this experiment, and we are drifting toward its failure mode.
+
+## Web is half our reach into cities where we have no store
+
+Cross-referencing the city data: our 38 New York units and 24 Bangalore units are **web-only** — we have no store in either. That's 62 of our 120 web units, or **52% of web demand coming from cities we can't otherwise touch**. (The remaining 58 units are web orders from Amsterdam and Rio, which reconciles: 565 total in store cities − 507 store demand = 58.)
+
+So the web centre isn't a side channel. It's our only presence in 43% of the market by demand, and we shrank it.
+
+## The rebuild is the cheapest demand available
+
+Holding store demand constant at 507 and simply matching the industry-average web mix:
+
+| | Units |
+|---|---:|
+| Implied total demand | 779 |
+| Implied web demand | 272 |
+| **Additional demand vs today** | **+152** |
+| Gross margin at ~$750/unit | **$114,050** |
+| Less ~4 web staff for a quarter | −$24,425 |
+| **Net quarterly gain** | **≈ $89,600** |
+
+No lease, no store setup, and it reaches all four cities. For comparison, Q3's entire operating loss was $111,431 — rebuilding the web channel alone recovers most of it.
+
+We also stopped the page-upgrade tactic in Q3 (~$6,000/quarter) while keeping toll-free. Against ~$750 of contribution per unit, both were far too cheap to have cut.
+
+## We also under-staff the stores we already own
+
+| Company | Demand per store |
+|---------|-----------------:|
+| Bike Bros | 490 (one store) |
+| BB LLC | 469 |
+| SpaceBikes | 404 |
+| MILC Bikes | 364 |
+| Spoke'd Up | 358 |
+| LiteCycle | 274 |
+| **WeBike** | **254** |
+
+BB LLC pulls **1.8× our demand from the same number of stores**. Bike Bros — with its single store — pulls nearly double ours per location.
+
+## This shifts the Q4 spending order
+
+The city #3 analysis said New York is the biggest prize, and that still holds. But this data says the **first** dollars should go to channel depth rather than channel breadth: rehire web staff, restart page upgrades, and add store sales people in Amsterdam and Rio. Those moves are cheaper, they pay back inside the quarter, and they don't add the fixed lease and setup cost of a third city while we're still carrying a $111,431 operating loss.
+
 ## Open decisions for Q4
 
 - [ ] Operating capacity + overtime

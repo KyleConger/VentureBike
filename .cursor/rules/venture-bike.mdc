@@ -107,6 +107,25 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 - **Capacity headroom ≈ 498 units** (24/day × 65 × 0.74 = 1,154 − 656 forecast) → a 3rd city fits with no printer purchase.
 - **Competing use of funds:** Amsterdam is 45.5% of the market, we hold 9.9%, and no rival exceeds 16.5%. Our demand/store rep ~46 vs BB LLC ~88 → depth in existing stores may beat map expansion.
 
+## Channel mix (Q3 actual — `Q3_Channel`)
+
+| Firm | Store | Store % | Web | Web % | Total |
+|---|---:|---:|---:|---:|---:|
+| BB LLC | 938 | 62.2% | **569** | 37.8% | 1,507 |
+| SpaceBikes | 807 | 62.2% | **491** | 37.8% | 1,298 |
+| LiteCycle | 549 | 55.8% | 435 | 44.2% | 984 |
+| Spoke'd Up | 716 | 83.8% | 138 | 16.2% | 854 |
+| MILC Bikes | 364 | 45.6% | 435 | **54.4%** | 799 |
+| **WeBike** | 507 | **80.9%** | **120** | **19.1%** | 627 |
+| Bike Bros | 490 | 100% | 0 | 0% | 490 |
+
+- **Our 120 web units = LOWEST of any firm with a web centre.** Web mix 19.1% vs industry avg **34.9%** (gap 15.8 pts).
+- **Top 3 firms all run 38–44% web.** Store-only Bike Bros = last (7.5%) and falling. We are 80.9% store-heavy → drifting toward that failure mode.
+- **Web = half our reach into non-store cities:** NYC 38 + Bangalore 24 = **62 of 120 web units (52%)**. Web is our ONLY presence in 43% of the market.
+- **Web rebuild math:** hold store at 507, match 34.9% web mix → total 779, web 272 = **+152 units** ≈ **$114,050** margin, less ~4 web staff ($24,425) = **≈ +$89,600/qtr**. (Q3 operating loss was $111,431.)
+- **Demand per store: WeBike 254 = LOWEST of the 2-store firms.** BB LLC 469 (1.8x ours); Bike Bros 490 from ONE store.
+- **Q4 spending order: channel DEPTH before BREADTH.** Rehire web staff (→~6), restart page upgrades (~$6k/qtr, we stopped it), add store staff in AMS + Rio — all pay back inside the quarter. NYC store remains the biggest prize but not necessarily the first dollar.
+
 ## Q4 standing priorities
 
 1. Schedule OC **to the forecast** (≈13/day required, **15/day suggested**; fixed 24 is enough — no printers needed)

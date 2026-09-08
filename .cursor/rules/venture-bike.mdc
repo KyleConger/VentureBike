@@ -196,13 +196,22 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 - **Demand per store: WeBike 254 = LOWEST of the 2-store firms.** BB LLC 469 (1.8x ours); Bike Bros 490 from ONE store.
 - **Q4 spending order: channel DEPTH before BREADTH.** Rehire web staff (→~6), restart page upgrades (~$6k/qtr, we stopped it), add store staff in AMS + Rio — all pay back inside the quarter. NYC store remains the biggest prize but not necessarily the first dollar.
 
+## Ad judgment (Q3 actual)
+
+- **HikeBike 1 = 80 Mountain — 2nd of the whole field**, 1 pt behind BB Big Momma (81). **Do NOT redesign it.**
+- **Swift Bike ad = 70 Speed — 8th of 9.** Leaders: AndStill 78 · Speed of Lite 1 / Armstrong 1 77 · Unleash lil pap 76 · Skim MILC 75.
+- **Swift ad is unfocused:** Rec **52** + Mtn **36** = leakage **88**, vs 12–46 for every other Speed ad (Armstrong 1 leaks only 23). Same root cause as the 24-speed gears — **we cloned Hike Bike's playbook into a Speed launch**. Hypothesis, not a solved model (AndStill leaks 46 and still scores best) — re-read the score in the designer.
+- **Fix path:** Swift brand 72→77 **and** ad 70→77 ⇒ ME **0.7675 > BB LLC 0.765** (industry best). Ad only = 0.755; brand only = 0.750.
+- **Ad count is NOT the lever:** BB LLC (leader) runs **2 ads for 4 brands** (Blu Aero + Blu Tail unadvertised); Bike Bros runs **5 ads for 5 brands** and is **last**. Quality > count — don't add a 2nd Swift ad, improve the one.
+- File for later: BB LLC pairs an **advertised** brand with an **unadvertised** 2nd brand per segment — ad builds the segment, 2nd brand catches overflow at a higher price. Not viable while capacity binds.
+
 ## Q4 standing priorities
 
 1. Schedule OC **to the forecast** (≈13/day required, **15/day suggested**; fixed 24 is enough — no printers needed)
 2. Raise compensation toward upper quartile (sales ~$26.5k, prod ~$22.5k) but **budget 74% productivity, never 85%**
 3. Stop issuing stock while ~$1M sits idle; deploy cash into revenue (city #3, people, ads)
 4. **Do not cut channel spend** — it's already the industry's lowest; re-staff web
-5. **Speed: fix, don't abandon.** Redesign Swift Bike toward 12/1/77 + strengthen the Speed ad (judgment 70)
+5. **Speed: fix, don't abandon.** Redesign Swift Bike toward 12/1/77 **and** rebuild its ad (70→77) — both together take Marketing Effectiveness 0.738 → **0.7675 = industry best**
 6. **Leave Hike Bike's design alone** — spend on supplying and selling it instead
 
 ## Q1/Q2 history
@@ -218,7 +227,7 @@ Ending **Cash + CD ≥ $300,000** (with CD $0 → Cash ≥ $300k). Do **not** in
 ## BSC formulas (class)
 
 - Financial Performance = ((Net Profit from Current Ops + Gross Profit) / 2) / Total Shares Issued
-- Marketing Effectiveness = (Avg Brand Judgment/100 + Avg Ad Judgment/100) / 2
+- Marketing Effectiveness = (Avg Brand Judgment/100 + Avg Ad Judgment/100) / 2 — **VERIFIED exactly on 3 firms** (WeBike 0.738, BB LLC 0.765 max, Spoke'd Up 0.660 min), averaged over the two targeted segments
 - Investment in Future = (Cumulative future-benefit expenses / Cumulative net revenues) * 10 + 1
 - Wealth = Net Equity / Total Stockholders Equity
 - Manufacturing Productivity = (Pct operating capacity used / 100) - (Overtime as pct of capacity used / 2 / 100)

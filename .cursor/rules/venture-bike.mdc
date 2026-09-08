@@ -117,13 +117,39 @@ Full matrix `Q3Data.xlsx` → `Q3_Components` · model → `Q3_Design_Model` · 
 - Store headcount: BB LLC 14 (7+7) · SpaceBikes 14 (7+7) · WeBike 11 (7 AMS + 4 Rio) · Spoke'd Up 11 · LiteCycle 10 · Bike Bros 7 · MILC 7. Web staff: we cut to **~3** (from 5).
 - **Speed coverage thin: 3 specialists vs BB LLC/SpaceBikes/LiteCycle 6** — in the largest segment (2,878), with the 2nd-worst Speed brand. Mtn specialists: BB LLC 6 · WeBike 4 · LiteCycle 2 · Bike Bros 2. Rec: we have **0** (54 units pure spillover).
 
+## Web operations (Q3 actual — `Q3_Web_Ops`)
+
+- **Web staff ALSO capped at 7.** BB LLC/SpaceBikes/LiteCycle/MILC all = **7**; **WeBike = 3 (2 sales + 1 service) → 4 slots open.**
+- Web demand per head: BB LLC **81.3** · SpaceBikes 70.1 · LiteCycle/MILC 62.1 · Spoke'd Up 46.0 · **WeBike 40.0 (LAST)**.
+- **FOUR web productivity tactics exist; we fund ONE.** Toll-free **$6,000** (above avg $5,667 — our one good web call) · shopping cart **$0** (avg $7,000) · page upgrades **$0** (avg $6,667, we STOPPED it) · order tracking **$0** (avg $8,000). Our total **$6,000** vs leaders **$24,000–33,000**.
+- **Near-perfect pattern:** all 4 tactics funded → web demand **435–569** (BB LLC 33k/569 · SpaceBikes 33k/491 · LiteCycle 29k/435 · MILC 24k/435). Fewer tactics → **120–138** (Spoke'd Up 9k/138 · WeBike 6k/120).
+- **Full web rebuild:** 120 → 435 = **+315 units** ≈ $236,250 margin − $24,425 staff − $22,000 budget = **≈ +$189,800/qtr**. (Supersedes the earlier +$89,600, which only matched average web *mix*.)
+
+## Capacity math — CORRECTED FORMULA
+
+**required OC/day = forecast units / (productivity × 65)**  ← use this
+~~demand/65 × (1 + (1 − productivity))~~ was wrong (1.26 vs correct 1/0.74 = **1.35**).
+
+| Scenario | Demand | OC/day | Fits 24? |
+|---|---:|---:|:--:|
+| A. Do nothing (post ill will) | 525 | 10.9 | yes |
+| B. Base forecast | 656 | 13.6 | yes |
+| C. + Rio to 7-cap | 856 | 17.8 | yes |
+| D. + full web rebuild | 1,171 | **24.3** | **no (barely)** |
+| E. + NYC store | 1,571 | **32.7** | **no** |
+
+- Ceiling = **1,154 units** (24 × 0.74 × 65). **CAPACITY IS NOW THE BINDING CONSTRAINT — not demand, not product.**
+- **Idle cash fixes it:** $1,010,838 idle is what Asset Mgmt 0.353 punishes. A 4th printer ≈ **$240,000** (24% of cash) → 32/day / ~1,539 units. Rio+web+NYC needs ~33/day = **2 more printers**.
+- **Ownership is NOT what burned us in Q2.** The $148,652 excess-capacity charge came from **SCHEDULING** unused OC. Ownership costs only depreciation (~$10k/qtr/printer). Q3 proof: owned 24, scheduled 8, paid $0 excess capacity.
+
 ## Q4 sequencing (depth before breadth)
 
 1. **Train the 2 untrained — $800.** Free productivity.
-2. **Fill Rio to 7** (+3: Mtn/Speed/Service) ≈ +200 units, no new lease.
-3. **Rebuild web staff 3 → 6** ≈ +152 units / **+$89,600**/qtr.
-4. **NYC store** (biggest prize, unlocks 7 slots) — enter via **Speed** once Swift Bike = 77.
-- NOT possible: more staff in Amsterdam (capped). NOT priorities: Bangalore vs LiteCycle's 48.6%.
+2. **Fill Rio to 7** (+3: Mtn/Speed/Service) ≈ +200 units, no new lease. Fits capacity easily.
+3. **Full web rebuild: staff 3 → 7 AND fund all 4 tactics (~$28k)** ≈ +315 units / **+$189,800**/qtr.
+4. **Decide printers** — steps 2+3 together need 24.3/day vs 24 owned. Buy 1 printer for slack, 2 if adding NYC.
+5. **NYC store** (biggest prize, unlocks 7 slots) — enter via **Speed** once Swift Bike = 77. Needs printers.
+- NOT possible: more staff in Amsterdam (capped at 7). NOT a priority: Bangalore vs LiteCycle's 48.6%.
 
 ## Channel mix (Q3 actual — `Q3_Channel`)
 

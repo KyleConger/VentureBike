@@ -625,6 +625,99 @@ We field half the Speed coverage of the three leaders in the market's biggest se
 | 5 | New York store, if funded — unlocks 7 fresh slots, staff Speed-heavy | setup + lease + salaries |
 | — | **Not possible:** adding anyone in Amsterdam | at the cap |
 
+---
+
+# Web operations — we run one of four tactics with three of seven staff
+
+Data and analysis: `Q3Data.xlsx` → **Q3_Web_Ops**.
+
+## Web staff is capped at 7 too, and we're at 3
+
+| Company | Sales | Service | Total | Web demand | Per head |
+|---------|------:|--------:|------:|-----------:|---------:|
+| BB LLC | 5 | 2 | **7** | 569 | **81.3** |
+| SpaceBikes | 5 | 2 | **7** | 491 | 70.1 |
+| LiteCycle | 5 | 2 | **7** | 435 | 62.1 |
+| MILC Bikes | 6 | 1 | **7** | 435 | 62.1 |
+| Spoke'd Up | 2 | 1 | 3 | 138 | 46.0 |
+| **WeBike** | **2** | **1** | **3** | **120** | **40.0** |
+| Bike Bros | 0 | 0 | 0 | 0 | — |
+
+Four firms sit exactly at 7, so the web centre carries the **same 7-person ceiling as a store**. Unlike Amsterdam, we're nowhere near it — **four open slots**, and the worst output per head in the industry.
+
+## There are four web productivity tactics. We fund one.
+
+| Tactic | Ours | Industry avg |
+|--------|-----:|-------------:|
+| Toll-free phone advising | **$6,000** | $5,667 |
+| Advanced shopping cart & checkout | **$0** | $7,000 |
+| Continuous page upgrades | **$0** | $6,667 |
+| Order tracking software | **$0** | $8,000 |
+| **Total** | **$6,000** | **$27,500** |
+
+Toll-free is our one good web decision — we raised it from $3,000 and sit above average. But we **stopped** page upgrades in Q3, and we never started shopping cart or order tracking at all.
+
+## The pattern is almost perfectly clean
+
+| Company | Tactics funded | Budget | Web demand |
+|---------|---------------:|-------:|-----------:|
+| BB LLC | 4 | $33,000 | 569 |
+| SpaceBikes | 4 | $33,000 | 491 |
+| LiteCycle | 4 | $29,000 | 435 |
+| MILC Bikes | 4 | $24,000 | 435 |
+| Spoke'd Up | 2 | $9,000 | 138 |
+| **WeBike** | **1** | **$6,000** | **120** |
+
+Every firm funding all four tactics lands at **435–569 web units**. Both firms funding fewer land at **120–138**. Headcount moves together with budget (7 versus 3), so the two effects can't be fully separated — but we are at the bottom of both.
+
+## The full rebuild is worth far more than I first estimated
+
+| | Value |
+|---|---:|
+| Web demand 120 → 435 (cohort floor) | **+315 units** |
+| Gross margin at ~$750 | $236,250 |
+| Cost: +4 web staff for a quarter | −$24,425 |
+| Cost: budget $6,000 → $28,000 | −$22,000 |
+| **Net quarterly gain** | **≈ $189,800** |
+
+This supersedes my earlier estimate of +$89,600, which only modelled matching the average web *mix*. Matching the leaders' web *operation* — staff and tactics together — is worth roughly twice that.
+
+---
+
+# Correction: my capacity formula was wrong, and capacity now binds
+
+I had the Q4 planner computing required operating capacity as `demand / 65 × (1 + (1 − productivity))`. That pad gives 1.26 at 74% productivity when the correct factor is **1 / 0.74 = 1.35**. The right relationship is:
+
+**required OC/day = forecast units / (productivity × 65 days)**
+
+This is precisely the class of arithmetic error that produced Q3's stock-out, so it's now fixed in the planner and documented.
+
+## What that means for Q4
+
+| Scenario | Demand | Required OC/day | Fits in 24/day? |
+|----------|-------:|----------------:|:---------------:|
+| A. Do nothing (627 less 16.3% ill will) | 525 | 10.9 | yes |
+| B. Base forecast | 656 | 13.6 | yes |
+| C. + fill Rio to the 7-cap | 856 | 17.8 | yes |
+| D. + full web rebuild | 1,171 | **24.3** | **no, by a hair** |
+| E. + New York store | 1,571 | **32.7** | **no** |
+
+Our ceiling is **1,154 units** (24/day × 74% × 65 days). Filling Rio fits comfortably. Rio *plus* the full web rebuild lands about 17 units over the ceiling. Adding New York on top would need roughly 33/day — two more printers.
+
+**Capacity, not demand and not product, is now the binding constraint on growth.**
+
+## Idle cash and the capacity ceiling solve each other
+
+We hold **$1,010,838 in idle cash**, which is the direct cause of our last-place Asset Management score of 0.353. A fourth printer costs roughly $240,000 — about 24% of that cash — and lifts capacity to 32/day, or ~1,539 units.
+
+Worth being precise about the risk, because Q2 scared us off capacity: the **$148,652 excess-capacity charge came from *scheduling* operating capacity we didn't use, not from owning printers.** Ownership costs only depreciation (~$10,000 per quarter per printer). Q3 proves the point — we owned 24/day, scheduled 8, and paid zero excess-capacity cost.
+
+So buying capacity converts dead cash into revenue-producing assets and fixes the Asset Management drag at the same time. The sizing question is how far we want to go:
+
+- **Rio + web only:** one additional printer gives comfortable slack
+- **Rio + web + New York:** roughly 33/day, so two more printers
+- **Do nothing:** hard-capped at ~1,154 units
+
 ## Open decisions for Q4
 
 - [ ] Operating capacity + overtime

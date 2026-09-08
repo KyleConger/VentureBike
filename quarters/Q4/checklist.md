@@ -10,9 +10,12 @@ Nothing below is locked. Majority vote required before entry.
 - [ ] Buy **no printers** — we already own BB LLC's 24/day (only NYC would need one)
 
 ## Products & pricing
-- [ ] Swift Bike gears **24-speed → 14-speed** (+3)
-- [ ] Swift Bike **add decals** (+2) → 77, beats BB LLC's Blu Tube at 76
-- [ ] Hike Bike design **unchanged** (73 = industry ceiling)
+Design model re-validated **16 of 16 exact** on every Mountain/Speed brand: `_verify_brand_designs.py`. Swift Bike needs **exactly two** changes; Hike Bike needs **zero**.
+- [ ] Swift Bike gears **24-speed (3×8) → 14-speed (2×7)** (+3)
+- [ ] Swift Bike **add colourful thin brushstroke decals** (+2) → **77** = industry ceiling, beats BB LLC's Blu Tube at 76
+- [ ] Swift Bike: **keep** aero frame · racing tires · precision brakes · basic drop-down bars · polymer gel racing seat · reflectors (+1) · lights (+1) · no carrier · no suspension
+- [ ] **Read the component cost delta on the Design Brand screen** — 14-speed (2×7) should be cheaper than 24-speed (3×8), decals add a little. Net effect unconfirmed (no component price list in our data).
+- [ ] Hike Bike design **unchanged** — 73 of 73. Every identifiable change is negative (reflectors −1, comfort seat −3) or untested (lights, basket, removing decals)
 - [ ] Swift Bike price **$1,450 → $1,580** (BB LLC's exact Speed price, zero resistance)
 - [ ] Hike Bike price **hold $1,365**
 - [ ] Priority unchanged: Hike Bike 1, Swift Bike 2

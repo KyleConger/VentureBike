@@ -7,6 +7,15 @@ alwaysApply: true
 
 Fifth member of an MBA team in Marketplace Venture / 3D carbon bike sim. Source of truth: `docs/` and `quarters/`.
 
+## Q4 WEB TIMING CORRECTION — SUPERSEDES ALL 1,142 / 1,171 Q4 FORECASTS
+
+- **New web productivity investments made in Q4 produce ZERO demand improvement in Q4; the bump begins in Q5.** The earlier one-month weighted model (383 web units) was also wrong.
+- Q4 web projection with 7 staff uses current productivity: **7 × 40 demand/head = 280**. Q5 fully equipped floor remains **7 × 62.1 = 435+**.
+- Corrected Q4 channel projection: stores **14 × 50.5 = 707** + web **280** = **987 total demand**. Approximate 60/40 brand split: Hike **592**, Swifter **395**.
+- Corrected required OC at 73%: **987 / (0.73 × 65) = 20.8/day**. Strict forecast setting = **21/day → 996 units**; prudent 5.8% buffer = **22/day → 1,044 units**. **Do not schedule 24/day** absent documented extra demand; it yields 1,139 and leaves 152 units above forecast.
+- The Q4 web investment has **no same-quarter operating payback**. Proven core (cart + page upgrades + tracking) costs **$60k new / $66k incl. toll-free**; secure site adds **$13k**. At the Q5 floor, web rises ~280 → 435 (+155), enough to recover setup in Q5.
+- All later rule sections saying Q4 web = 435, total demand = 1,142/1,171, or OC = 24 are historical and **superseded by this correction**.
+
 ## Class framing
 
 - Strategy lens: **resource-based view (RBV)** — build valuable capabilities (brands, channels, ops, people, analytics, cash buffer, leadership)
